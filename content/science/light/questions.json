@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "topic": "light",
+  "groups": [],
+  "questions": [
+    {
+      "id": "science-017",
+      "type": "true-false",
+      "question": "透明物体一定不会改变光的传播方向。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "false"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 17
+      },
+      "explanation": "透明材料能透光，但光斜着进入水或玻璃时可能折射，传播方向会改变。"
+    },
+    {
+      "id": "science-018",
+      "type": "true-false",
+      "question": "平面镜中的像与物体大小相同，并关于镜面对称。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 18
+      },
+      "explanation": "平面镜成等大的像。日常说的“左右相反”是面对镜像的观察感受；严格说，像与物体关于镜面对称。"
+    },
+    {
+      "id": "science-019",
+      "type": "true-false",
+      "question": "影子的方向通常与光源所在方向相反。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 19
+      },
+      "explanation": "物体挡住光，背离光源的一侧得不到直接照射，因此影子通常在光源的相反方向。"
+    },
+    {
+      "id": "science-020",
+      "type": "true-false",
+      "question": "太阳位置越高，同一竖直物体在水平地面上的影子通常越短。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 20
+      },
+      "explanation": "太阳越高，光线与地面的夹角越大，同一根竖杆在水平地面上的影子通常越短。"
+    },
+    {
+      "id": "science-056",
+      "type": "single-choice",
+      "question": "下列现象中，主要利用光沿直线传播的是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "潜望镜"
+        },
+        {
+          "id": "b",
+          "text": "影子的形成"
+        },
+        {
+          "id": "c",
+          "text": "放大镜成像"
+        },
+        {
+          "id": "d",
+          "text": "彩虹"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 56
+      },
+      "explanation": "光沿直线传播，遇到不透明物体被挡住，后方形成影子。镜子和透镜主要涉及反射或折射。"
+    },
+    {
+      "id": "science-057",
+      "type": "single-choice",
+      "question": "用镜子改变激光传播方向，主要利用了光的？",
+      "options": [
+        {
+          "id": "a",
+          "text": "反射"
+        },
+        {
+          "id": "b",
+          "text": "蒸发"
+        },
+        {
+          "id": "c",
+          "text": "振动"
+        },
+        {
+          "id": "d",
+          "text": "导热"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 57
+      },
+      "explanation": "镜面把照来的光返回另一方向，这叫反射。实验用光源不可直射眼睛。"
+    },
+    {
+      "id": "science-058",
+      "type": "single-choice",
+      "question": "一束光从空气斜着进入水中，传播方向发生偏折，这种现象叫？",
+      "options": [
+        {
+          "id": "a",
+          "text": "反射"
+        },
+        {
+          "id": "b",
+          "text": "折射"
+        },
+        {
+          "id": "c",
+          "text": "蒸腾"
+        },
+        {
+          "id": "d",
+          "text": "凝结"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 58
+      },
+      "explanation": "光从空气斜着进入水等不同介质时发生偏折，叫折射。"
+    },
+    {
+      "id": "science-059",
+      "type": "single-choice",
+      "question": "要让竖直杆在地面上的影子变短，可以？",
+      "options": [
+        {
+          "id": "a",
+          "text": "降低光源位置"
+        },
+        {
+          "id": "b",
+          "text": "升高光源位置"
+        },
+        {
+          "id": "c",
+          "text": "把杆加长"
+        },
+        {
+          "id": "d",
+          "text": "让光源更远且高度不变"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 59
+      },
+      "explanation": "保持杆和光源的水平位置等条件不变，升高光源会使照射角度变大，影子变短。"
+    },
+    {
+      "id": "science-060",
+      "type": "single-choice",
+      "question": "白光通过三棱镜可分成多种颜色，这说明白光？",
+      "options": [
+        {
+          "id": "a",
+          "text": "只含红光"
+        },
+        {
+          "id": "b",
+          "text": "由多种色光组成"
+        },
+        {
+          "id": "c",
+          "text": "不能传播"
+        },
+        {
+          "id": "d",
+          "text": "没有能量"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 60
+      },
+      "explanation": "三棱镜使不同色光发生不同程度的偏折，把白光中的多种色光分开。"
+    },
+    {
+      "id": "science-129",
+      "type": "multiple-choice",
+      "question": "下列现象与光的反射有关的有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "照镜子"
+        },
+        {
+          "id": "b",
+          "text": "潜望镜"
+        },
+        {
+          "id": "c",
+          "text": "湖面倒影"
+        },
+        {
+          "id": "d",
+          "text": "影子的形成"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 129
+      },
+      "explanation": "镜子、潜望镜的镜面和较平静的湖面都能反射光形成相应现象；影子主要来自光被遮挡。"
+    },
+    {
+      "id": "science-130",
+      "type": "multiple-choice",
+      "question": "下列现象与光的折射有关的有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "水中的筷子看起来弯折"
+        },
+        {
+          "id": "b",
+          "text": "放大镜成像"
+        },
+        {
+          "id": "c",
+          "text": "三棱镜色散"
+        },
+        {
+          "id": "d",
+          "text": "平面镜成像"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 130
+      },
+      "explanation": "筷子看似弯折、透镜成像和棱镜分光都涉及光跨介质时的折射；平面镜成像主要利用反射。"
+    },
+    {
+      "id": "science-131",
+      "type": "multiple-choice",
+      "question": "要比较不同材料透光能力，合理的做法有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "使用相同强度光源"
+        },
+        {
+          "id": "b",
+          "text": "材料厚度尽量相同"
+        },
+        {
+          "id": "c",
+          "text": "测量透过光的强度"
+        },
+        {
+          "id": "d",
+          "text": "每次改变光源和材料厚度"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 131
+      },
+      "explanation": "保持光源强度和材料厚度相近，再测量透过光强，才能较公平地比较材料透光能力。"
+    }
+  ]
+}

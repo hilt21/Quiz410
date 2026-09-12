@@ -1,0 +1,693 @@
+{
+  "schemaVersion": 1,
+  "topic": "electricity",
+  "groups": [
+    {
+      "id": "scenario-07",
+      "title": "情境七：简易电磁铁",
+      "material": [
+        {
+          "type": "text",
+          "text": "小组用相同铁钉和电池测试线圈匝数，记录能吸起的相同回形针的平均数量，每组重复 3 次。"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "线圈匝数",
+            "回形针平均数量 / 个"
+          ],
+          "rows": [
+            [
+              "20",
+              "3"
+            ],
+            [
+              "40",
+              "7"
+            ],
+            [
+              "60",
+              "11"
+            ],
+            [
+              "80",
+              "14"
+            ]
+          ]
+        }
+      ],
+      "questionIds": [
+        "science-191",
+        "science-192",
+        "science-193",
+        "science-194",
+        "science-195"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "science-021",
+      "type": "true-false",
+      "question": "简单电路中，电池、导线、用电器形成闭合通路时，用电器才可能正常工作。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 21
+      },
+      "explanation": "电路形成闭合通路，电流才可能持续通过用电器；还需要电源和连接等条件正常。"
+    },
+    {
+      "id": "science-022",
+      "type": "true-false",
+      "question": "塑料尺和铜丝都属于良好的导体。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "false"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 22
+      },
+      "explanation": "铜丝容易导电，塑料通常不容易导电，因此不能把二者都说成良导体。"
+    },
+    {
+      "id": "science-023",
+      "type": "true-false",
+      "question": "家庭电灯通常采用并联方式，以便彼此独立控制。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 23
+      },
+      "explanation": "并联电灯各在自己的支路上，一个支路开关断开时，其他支路仍可保持通路。"
+    },
+    {
+      "id": "science-024",
+      "type": "true-false",
+      "question": "在简单串联电路中增加相同灯泡，灯泡通常会比原来更亮。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "false"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 24
+      },
+      "explanation": "电源不变时，串联增加灯泡通常会使电流减小，各灯泡通常变暗而不是变亮。"
+    },
+    {
+      "id": "science-025",
+      "type": "true-false",
+      "question": "磁铁无论从哪里折断，都可能形成新的南北两极。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 25
+      },
+      "explanation": "普通磁铁折成小段后，各段仍具有南北两极，不能靠折断得到单独一个磁极。"
+    },
+    {
+      "id": "science-026",
+      "type": "true-false",
+      "question": "条形磁铁两端附近磁性通常最强。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 26
+      },
+      "explanation": "条形磁铁的磁极在两端附近，那里通常能吸起较多铁屑，表现出较强磁性。"
+    },
+    {
+      "id": "science-061",
+      "type": "single-choice",
+      "question": "下列材料最适合作为台灯电线外层包皮的是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "铜"
+        },
+        {
+          "id": "b",
+          "text": "铝"
+        },
+        {
+          "id": "c",
+          "text": "塑料"
+        },
+        {
+          "id": "d",
+          "text": "铁"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 61
+      },
+      "explanation": "塑料通常是绝缘体，可以把导电金属芯包住，减少人体接触带电部分的机会。"
+    },
+    {
+      "id": "science-062",
+      "type": "single-choice",
+      "question": "用电池、导线和小灯泡组成电路，小灯泡不亮。首先应检查？",
+      "options": [
+        {
+          "id": "a",
+          "text": "电路是否闭合、连接是否可靠"
+        },
+        {
+          "id": "b",
+          "text": "桌子颜色"
+        },
+        {
+          "id": "c",
+          "text": "空气湿度是否为零"
+        },
+        {
+          "id": "d",
+          "text": "灯泡是否发声"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 62
+      },
+      "explanation": "连接松动或电路断开会使电流无法通过灯泡，应先检查通路与接触是否可靠。"
+    },
+    {
+      "id": "science-063",
+      "type": "single-choice",
+      "question": "串联电路中一个灯泡损坏断路，其他灯泡通常会？",
+      "options": [
+        {
+          "id": "a",
+          "text": "更亮"
+        },
+        {
+          "id": "b",
+          "text": "继续正常亮"
+        },
+        {
+          "id": "c",
+          "text": "也熄灭"
+        },
+        {
+          "id": "d",
+          "text": "变成电池"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 63
+      },
+      "explanation": "串联电路只有一条通路，一个灯泡断路会切断整条通路，其他灯泡也熄灭。"
+    },
+    {
+      "id": "science-064",
+      "type": "single-choice",
+      "question": "并联电路中一个支路灯泡熄灭，其他支路灯泡通常？",
+      "options": [
+        {
+          "id": "a",
+          "text": "也全部熄灭"
+        },
+        {
+          "id": "b",
+          "text": "仍可工作"
+        },
+        {
+          "id": "c",
+          "text": "一定爆炸"
+        },
+        {
+          "id": "d",
+          "text": "变成串联"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 64
+      },
+      "explanation": "并联各支路具有各自通路，一个支路断开通常不会切断其他支路的电流。"
+    },
+    {
+      "id": "science-065",
+      "type": "single-choice",
+      "question": "检测一种材料是否导电，合理的方法是把它？",
+      "options": [
+        {
+          "id": "a",
+          "text": "接入闭合测试电路中观察灯泡或电流表"
+        },
+        {
+          "id": "b",
+          "text": "放在水里看是否下沉"
+        },
+        {
+          "id": "c",
+          "text": "拿到阳光下观察颜色"
+        },
+        {
+          "id": "d",
+          "text": "称质量"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 65
+      },
+      "explanation": "将材料接入低压测试电路，观察是否有电流通过，才能直接检验导电性；沉浮和颜色不能代替检测。"
+    },
+    {
+      "id": "science-066",
+      "type": "single-choice",
+      "question": "电磁铁与普通磁铁相比，一个重要特点是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "断电后磁性可明显减弱或消失"
+        },
+        {
+          "id": "b",
+          "text": "永远只有一个磁极"
+        },
+        {
+          "id": "c",
+          "text": "不能吸铁"
+        },
+        {
+          "id": "d",
+          "text": "不需要导线"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 66
+      },
+      "explanation": "电磁铁的磁性来自电流的作用，断电后通常明显减弱或消失，因此便于控制。"
+    },
+    {
+      "id": "science-067",
+      "type": "single-choice",
+      "question": "要增强简易电磁铁的磁性，在安全范围内通常可以？",
+      "options": [
+        {
+          "id": "a",
+          "text": "减少线圈匝数"
+        },
+        {
+          "id": "b",
+          "text": "增加线圈匝数"
+        },
+        {
+          "id": "c",
+          "text": "换成塑料芯"
+        },
+        {
+          "id": "d",
+          "text": "切断电路"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 67
+      },
+      "explanation": "在电流等条件合适且安全时，增加线圈匝数通常能增强磁性；断电会削弱磁性。"
+    },
+    {
+      "id": "science-132",
+      "type": "multiple-choice",
+      "question": "闭合简单电路通常需要？",
+      "options": [
+        {
+          "id": "a",
+          "text": "电源"
+        },
+        {
+          "id": "b",
+          "text": "导线"
+        },
+        {
+          "id": "c",
+          "text": "用电器或负载"
+        },
+        {
+          "id": "d",
+          "text": "形成完整通路"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 132
+      },
+      "explanation": "安全的简单工作电路需要电源、导线和负载连成完整通路；不能用导线直接短接电源。"
+    },
+    {
+      "id": "science-133",
+      "type": "multiple-choice",
+      "question": "下列物质通常可作为绝缘材料的有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "塑料"
+        },
+        {
+          "id": "b",
+          "text": "干燥木材"
+        },
+        {
+          "id": "c",
+          "text": "橡胶"
+        },
+        {
+          "id": "d",
+          "text": "铜"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 133
+      },
+      "explanation": "塑料、橡胶和干燥木材通常不容易导电，铜容易导电。木材受潮后不能按干燥状态判断绝缘性。"
+    },
+    {
+      "id": "science-134",
+      "type": "multiple-choice",
+      "question": "并联电路相对串联电路常见特点有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "存在多条支路"
+        },
+        {
+          "id": "b",
+          "text": "支路可较独立工作"
+        },
+        {
+          "id": "c",
+          "text": "一个支路断开不一定影响其他支路"
+        },
+        {
+          "id": "d",
+          "text": "任何情况下都只有一条电流路径"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 134
+      },
+      "explanation": "并联有多条支路，各支路可较独立工作，一个支路断开通常不影响其他支路，并非只有一条路径。"
+    },
+    {
+      "id": "science-135",
+      "type": "multiple-choice",
+      "question": "增强电磁铁磁性的可能方法有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "增加线圈匝数"
+        },
+        {
+          "id": "b",
+          "text": "在安全范围内增大电流"
+        },
+        {
+          "id": "c",
+          "text": "加入合适铁芯"
+        },
+        {
+          "id": "d",
+          "text": "断开电源"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 135
+      },
+      "explanation": "电流、匝数和铁芯都可能影响电磁铁强弱，应在安全条件下分别检验；断电通常使磁性减弱。"
+    },
+    {
+      "id": "science-191",
+      "type": "single-choice",
+      "question": "数据表明在线圈匝数增加的范围内，吸起回形针数量总体？",
+      "options": [
+        {
+          "id": "a",
+          "text": "增加"
+        },
+        {
+          "id": "b",
+          "text": "减少"
+        },
+        {
+          "id": "c",
+          "text": "不变"
+        },
+        {
+          "id": "d",
+          "text": "完全随机"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 191
+      },
+      "explanation": "匝数从20增至80时，回形针平均数量从3增至7、11、14个，所以在本次测试范围内总体增加。"
+    },
+    {
+      "id": "science-192",
+      "type": "single-choice",
+      "question": "线圈匝数是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "自变量"
+        },
+        {
+          "id": "b",
+          "text": "因变量"
+        },
+        {
+          "id": "c",
+          "text": "控制变量"
+        },
+        {
+          "id": "d",
+          "text": "误差"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 192
+      },
+      "explanation": "研究者主动设置不同匝数，因而匝数是自变量，回形针数量是观察到的结果。"
+    },
+    {
+      "id": "science-193",
+      "type": "single-choice",
+      "question": "吸起回形针数量可用来间接表示？",
+      "options": [
+        {
+          "id": "a",
+          "text": "电磁铁磁性强弱"
+        },
+        {
+          "id": "b",
+          "text": "铁钉颜色"
+        },
+        {
+          "id": "c",
+          "text": "电池质量"
+        },
+        {
+          "id": "d",
+          "text": "导线长度单位"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 193
+      },
+      "explanation": "在回形针相同、测试方式一致时，能吸起更多回形针通常说明磁性更强，这是用可数的现象间接比较磁性。"
+    },
+    {
+      "id": "science-194",
+      "type": "single-choice",
+      "question": "若80匝组电池已明显发热、电压下降，继续增加到100匝时预测应？",
+      "options": [
+        {
+          "id": "a",
+          "text": "保持谨慎，关系可能不再按原趋势增长"
+        },
+        {
+          "id": "b",
+          "text": "一定线性增加到18个"
+        },
+        {
+          "id": "c",
+          "text": "一定变成0"
+        },
+        {
+          "id": "d",
+          "text": "不用实验即可断言"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 194
+      },
+      "explanation": "电池状态变化会影响电流，原来的趋势可能不再适用。明显发热时应停止通电，排查后再安全测试。"
+    },
+    {
+      "id": "science-195",
+      "type": "single-choice",
+      "question": "为了比较匝数影响，应控制？",
+      "options": [
+        {
+          "id": "a",
+          "text": "铁钉、电池条件、导线材料等"
+        },
+        {
+          "id": "b",
+          "text": "线圈匝数"
+        },
+        {
+          "id": "c",
+          "text": "吸起数量"
+        },
+        {
+          "id": "d",
+          "text": "所有条件都随机"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 195
+      },
+      "explanation": "铁钉、电池状态和导线材料也会影响磁性，应尽量保持一致，才能比较线圈匝数的作用。"
+    }
+  ]
+}

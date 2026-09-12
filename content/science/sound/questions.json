@@ -1,0 +1,597 @@
+{
+  "schemaVersion": 1,
+  "topic": "sound",
+  "groups": [
+    {
+      "id": "scenario-01",
+      "title": "情境一：橡皮筋乐器",
+      "material": [
+        {
+          "type": "text",
+          "text": "小组用同一种橡皮筋制作简易“弦乐器”。保持橡皮筋粗细相同，改变有效振动长度，并以相同方式拨动，测得下面的数据。"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "长度 / cm",
+            "频率 / Hz"
+          ],
+          "rows": [
+            [
+              "8",
+              "240"
+            ],
+            [
+              "12",
+              "180"
+            ],
+            [
+              "16",
+              "145"
+            ],
+            [
+              "20",
+              "120"
+            ]
+          ]
+        }
+      ],
+      "questionIds": [
+        "science-161",
+        "science-162",
+        "science-163",
+        "science-164",
+        "science-165"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "science-001",
+      "type": "true-false",
+      "question": "声音由物体振动产生。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 1
+      },
+      "explanation": "物体振动会带动周围介质振动，形成声音。例如拨动橡皮筋时，它一边振动一边发声。"
+    },
+    {
+      "id": "science-002",
+      "type": "true-false",
+      "question": "物体振动得越快，发出的声音音调通常越高。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 2
+      },
+      "explanation": "振动快慢用频率表示；每秒振动次数越多，频率越高，音调通常越高。"
+    },
+    {
+      "id": "science-003",
+      "type": "true-false",
+      "question": "声音越响，说明发声体的振动频率一定越高。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "false"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 3
+      },
+      "explanation": "响度主要与振幅有关，音调主要与频率有关。声音变响不等于音调变高。"
+    },
+    {
+      "id": "science-004",
+      "type": "true-false",
+      "question": "声音能够在空气、水和金属中传播。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 4
+      },
+      "explanation": "空气、水和金属都能传递振动，因此气体、液体和固体都可以传播声音。"
+    },
+    {
+      "id": "science-005",
+      "type": "true-false",
+      "question": "在真空中也能像在空气中一样听到声音。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "false"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 5
+      },
+      "explanation": "声音传播需要介质。真空中没有可传声的介质，所以声音不能像在空气中那样传播。"
+    },
+    {
+      "id": "science-006",
+      "type": "true-false",
+      "question": "同一根橡皮筋拉得更紧后拨动，音调通常会升高。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 6
+      },
+      "explanation": "在其他条件相近时，橡皮筋拉得更紧，振动通常更快，因此音调升高。"
+    },
+    {
+      "id": "science-041",
+      "type": "single-choice",
+      "question": "用手轻按正在发声的音叉，声音很快减弱，最直接说明声音与什么有关？",
+      "options": [
+        {
+          "id": "a",
+          "text": "温度"
+        },
+        {
+          "id": "b",
+          "text": "振动"
+        },
+        {
+          "id": "c",
+          "text": "颜色"
+        },
+        {
+          "id": "d",
+          "text": "形状"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 41
+      },
+      "explanation": "手按住音叉会减弱它的振动，同时声音减弱，直接说明发声与振动有关。"
+    },
+    {
+      "id": "science-042",
+      "type": "single-choice",
+      "question": "想让同一根吉他弦发出更高的音，最合理的方法是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "把弦调得更松"
+        },
+        {
+          "id": "b",
+          "text": "把弦调得更紧"
+        },
+        {
+          "id": "c",
+          "text": "增大拨动幅度"
+        },
+        {
+          "id": "d",
+          "text": "把琴盒涂成黑色"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 42
+      },
+      "explanation": "把同一根弦调紧通常会提高振动频率，使音调升高；增大拨动幅度主要影响响度。"
+    },
+    {
+      "id": "science-043",
+      "type": "single-choice",
+      "question": "把耳朵贴在长桌一端，同学在另一端轻敲桌面，常能较清楚听到敲击声，这主要说明？",
+      "options": [
+        {
+          "id": "a",
+          "text": "固体可以传播声音"
+        },
+        {
+          "id": "b",
+          "text": "桌子能自己发光"
+        },
+        {
+          "id": "c",
+          "text": "声音不需要介质"
+        },
+        {
+          "id": "d",
+          "text": "空气不能传播声音"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 43
+      },
+      "explanation": "敲击产生的振动可以沿桌子传到耳朵，说明固体能够传声，并不表示空气不能传声。"
+    },
+    {
+      "id": "science-044",
+      "type": "single-choice",
+      "question": "研究“橡皮筋长度对音调的影响”，应当保持不变的是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "橡皮筋有效振动长度"
+        },
+        {
+          "id": "b",
+          "text": "橡皮筋粗细和张力"
+        },
+        {
+          "id": "c",
+          "text": "音调"
+        },
+        {
+          "id": "d",
+          "text": "实验结论"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 44
+      },
+      "explanation": "要单独研究弦长，就改变有效振动长度，并保持粗细和张力等其他影响音调的条件相同。"
+    },
+    {
+      "id": "science-045",
+      "type": "single-choice",
+      "question": "测量四种声源的响度时，声音传感器与声源距离不同，会造成的主要问题是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "无法确定声源名称"
+        },
+        {
+          "id": "b",
+          "text": "比较不公平"
+        },
+        {
+          "id": "c",
+          "text": "声音无法传播"
+        },
+        {
+          "id": "d",
+          "text": "传感器一定损坏"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 45
+      },
+      "explanation": "声音传到不同距离时响度可能不同。距离不一致会把距离的影响混入声源比较。"
+    },
+    {
+      "id": "science-121",
+      "type": "multiple-choice",
+      "question": "下列关于声音的说法正确的有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "声音由振动产生"
+        },
+        {
+          "id": "b",
+          "text": "音调与振动快慢有关"
+        },
+        {
+          "id": "c",
+          "text": "响度与振幅有关"
+        },
+        {
+          "id": "d",
+          "text": "真空能很好传声"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 121
+      },
+      "explanation": "声音来自振动，振动频率影响音调，振幅影响响度；真空缺少传声介质，不能良好传声。"
+    },
+    {
+      "id": "science-122",
+      "type": "multiple-choice",
+      "question": "为了保护听力，较好的习惯有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "控制耳机音量"
+        },
+        {
+          "id": "b",
+          "text": "减少持续强噪声暴露"
+        },
+        {
+          "id": "c",
+          "text": "必要时佩戴听力防护"
+        },
+        {
+          "id": "d",
+          "text": "用尖硬物深入耳道清理"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 122
+      },
+      "explanation": "控制音量、缩短强噪声暴露并合理使用防护有助于保护听力；尖硬物深入耳道可能造成损伤。"
+    },
+    {
+      "id": "science-123",
+      "type": "multiple-choice",
+      "question": "研究弦长对音调影响时，需要尽量控制的条件有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "弦的材料"
+        },
+        {
+          "id": "b",
+          "text": "弦的粗细"
+        },
+        {
+          "id": "c",
+          "text": "弦的张力"
+        },
+        {
+          "id": "d",
+          "text": "有效振动长度"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 123
+      },
+      "explanation": "弦长是需要改变的条件，材料、粗细和张力应尽量相同，否则它们也可能改变音调。"
+    },
+    {
+      "id": "science-161",
+      "type": "single-choice",
+      "question": "根据数据，橡皮筋有效长度增加时，频率总体如何变化？",
+      "options": [
+        {
+          "id": "a",
+          "text": "增大"
+        },
+        {
+          "id": "b",
+          "text": "减小"
+        },
+        {
+          "id": "c",
+          "text": "完全不变"
+        },
+        {
+          "id": "d",
+          "text": "先增后减"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 161
+      },
+      "explanation": "有效长度从8 cm增加到20 cm时，频率依次为240、180、145、120 Hz，一直在减小。"
+    },
+    {
+      "id": "science-162",
+      "type": "single-choice",
+      "question": "频率更高时，人耳听到的音调通常？",
+      "options": [
+        {
+          "id": "a",
+          "text": "更高"
+        },
+        {
+          "id": "b",
+          "text": "更低"
+        },
+        {
+          "id": "c",
+          "text": "更响"
+        },
+        {
+          "id": "d",
+          "text": "完全听不到"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 162
+      },
+      "explanation": "频率是每秒振动次数，频率更高通常对应更高音调，不等于声音更响。"
+    },
+    {
+      "id": "science-163",
+      "type": "single-choice",
+      "question": "本实验的自变量是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "橡皮筋有效长度"
+        },
+        {
+          "id": "b",
+          "text": "振动频率"
+        },
+        {
+          "id": "c",
+          "text": "橡皮筋材料"
+        },
+        {
+          "id": "d",
+          "text": "拨动方式"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 163
+      },
+      "explanation": "研究者主动设置了8、12、16、20 cm的有效长度，所以有效长度是自变量，频率是测量结果。"
+    },
+    {
+      "id": "science-164",
+      "type": "single-choice",
+      "question": "如果不同长度下拨动幅度差异很大，最可能影响比较中的哪一项？",
+      "options": [
+        {
+          "id": "a",
+          "text": "响度"
+        },
+        {
+          "id": "b",
+          "text": "长度"
+        },
+        {
+          "id": "c",
+          "text": "材料名称"
+        },
+        {
+          "id": "d",
+          "text": "尺子刻度"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 164
+      },
+      "explanation": "拨动幅度主要影响振幅，振幅不同会使响度不同；长度和材料名称不会因此改变。"
+    },
+    {
+      "id": "science-165",
+      "type": "single-choice",
+      "question": "想进一步建立“长度与频率”的预测模型，最有价值的下一步是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "增加更多长度点并重复测量"
+        },
+        {
+          "id": "b",
+          "text": "只保留8 cm数据"
+        },
+        {
+          "id": "c",
+          "text": "改变橡皮筋材料和长度同时测试"
+        },
+        {
+          "id": "d",
+          "text": "不再记录频率"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 165
+      },
+      "explanation": "增加长度测量点有助于看清关系形状，重复测量可检查波动，两者都能提高预测模型的可信度。"
+    }
+  ]
+}

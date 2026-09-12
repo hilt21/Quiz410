@@ -1,0 +1,711 @@
+{
+  "schemaVersion": 1,
+  "topic": "heat",
+  "groups": [
+    {
+      "id": "scenario-04",
+      "title": "情境四：保温材料",
+      "material": [
+        {
+          "type": "text",
+          "text": "四个相同杯子装入相同质量、相同初温的热水，外部分别包裹不同材料。20 分钟后测量水温，室温约 24℃。"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "包裹材料",
+            "20 分钟后水温 / ℃"
+          ],
+          "rows": [
+            [
+              "棉花",
+              "63"
+            ],
+            [
+              "泡沫塑料",
+              "66"
+            ],
+            [
+              "铝箔",
+              "58"
+            ],
+            [
+              "无包裹",
+              "55"
+            ]
+          ]
+        }
+      ],
+      "questionIds": [
+        "science-176",
+        "science-177",
+        "science-178",
+        "science-179",
+        "science-180"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "science-027",
+      "type": "true-false",
+      "question": "加热同样质量的水和食用油，相同时间后的温度变化一定完全相同。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "false"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 27
+      },
+      "explanation": "水和油升高相同温度所需的热量不同，即使质量相同、加热时间相同，温度变化也不一定相同。"
+    },
+    {
+      "id": "science-028",
+      "type": "true-false",
+      "question": "热通常从温度较高的物体传向温度较低的物体。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 28
+      },
+      "explanation": "存在温度差时，热通常从较热的物体传向较冷的物体，直到温度趋于相同。"
+    },
+    {
+      "id": "science-029",
+      "type": "true-false",
+      "question": "金属勺比木勺更容易把热传到手上。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 29
+      },
+      "explanation": "金属通常比木材导热快，所以热汤中的金属勺更容易把热传到手上。"
+    },
+    {
+      "id": "science-030",
+      "type": "true-false",
+      "question": "水沸腾以后继续加热，只要气压基本不变，水温会一直快速升高。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "false"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 30
+      },
+      "explanation": "气压基本不变时，水沸腾后的温度基本保持在沸点，继续吸收的热量主要用于变成水蒸气。"
+    },
+    {
+      "id": "science-068",
+      "type": "single-choice",
+      "question": "把一杯热水和一杯冷水放在同一房间较长时间，最终它们温度都会接近？",
+      "options": [
+        {
+          "id": "a",
+          "text": "0℃"
+        },
+        {
+          "id": "b",
+          "text": "房间温度"
+        },
+        {
+          "id": "c",
+          "text": "100℃"
+        },
+        {
+          "id": "d",
+          "text": "太阳表面温度"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 68
+      },
+      "explanation": "热水向环境放热，冷水从环境吸热，放置足够久后都趋近房间温度。"
+    },
+    {
+      "id": "science-069",
+      "type": "single-choice",
+      "question": "保温杯常使用双层结构，主要目的是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "加快热传递"
+        },
+        {
+          "id": "b",
+          "text": "减慢热传递"
+        },
+        {
+          "id": "c",
+          "text": "增加声音传播"
+        },
+        {
+          "id": "d",
+          "text": "增大浮力"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 69
+      },
+      "explanation": "双层结构中的空气或真空等隔层能减少热交换，保温的关键是减慢热传递。"
+    },
+    {
+      "id": "science-070",
+      "type": "single-choice",
+      "question": "湿衣服晒在通风处比密闭处更易干，主要因为通风能？",
+      "options": [
+        {
+          "id": "a",
+          "text": "减慢蒸发"
+        },
+        {
+          "id": "b",
+          "text": "加快水蒸气扩散，从而促进蒸发"
+        },
+        {
+          "id": "c",
+          "text": "让水凝固"
+        },
+        {
+          "id": "d",
+          "text": "让衣服质量增加"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 70
+      },
+      "explanation": "通风能带走衣服附近的水蒸气，使更多液态水继续蒸发，衣服更容易干。"
+    },
+    {
+      "id": "science-071",
+      "type": "single-choice",
+      "question": "水蒸气遇到冷玻璃形成小水滴，这个过程叫？",
+      "options": [
+        {
+          "id": "a",
+          "text": "蒸发"
+        },
+        {
+          "id": "b",
+          "text": "沸腾"
+        },
+        {
+          "id": "c",
+          "text": "凝结"
+        },
+        {
+          "id": "d",
+          "text": "熔化"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 71
+      },
+      "explanation": "水蒸气由气态变成液态小水滴叫凝结，与液态水变成水蒸气的蒸发相反。"
+    },
+    {
+      "id": "science-072",
+      "type": "single-choice",
+      "question": "比较金属、木材、泡沫的导热能力，最合理的设计是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "长度厚度尽量相同，一端同时受热，比较另一端升温"
+        },
+        {
+          "id": "b",
+          "text": "每种材料长度完全不同"
+        },
+        {
+          "id": "c",
+          "text": "只看颜色"
+        },
+        {
+          "id": "d",
+          "text": "只称质量"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 72
+      },
+      "explanation": "长度、厚度和加热方式一致，才能主要比较材料本身导热快慢，观察另一端升温是可测指标。"
+    },
+    {
+      "id": "science-073",
+      "type": "single-choice",
+      "question": "下列变化中通常属于可逆的物理变化的是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "纸燃烧"
+        },
+        {
+          "id": "b",
+          "text": "铁生锈"
+        },
+        {
+          "id": "c",
+          "text": "冰融化再结冰"
+        },
+        {
+          "id": "d",
+          "text": "鸡蛋煮熟"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 73
+      },
+      "explanation": "冰融化后仍是水，冷却还能结冰，没有生成新物质，属于可逆的物理变化。"
+    },
+    {
+      "id": "science-074",
+      "type": "single-choice",
+      "question": "糖溶解在水中后看不见了，最合理的说法是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "糖消失了"
+        },
+        {
+          "id": "b",
+          "text": "糖变成空气"
+        },
+        {
+          "id": "c",
+          "text": "糖以微小粒子分散在水中"
+        },
+        {
+          "id": "d",
+          "text": "糖变成光"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 74
+      },
+      "explanation": "糖没有消失，而是以微小粒子分散在水中，形成糖水。"
+    },
+    {
+      "id": "science-075",
+      "type": "single-choice",
+      "question": "相同条件下，想研究搅拌是否加快糖溶解，实验中应改变？",
+      "options": [
+        {
+          "id": "a",
+          "text": "糖的种类"
+        },
+        {
+          "id": "b",
+          "text": "是否搅拌"
+        },
+        {
+          "id": "c",
+          "text": "水量和水温同时改变"
+        },
+        {
+          "id": "d",
+          "text": "杯子颜色"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 75
+      },
+      "explanation": "待研究的条件是搅拌，因此只改变是否搅拌，糖、水量和水温等保持一致。"
+    },
+    {
+      "id": "science-136",
+      "type": "multiple-choice",
+      "question": "下列属于热传递现象的有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "热汤把勺子加热"
+        },
+        {
+          "id": "b",
+          "text": "阳光晒暖地面"
+        },
+        {
+          "id": "c",
+          "text": "暖气使空气形成对流"
+        },
+        {
+          "id": "d",
+          "text": "磁铁吸铁钉"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 136
+      },
+      "explanation": "热汤到勺子是导热，太阳晒暖地面涉及辐射，暖气带动热空气流动涉及对流；磁铁吸钉不是热传递。"
+    },
+    {
+      "id": "science-137",
+      "type": "multiple-choice",
+      "question": "能减慢热传递的材料或结构有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "泡沫塑料"
+        },
+        {
+          "id": "b",
+          "text": "空气层"
+        },
+        {
+          "id": "c",
+          "text": "棉花"
+        },
+        {
+          "id": "d",
+          "text": "厚铜板"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 137
+      },
+      "explanation": "泡沫、静止空气层和棉花通常能减慢热传递；铜导热较快，通常不是这里优选的隔热材料。"
+    },
+    {
+      "id": "science-138",
+      "type": "multiple-choice",
+      "question": "蒸发速度通常会受到哪些因素影响？",
+      "options": [
+        {
+          "id": "a",
+          "text": "温度"
+        },
+        {
+          "id": "b",
+          "text": "液体表面积"
+        },
+        {
+          "id": "c",
+          "text": "空气流动"
+        },
+        {
+          "id": "d",
+          "text": "液体种类"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 138
+      },
+      "explanation": "温度、暴露面积、空气流动以及液体本身的性质都会影响液体蒸发快慢。"
+    },
+    {
+      "id": "science-139",
+      "type": "multiple-choice",
+      "question": "下列属于物理变化的有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "水结冰"
+        },
+        {
+          "id": "b",
+          "text": "糖溶于水"
+        },
+        {
+          "id": "c",
+          "text": "纸燃烧"
+        },
+        {
+          "id": "d",
+          "text": "水沸腾"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "d"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 139
+      },
+      "explanation": "结冰、溶糖和沸腾没有生成新的物质，属于物理变化；燃烧会生成新物质。"
+    },
+    {
+      "id": "science-140",
+      "type": "multiple-choice",
+      "question": "比较不同温度下糖溶解速度时，应控制的条件有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "糖的质量"
+        },
+        {
+          "id": "b",
+          "text": "水的体积"
+        },
+        {
+          "id": "c",
+          "text": "糖颗粒大小"
+        },
+        {
+          "id": "d",
+          "text": "水温"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 140
+      },
+      "explanation": "水温是主动改变的条件；糖量、水量和颗粒大小也会影响溶解时间，因此应保持相同。"
+    },
+    {
+      "id": "science-176",
+      "type": "single-choice",
+      "question": "保温效果最好的是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "棉花"
+        },
+        {
+          "id": "b",
+          "text": "泡沫塑料"
+        },
+        {
+          "id": "c",
+          "text": "铝箔"
+        },
+        {
+          "id": "d",
+          "text": "无包裹"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 176
+      },
+      "explanation": "初温等条件相同，20分钟后泡沫塑料组仍有66℃，是四组最高温，说明这次测试中它保温最好。"
+    },
+    {
+      "id": "science-177",
+      "type": "single-choice",
+      "question": "本实验的因变量是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "包裹材料"
+        },
+        {
+          "id": "b",
+          "text": "20分钟后的水温"
+        },
+        {
+          "id": "c",
+          "text": "杯子大小"
+        },
+        {
+          "id": "d",
+          "text": "初始水量"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 177
+      },
+      "explanation": "材料是改变的条件，20分钟后的水温是测量结果，因此最终水温是因变量。"
+    },
+    {
+      "id": "science-178",
+      "type": "single-choice",
+      "question": "为了公平比较，应保持一致的条件包括？",
+      "options": [
+        {
+          "id": "a",
+          "text": "杯子、初温、水量、测量时间"
+        },
+        {
+          "id": "b",
+          "text": "包裹材料"
+        },
+        {
+          "id": "c",
+          "text": "最终水温"
+        },
+        {
+          "id": "d",
+          "text": "保温效果"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 178
+      },
+      "explanation": "相同杯子、初温、水量和测量时长能减少额外影响，使水温差异更能反映包裹材料的作用。"
+    },
+    {
+      "id": "science-179",
+      "type": "single-choice",
+      "question": "若铝箔组低于棉花组，能否据此断言“所有金属保温都差”？",
+      "options": [
+        {
+          "id": "a",
+          "text": "能"
+        },
+        {
+          "id": "b",
+          "text": "不能，实验对象和结构有限，结论不能过度推广"
+        },
+        {
+          "id": "c",
+          "text": "一定能，因为金属都一样"
+        },
+        {
+          "id": "d",
+          "text": "数据无意义"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 179
+      },
+      "explanation": "本次只测试特定厚度和结构的铝箔包裹，不能据此判断所有金属、所有保温结构都表现差。"
+    },
+    {
+      "id": "science-180",
+      "type": "single-choice",
+      "question": "若要设计午餐保温盒，除了温度保持，还应评价？",
+      "options": [
+        {
+          "id": "a",
+          "text": "安全、重量、成本、耐用性"
+        },
+        {
+          "id": "b",
+          "text": "只看颜色"
+        },
+        {
+          "id": "c",
+          "text": "只看名称"
+        },
+        {
+          "id": "d",
+          "text": "完全不考虑材料"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 180
+      },
+      "explanation": "午餐盒还需安全接触食物、便于携带、价格适宜并耐用，所以不能只评价保温温度。"
+    }
+  ]
+}

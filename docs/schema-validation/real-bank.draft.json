@@ -1,0 +1,5955 @@
+{
+  "schemaVersion": 1,
+  "topic": "science-training",
+  "groups": [
+    {
+      "id": "scenario-01",
+      "title": "情境一：橡皮筋乐器",
+      "material": [
+        {
+          "type": "text",
+          "text": "小组用同一种橡皮筋制作简易“弦乐器”。他们保持橡皮筋粗细相同，改变有效振动长度，并以相同方式拨动。测得长度分别为 8、12、16、20 cm，对应振动频率约为 240、180、145、120 Hz。"
+        }
+      ],
+      "questionIds": [
+        "science-161",
+        "science-162",
+        "science-163",
+        "science-164",
+        "science-165"
+      ]
+    },
+    {
+      "id": "scenario-02",
+      "title": "情境二：盐水中的鸡蛋",
+      "material": [
+        {
+          "type": "text",
+          "text": "同学把同一个鸡蛋放入不同浓度的盐水中。盐水质量分数为 0%、5%、10%、15% 时，鸡蛋状态依次为“沉底、接近悬浮、悬浮、上浮”。每次液体体积相同、温度接近。"
+        }
+      ],
+      "questionIds": [
+        "science-166",
+        "science-167",
+        "science-168",
+        "science-169",
+        "science-170"
+      ]
+    },
+    {
+      "id": "scenario-03",
+      "title": "情境三：纸飞机优化",
+      "material": [
+        {
+          "type": "text",
+          "text": "三种纸飞机 A、B、C 使用同种纸张。每种由同一位同学在室内投掷 5 次，平均距离分别为 6.2 m、7.5 m、7.1 m。B 的单次结果为 7.4、7.6、7.5、7.5、7.5 m；C 的结果为 4.2、9.8、6.1、8.7、6.7 m。"
+        }
+      ],
+      "questionIds": [
+        "science-171",
+        "science-172",
+        "science-173",
+        "science-174",
+        "science-175"
+      ]
+    },
+    {
+      "id": "scenario-04",
+      "title": "情境四：保温材料",
+      "material": [
+        {
+          "type": "text",
+          "text": "四个相同杯子装入相同质量、相同初温的热水，外部分别包裹棉花、泡沫塑料、铝箔、无包裹。20 分钟后水温分别为 63℃、66℃、58℃、55℃，室温约 24℃。"
+        }
+      ],
+      "questionIds": [
+        "science-176",
+        "science-177",
+        "science-178",
+        "science-179",
+        "science-180"
+      ]
+    },
+    {
+      "id": "scenario-05",
+      "title": "情境五：植物生长与光照",
+      "material": [
+        {
+          "type": "text",
+          "text": "同品种幼苗被分成三组，每组 10 株，水量、土壤和温度相同。每日光照 2 h、6 h、10 h。两周后平均株高分别增加 3.2、6.8、6.5 cm。"
+        }
+      ],
+      "questionIds": [
+        "science-181",
+        "science-182",
+        "science-183",
+        "science-184",
+        "science-185"
+      ]
+    },
+    {
+      "id": "scenario-06",
+      "title": "情境六：小车与斜面",
+      "material": [
+        {
+          "type": "text",
+          "text": "同一辆小车从斜面不同高度由静止释放，斜面底端后的水平滑行距离如下：高度 5、10、15、20 cm，对应距离 42、83、121、158 cm。地面材料相同。"
+        }
+      ],
+      "questionIds": [
+        "science-186",
+        "science-187",
+        "science-188",
+        "science-189",
+        "science-190"
+      ]
+    },
+    {
+      "id": "scenario-07",
+      "title": "情境七：简易电磁铁",
+      "material": [
+        {
+          "type": "text",
+          "text": "小组用相同铁钉和电池测试线圈匝数。20、40、60、80 匝时，能吸起的相同回形针平均数量分别为 3、7、11、14 个。每组重复3次。"
+        }
+      ],
+      "questionIds": [
+        "science-191",
+        "science-192",
+        "science-193",
+        "science-194",
+        "science-195"
+      ]
+    },
+    {
+      "id": "scenario-08",
+      "title": "情境八：校园微气候模型",
+      "material": [
+        {
+          "type": "text",
+          "text": "学生在晴天中午测量校园四处温度：水泥操场 34.5℃、草地 30.2℃、树荫 28.9℃、池塘边 29.7℃。测量高度均为离地1.2 m，使用同一温度计，每处测3次取平均。"
+        }
+      ],
+      "questionIds": [
+        "science-196",
+        "science-197",
+        "science-198",
+        "science-199",
+        "science-200"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "science-001",
+      "type": "true-false",
+      "question": "声音由物体振动产生。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 1
+      }
+    },
+    {
+      "id": "science-002",
+      "type": "true-false",
+      "question": "物体振动得越快，发出的声音音调通常越高。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 2
+      }
+    },
+    {
+      "id": "science-003",
+      "type": "true-false",
+      "question": "声音越响，说明发声体的振动频率一定越高。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "false"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 3
+      }
+    },
+    {
+      "id": "science-004",
+      "type": "true-false",
+      "question": "声音能够在空气、水和金属中传播。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 4
+      }
+    },
+    {
+      "id": "science-005",
+      "type": "true-false",
+      "question": "在真空中也能像在空气中一样听到声音。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "false"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 5
+      }
+    },
+    {
+      "id": "science-006",
+      "type": "true-false",
+      "question": "同一根橡皮筋拉得更紧后拨动，音调通常会升高。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 6
+      }
+    },
+    {
+      "id": "science-007",
+      "type": "true-false",
+      "question": "实验中只改变一个条件，其他条件尽量保持一致，有利于判断因果关系。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 7
+      }
+    },
+    {
+      "id": "science-008",
+      "type": "true-false",
+      "question": "一次实验得到预期结果后，就没有必要再重复。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "false"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 8
+      }
+    },
+    {
+      "id": "science-009",
+      "type": "true-false",
+      "question": "相同物体完全浸没在清水和浓盐水中时，在浓盐水中受到的浮力通常更大。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 9
+      }
+    },
+    {
+      "id": "science-010",
+      "type": "true-false",
+      "question": "物体只要比水重，就一定会沉入水底。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "false"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 10
+      }
+    },
+    {
+      "id": "science-011",
+      "type": "true-false",
+      "question": "铁制大船能浮在水面，与船体中空、排开较多水有关。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 11
+      }
+    },
+    {
+      "id": "science-012",
+      "type": "true-false",
+      "question": "同一物体在水中下沉过程中，若体积和水的性质不变，完全浸没后所受浮力基本不变。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 12
+      }
+    },
+    {
+      "id": "science-013",
+      "type": "true-false",
+      "question": "摩擦力在任何情况下都是有害的，越小越好。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "false"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 13
+      }
+    },
+    {
+      "id": "science-014",
+      "type": "true-false",
+      "question": "物体运动状态发生改变，通常说明它受到了力的作用。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 14
+      }
+    },
+    {
+      "id": "science-015",
+      "type": "true-false",
+      "question": "两个方向相反、大小相等的力作用在静止物体上时，物体一定会加速。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "false"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 15
+      }
+    },
+    {
+      "id": "science-016",
+      "type": "true-false",
+      "question": "降落伞面积增大，通常会增大空气阻力，使下降速度变慢。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 16
+      }
+    },
+    {
+      "id": "science-017",
+      "type": "true-false",
+      "question": "透明物体一定不会改变光的传播方向。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "false"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 17
+      }
+    },
+    {
+      "id": "science-018",
+      "type": "true-false",
+      "question": "平面镜中的像与物体左右相反，但大小相同。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 18
+      }
+    },
+    {
+      "id": "science-019",
+      "type": "true-false",
+      "question": "影子的方向通常与光源所在方向相反。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 19
+      }
+    },
+    {
+      "id": "science-020",
+      "type": "true-false",
+      "question": "太阳位置越高，同一竖直物体在水平地面上的影子通常越短。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 20
+      }
+    },
+    {
+      "id": "science-021",
+      "type": "true-false",
+      "question": "简单电路中，电池、导线、用电器形成闭合通路时，用电器才可能正常工作。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 21
+      }
+    },
+    {
+      "id": "science-022",
+      "type": "true-false",
+      "question": "塑料尺和铜丝都属于良好的导体。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "false"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 22
+      }
+    },
+    {
+      "id": "science-023",
+      "type": "true-false",
+      "question": "家庭电灯通常采用并联方式，以便彼此独立控制。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 23
+      }
+    },
+    {
+      "id": "science-024",
+      "type": "true-false",
+      "question": "在简单串联电路中增加相同灯泡，灯泡通常会比原来更亮。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "false"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 24
+      }
+    },
+    {
+      "id": "science-025",
+      "type": "true-false",
+      "question": "磁铁无论从哪里折断，都可能形成新的南北两极。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 25
+      }
+    },
+    {
+      "id": "science-026",
+      "type": "true-false",
+      "question": "条形磁铁两端附近磁性通常最强。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 26
+      }
+    },
+    {
+      "id": "science-027",
+      "type": "true-false",
+      "question": "加热同样质量的水和食用油，相同时间后的温度变化一定完全相同。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "false"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 27
+      }
+    },
+    {
+      "id": "science-028",
+      "type": "true-false",
+      "question": "热通常从温度较高的物体传向温度较低的物体。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 28
+      }
+    },
+    {
+      "id": "science-029",
+      "type": "true-false",
+      "question": "金属勺比木勺更容易把热传到手上。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 29
+      }
+    },
+    {
+      "id": "science-030",
+      "type": "true-false",
+      "question": "水沸腾以后继续加热，只要气压基本不变，水温会一直快速升高。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "false"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 30
+      }
+    },
+    {
+      "id": "science-031",
+      "type": "true-false",
+      "question": "植物进行光合作用需要光，并会制造有机物。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 31
+      }
+    },
+    {
+      "id": "science-032",
+      "type": "true-false",
+      "question": "一条完整的食物链通常从绿色植物或其他生产者开始。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 32
+      }
+    },
+    {
+      "id": "science-033",
+      "type": "true-false",
+      "question": "生态系统中一种生物数量变化，可能影响多种其他生物。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 33
+      }
+    },
+    {
+      "id": "science-034",
+      "type": "true-false",
+      "question": "种子萌发只需要水，温度和空气完全没有影响。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "false"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 34
+      }
+    },
+    {
+      "id": "science-035",
+      "type": "true-false",
+      "question": "月相变化是地球的影子每天遮挡月球造成的。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "false"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 35
+      }
+    },
+    {
+      "id": "science-036",
+      "type": "true-false",
+      "question": "地球自转与昼夜交替密切相关。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 36
+      }
+    },
+    {
+      "id": "science-037",
+      "type": "true-false",
+      "question": "同一地点一年中正午太阳高度会发生变化。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 37
+      }
+    },
+    {
+      "id": "science-038",
+      "type": "true-false",
+      "question": "天气和气候含义完全相同，都表示某一天的大气状况。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "false"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 38
+      }
+    },
+    {
+      "id": "science-039",
+      "type": "true-false",
+      "question": "一组数据中出现一个明显异常值时，应先检查测量或记录过程，再决定是否舍弃。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 39
+      }
+    },
+    {
+      "id": "science-040",
+      "type": "true-false",
+      "question": "科学模型必须与真实物体在大小、材料和外形上完全一样。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "false"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 40
+      }
+    },
+    {
+      "id": "science-041",
+      "type": "single-choice",
+      "question": "用手轻按正在发声的音叉，声音很快减弱，最直接说明声音与什么有关？",
+      "options": [
+        {
+          "id": "a",
+          "text": "温度"
+        },
+        {
+          "id": "b",
+          "text": "振动"
+        },
+        {
+          "id": "c",
+          "text": "颜色"
+        },
+        {
+          "id": "d",
+          "text": "形状"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 41
+      }
+    },
+    {
+      "id": "science-042",
+      "type": "single-choice",
+      "question": "想让同一根吉他弦发出更高的音，最合理的方法是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "把弦调得更松"
+        },
+        {
+          "id": "b",
+          "text": "把弦调得更紧"
+        },
+        {
+          "id": "c",
+          "text": "增大拨动幅度"
+        },
+        {
+          "id": "d",
+          "text": "把琴盒涂成黑色"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 42
+      }
+    },
+    {
+      "id": "science-043",
+      "type": "single-choice",
+      "question": "把耳朵贴在长桌一端，同学在另一端轻敲桌面，常能较清楚听到敲击声，这主要说明？",
+      "options": [
+        {
+          "id": "a",
+          "text": "固体可以传播声音"
+        },
+        {
+          "id": "b",
+          "text": "桌子能自己发光"
+        },
+        {
+          "id": "c",
+          "text": "声音不需要介质"
+        },
+        {
+          "id": "d",
+          "text": "空气不能传播声音"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 43
+      }
+    },
+    {
+      "id": "science-044",
+      "type": "single-choice",
+      "question": "研究“橡皮筋长度对音调的影响”，应当保持不变的是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "橡皮筋有效振动长度"
+        },
+        {
+          "id": "b",
+          "text": "橡皮筋粗细和张力"
+        },
+        {
+          "id": "c",
+          "text": "音调"
+        },
+        {
+          "id": "d",
+          "text": "实验结论"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 44
+      }
+    },
+    {
+      "id": "science-045",
+      "type": "single-choice",
+      "question": "测量四种声源的响度时，声音传感器与声源距离不同，会造成的主要问题是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "无法确定声源名称"
+        },
+        {
+          "id": "b",
+          "text": "比较不公平"
+        },
+        {
+          "id": "c",
+          "text": "声音无法传播"
+        },
+        {
+          "id": "d",
+          "text": "传感器一定损坏"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 45
+      }
+    },
+    {
+      "id": "science-046",
+      "type": "single-choice",
+      "question": "相同铁块分别完全浸没在清水和盐水中，浮力更大的是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "清水中"
+        },
+        {
+          "id": "b",
+          "text": "盐水中"
+        },
+        {
+          "id": "c",
+          "text": "一样大"
+        },
+        {
+          "id": "d",
+          "text": "无法判断"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 46
+      }
+    },
+    {
+      "id": "science-047",
+      "type": "single-choice",
+      "question": "把一团橡皮泥捏成小球会沉水，捏成中空小船后可能浮起，关键变化是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "橡皮泥质量显著增加"
+        },
+        {
+          "id": "b",
+          "text": "橡皮泥材料改变"
+        },
+        {
+          "id": "c",
+          "text": "整体排水体积和平均密度改变"
+        },
+        {
+          "id": "d",
+          "text": "水的质量变小"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 47
+      }
+    },
+    {
+      "id": "science-048",
+      "type": "single-choice",
+      "question": "判断一个物体在水中最终沉浮，最核心需要比较？",
+      "options": [
+        {
+          "id": "a",
+          "text": "颜色与形状"
+        },
+        {
+          "id": "b",
+          "text": "重力与浮力"
+        },
+        {
+          "id": "c",
+          "text": "温度与声音"
+        },
+        {
+          "id": "d",
+          "text": "硬度与气味"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 48
+      }
+    },
+    {
+      "id": "science-049",
+      "type": "single-choice",
+      "question": "同一木块漂浮在水面。向水中逐渐加盐并充分溶解后，木块露出水面的部分通常会？",
+      "options": [
+        {
+          "id": "a",
+          "text": "增多"
+        },
+        {
+          "id": "b",
+          "text": "减少"
+        },
+        {
+          "id": "c",
+          "text": "不变"
+        },
+        {
+          "id": "d",
+          "text": "先消失"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 49
+      }
+    },
+    {
+      "id": "science-050",
+      "type": "single-choice",
+      "question": "研究“物体浸入水中的体积是否影响浮力”，最合理的实验方法是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "同时改变液体种类和物体"
+        },
+        {
+          "id": "b",
+          "text": "用同一物体改变浸入水中的体积，其他条件保持相同"
+        },
+        {
+          "id": "c",
+          "text": "只改变物体颜色"
+        },
+        {
+          "id": "d",
+          "text": "每次更换不同材料、不同质量的物体"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 50
+      }
+    },
+    {
+      "id": "science-051",
+      "type": "single-choice",
+      "question": "弹簧测力计下挂物体，空气中示数为5 N，完全浸没水中示数为3 N，物体受到浮力约为？",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 N"
+        },
+        {
+          "id": "b",
+          "text": "3 N"
+        },
+        {
+          "id": "c",
+          "text": "5 N"
+        },
+        {
+          "id": "d",
+          "text": "8 N"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 51
+      }
+    },
+    {
+      "id": "science-052",
+      "type": "single-choice",
+      "question": "自行车刹车时，刹车皮紧压轮圈的主要作用是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "减小摩擦"
+        },
+        {
+          "id": "b",
+          "text": "增大摩擦"
+        },
+        {
+          "id": "c",
+          "text": "减小重力"
+        },
+        {
+          "id": "d",
+          "text": "增大浮力"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 52
+      }
+    },
+    {
+      "id": "science-053",
+      "type": "single-choice",
+      "question": "推同一辆小车，推力越大，小车速度变化通常越明显。这说明力可以？",
+      "options": [
+        {
+          "id": "a",
+          "text": "改变物体运动状态"
+        },
+        {
+          "id": "b",
+          "text": "改变物质种类"
+        },
+        {
+          "id": "c",
+          "text": "消除重力"
+        },
+        {
+          "id": "d",
+          "text": "制造质量"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 53
+      }
+    },
+    {
+      "id": "science-054",
+      "type": "single-choice",
+      "question": "研究不同表面对小车滑行距离的影响，最应保持相同的是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "表面材料"
+        },
+        {
+          "id": "b",
+          "text": "小车初速度"
+        },
+        {
+          "id": "c",
+          "text": "滑行距离"
+        },
+        {
+          "id": "d",
+          "text": "实验结果"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 54
+      }
+    },
+    {
+      "id": "science-055",
+      "type": "single-choice",
+      "question": "两个同样的降落伞，只改变伞面面积。若大伞下降更慢，最合理解释是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "大伞重力更小"
+        },
+        {
+          "id": "b",
+          "text": "大伞受到的空气阻力更大"
+        },
+        {
+          "id": "c",
+          "text": "大伞没有重力"
+        },
+        {
+          "id": "d",
+          "text": "空气只推大伞"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 55
+      }
+    },
+    {
+      "id": "science-056",
+      "type": "single-choice",
+      "question": "下列现象中，主要利用光沿直线传播的是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "潜望镜"
+        },
+        {
+          "id": "b",
+          "text": "影子的形成"
+        },
+        {
+          "id": "c",
+          "text": "放大镜成像"
+        },
+        {
+          "id": "d",
+          "text": "彩虹"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 56
+      }
+    },
+    {
+      "id": "science-057",
+      "type": "single-choice",
+      "question": "用镜子改变激光传播方向，主要利用了光的？",
+      "options": [
+        {
+          "id": "a",
+          "text": "反射"
+        },
+        {
+          "id": "b",
+          "text": "蒸发"
+        },
+        {
+          "id": "c",
+          "text": "振动"
+        },
+        {
+          "id": "d",
+          "text": "导热"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 57
+      }
+    },
+    {
+      "id": "science-058",
+      "type": "single-choice",
+      "question": "一束光从空气斜着进入水中，传播方向发生偏折，这种现象叫？",
+      "options": [
+        {
+          "id": "a",
+          "text": "反射"
+        },
+        {
+          "id": "b",
+          "text": "折射"
+        },
+        {
+          "id": "c",
+          "text": "蒸腾"
+        },
+        {
+          "id": "d",
+          "text": "凝结"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 58
+      }
+    },
+    {
+      "id": "science-059",
+      "type": "single-choice",
+      "question": "要让竖直杆在地面上的影子变短，可以？",
+      "options": [
+        {
+          "id": "a",
+          "text": "降低光源位置"
+        },
+        {
+          "id": "b",
+          "text": "升高光源位置"
+        },
+        {
+          "id": "c",
+          "text": "把杆加长"
+        },
+        {
+          "id": "d",
+          "text": "让光源更远且高度不变"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 59
+      }
+    },
+    {
+      "id": "science-060",
+      "type": "single-choice",
+      "question": "白光通过三棱镜可分成多种颜色，这说明白光？",
+      "options": [
+        {
+          "id": "a",
+          "text": "只含红光"
+        },
+        {
+          "id": "b",
+          "text": "由多种色光组成"
+        },
+        {
+          "id": "c",
+          "text": "不能传播"
+        },
+        {
+          "id": "d",
+          "text": "没有能量"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 60
+      }
+    },
+    {
+      "id": "science-061",
+      "type": "single-choice",
+      "question": "下列材料最适合作为台灯电线外层包皮的是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "铜"
+        },
+        {
+          "id": "b",
+          "text": "铝"
+        },
+        {
+          "id": "c",
+          "text": "塑料"
+        },
+        {
+          "id": "d",
+          "text": "铁"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 61
+      }
+    },
+    {
+      "id": "science-062",
+      "type": "single-choice",
+      "question": "用电池、导线和小灯泡组成电路，小灯泡不亮。首先应检查？",
+      "options": [
+        {
+          "id": "a",
+          "text": "电路是否闭合、连接是否可靠"
+        },
+        {
+          "id": "b",
+          "text": "桌子颜色"
+        },
+        {
+          "id": "c",
+          "text": "空气湿度是否为零"
+        },
+        {
+          "id": "d",
+          "text": "灯泡是否发声"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 62
+      }
+    },
+    {
+      "id": "science-063",
+      "type": "single-choice",
+      "question": "串联电路中一个灯泡损坏断路，其他灯泡通常会？",
+      "options": [
+        {
+          "id": "a",
+          "text": "更亮"
+        },
+        {
+          "id": "b",
+          "text": "继续正常亮"
+        },
+        {
+          "id": "c",
+          "text": "也熄灭"
+        },
+        {
+          "id": "d",
+          "text": "变成电池"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 63
+      }
+    },
+    {
+      "id": "science-064",
+      "type": "single-choice",
+      "question": "并联电路中一个支路灯泡熄灭，其他支路灯泡通常？",
+      "options": [
+        {
+          "id": "a",
+          "text": "也全部熄灭"
+        },
+        {
+          "id": "b",
+          "text": "仍可工作"
+        },
+        {
+          "id": "c",
+          "text": "一定爆炸"
+        },
+        {
+          "id": "d",
+          "text": "变成串联"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 64
+      }
+    },
+    {
+      "id": "science-065",
+      "type": "single-choice",
+      "question": "检测一种材料是否导电，合理的方法是把它？",
+      "options": [
+        {
+          "id": "a",
+          "text": "接入闭合测试电路中观察灯泡或电流表"
+        },
+        {
+          "id": "b",
+          "text": "放在水里看是否下沉"
+        },
+        {
+          "id": "c",
+          "text": "拿到阳光下观察颜色"
+        },
+        {
+          "id": "d",
+          "text": "称质量"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 65
+      }
+    },
+    {
+      "id": "science-066",
+      "type": "single-choice",
+      "question": "电磁铁与普通磁铁相比，一个重要特点是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "断电后磁性可明显减弱或消失"
+        },
+        {
+          "id": "b",
+          "text": "永远只有一个磁极"
+        },
+        {
+          "id": "c",
+          "text": "不能吸铁"
+        },
+        {
+          "id": "d",
+          "text": "不需要导线"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 66
+      }
+    },
+    {
+      "id": "science-067",
+      "type": "single-choice",
+      "question": "要增强简易电磁铁的磁性，在安全范围内通常可以？",
+      "options": [
+        {
+          "id": "a",
+          "text": "减少线圈匝数"
+        },
+        {
+          "id": "b",
+          "text": "增加线圈匝数"
+        },
+        {
+          "id": "c",
+          "text": "换成塑料芯"
+        },
+        {
+          "id": "d",
+          "text": "切断电路"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 67
+      }
+    },
+    {
+      "id": "science-068",
+      "type": "single-choice",
+      "question": "把一杯热水和一杯冷水放在同一房间较长时间，最终它们温度都会接近？",
+      "options": [
+        {
+          "id": "a",
+          "text": "0℃"
+        },
+        {
+          "id": "b",
+          "text": "房间温度"
+        },
+        {
+          "id": "c",
+          "text": "100℃"
+        },
+        {
+          "id": "d",
+          "text": "太阳表面温度"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 68
+      }
+    },
+    {
+      "id": "science-069",
+      "type": "single-choice",
+      "question": "保温杯常使用双层结构，主要目的是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "加快热传递"
+        },
+        {
+          "id": "b",
+          "text": "减慢热传递"
+        },
+        {
+          "id": "c",
+          "text": "增加声音传播"
+        },
+        {
+          "id": "d",
+          "text": "增大浮力"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 69
+      }
+    },
+    {
+      "id": "science-070",
+      "type": "single-choice",
+      "question": "湿衣服晒在通风处比密闭处更易干，主要因为通风能？",
+      "options": [
+        {
+          "id": "a",
+          "text": "减慢蒸发"
+        },
+        {
+          "id": "b",
+          "text": "加快水蒸气扩散，从而促进蒸发"
+        },
+        {
+          "id": "c",
+          "text": "让水凝固"
+        },
+        {
+          "id": "d",
+          "text": "让衣服质量增加"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 70
+      }
+    },
+    {
+      "id": "science-071",
+      "type": "single-choice",
+      "question": "水蒸气遇到冷玻璃形成小水滴，这个过程叫？",
+      "options": [
+        {
+          "id": "a",
+          "text": "蒸发"
+        },
+        {
+          "id": "b",
+          "text": "沸腾"
+        },
+        {
+          "id": "c",
+          "text": "凝结"
+        },
+        {
+          "id": "d",
+          "text": "熔化"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 71
+      }
+    },
+    {
+      "id": "science-072",
+      "type": "single-choice",
+      "question": "比较金属、木材、泡沫的导热能力，最合理的设计是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "长度厚度尽量相同，一端同时受热，比较另一端升温"
+        },
+        {
+          "id": "b",
+          "text": "每种材料长度完全不同"
+        },
+        {
+          "id": "c",
+          "text": "只看颜色"
+        },
+        {
+          "id": "d",
+          "text": "只称质量"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 72
+      }
+    },
+    {
+      "id": "science-073",
+      "type": "single-choice",
+      "question": "下列变化中通常属于可逆的物理变化的是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "纸燃烧"
+        },
+        {
+          "id": "b",
+          "text": "铁生锈"
+        },
+        {
+          "id": "c",
+          "text": "冰融化再结冰"
+        },
+        {
+          "id": "d",
+          "text": "鸡蛋煮熟"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 73
+      }
+    },
+    {
+      "id": "science-074",
+      "type": "single-choice",
+      "question": "糖溶解在水中后看不见了，最合理的说法是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "糖消失了"
+        },
+        {
+          "id": "b",
+          "text": "糖变成空气"
+        },
+        {
+          "id": "c",
+          "text": "糖以微小粒子分散在水中"
+        },
+        {
+          "id": "d",
+          "text": "糖变成光"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 74
+      }
+    },
+    {
+      "id": "science-075",
+      "type": "single-choice",
+      "question": "相同条件下，想研究搅拌是否加快糖溶解，实验中应改变？",
+      "options": [
+        {
+          "id": "a",
+          "text": "糖的种类"
+        },
+        {
+          "id": "b",
+          "text": "是否搅拌"
+        },
+        {
+          "id": "c",
+          "text": "水量和水温同时改变"
+        },
+        {
+          "id": "d",
+          "text": "杯子颜色"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 75
+      }
+    },
+    {
+      "id": "science-076",
+      "type": "single-choice",
+      "question": "在“阳光是否影响幼苗生长”的实验中，最需要保持相同的是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "光照条件"
+        },
+        {
+          "id": "b",
+          "text": "幼苗品种、土壤、水量等"
+        },
+        {
+          "id": "c",
+          "text": "实验结果"
+        },
+        {
+          "id": "d",
+          "text": "叶片颜色"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 76
+      }
+    },
+    {
+      "id": "science-077",
+      "type": "single-choice",
+      "question": "若某地区兔数量短期大幅减少，最可能首先受到食物减少影响的是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "鹰"
+        },
+        {
+          "id": "b",
+          "text": "草"
+        },
+        {
+          "id": "c",
+          "text": "太阳"
+        },
+        {
+          "id": "d",
+          "text": "岩石"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 77
+      }
+    },
+    {
+      "id": "science-078",
+      "type": "single-choice",
+      "question": "下列哪项属于动物适应环境的结构特征？",
+      "options": [
+        {
+          "id": "a",
+          "text": "北极熊厚厚的脂肪层"
+        },
+        {
+          "id": "b",
+          "text": "石头很硬"
+        },
+        {
+          "id": "c",
+          "text": "河水向低处流"
+        },
+        {
+          "id": "d",
+          "text": "铁会生锈"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 78
+      }
+    },
+    {
+      "id": "science-079",
+      "type": "single-choice",
+      "question": "研究种子萌发是否需要水，合理的两组实验应主要区别在？",
+      "options": [
+        {
+          "id": "a",
+          "text": "是否提供水"
+        },
+        {
+          "id": "b",
+          "text": "种子种类"
+        },
+        {
+          "id": "c",
+          "text": "温度与光照同时不同"
+        },
+        {
+          "id": "d",
+          "text": "容器大小完全不同"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 79
+      }
+    },
+    {
+      "id": "science-080",
+      "type": "single-choice",
+      "question": "人体吸入空气与呼出空气相比，呼出空气通常？",
+      "options": [
+        {
+          "id": "a",
+          "text": "氧气更多、二氧化碳更少"
+        },
+        {
+          "id": "b",
+          "text": "氧气更少、二氧化碳更多"
+        },
+        {
+          "id": "c",
+          "text": "完全没有氧气"
+        },
+        {
+          "id": "d",
+          "text": "完全没有水蒸气"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 80
+      }
+    },
+    {
+      "id": "science-081",
+      "type": "single-choice",
+      "question": "运动后心跳和呼吸加快，主要为了？",
+      "options": [
+        {
+          "id": "a",
+          "text": "给肌肉提供更多氧气并运走代谢产物"
+        },
+        {
+          "id": "b",
+          "text": "减少血液流动"
+        },
+        {
+          "id": "c",
+          "text": "停止能量供应"
+        },
+        {
+          "id": "d",
+          "text": "降低所有器官活动"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 81
+      }
+    },
+    {
+      "id": "science-082",
+      "type": "single-choice",
+      "question": "地球上昼夜交替最直接与什么运动有关？",
+      "options": [
+        {
+          "id": "a",
+          "text": "地球自转"
+        },
+        {
+          "id": "b",
+          "text": "地球公转"
+        },
+        {
+          "id": "c",
+          "text": "月球自转"
+        },
+        {
+          "id": "d",
+          "text": "太阳绕地球转"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 82
+      }
+    },
+    {
+      "id": "science-083",
+      "type": "single-choice",
+      "question": "一年四季变化与下列哪项关系最密切？",
+      "options": [
+        {
+          "id": "a",
+          "text": "地球公转和地轴倾斜"
+        },
+        {
+          "id": "b",
+          "text": "月球大小变化"
+        },
+        {
+          "id": "c",
+          "text": "地球每天自转"
+        },
+        {
+          "id": "d",
+          "text": "云的颜色"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 83
+      }
+    },
+    {
+      "id": "science-084",
+      "type": "single-choice",
+      "question": "月相从新月到满月再到新月，周期大约是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "一天"
+        },
+        {
+          "id": "b",
+          "text": "一周"
+        },
+        {
+          "id": "c",
+          "text": "约一个月"
+        },
+        {
+          "id": "d",
+          "text": "一年"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 84
+      }
+    },
+    {
+      "id": "science-085",
+      "type": "single-choice",
+      "question": "在同一地点连续记录正午旗杆影长，一个重要用途是研究？",
+      "options": [
+        {
+          "id": "a",
+          "text": "太阳高度随时间的变化"
+        },
+        {
+          "id": "b",
+          "text": "声音强弱"
+        },
+        {
+          "id": "c",
+          "text": "导电能力"
+        },
+        {
+          "id": "d",
+          "text": "植物呼吸"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 85
+      }
+    },
+    {
+      "id": "science-086",
+      "type": "single-choice",
+      "question": "形成风的一个重要原因是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "空气受热不均导致气压差异和空气流动"
+        },
+        {
+          "id": "b",
+          "text": "声音振动"
+        },
+        {
+          "id": "c",
+          "text": "磁铁吸引"
+        },
+        {
+          "id": "d",
+          "text": "月亮发热"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 86
+      }
+    },
+    {
+      "id": "science-087",
+      "type": "single-choice",
+      "question": "天气预报中“降水概率60%”更合理的理解是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "一定下60毫米雨"
+        },
+        {
+          "id": "b",
+          "text": "在给定预报条件下有较大可能出现达到标准的降水"
+        },
+        {
+          "id": "c",
+          "text": "60%的地区一定下雨且另外40%绝不下"
+        },
+        {
+          "id": "d",
+          "text": "今天有60小时下雨"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 87
+      }
+    },
+    {
+      "id": "science-088",
+      "type": "single-choice",
+      "question": "岩石长期受冷热、流水等作用逐渐破碎，这一过程常称为？",
+      "options": [
+        {
+          "id": "a",
+          "text": "风化"
+        },
+        {
+          "id": "b",
+          "text": "光合作用"
+        },
+        {
+          "id": "c",
+          "text": "蒸腾"
+        },
+        {
+          "id": "d",
+          "text": "导电"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 88
+      }
+    },
+    {
+      "id": "science-089",
+      "type": "single-choice",
+      "question": "在科学探究中，“我认为加盐会让鸡蛋更容易浮起”属于？",
+      "options": [
+        {
+          "id": "a",
+          "text": "实验数据"
+        },
+        {
+          "id": "b",
+          "text": "假设或预测"
+        },
+        {
+          "id": "c",
+          "text": "结论"
+        },
+        {
+          "id": "d",
+          "text": "测量工具"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 89
+      }
+    },
+    {
+      "id": "science-090",
+      "type": "single-choice",
+      "question": "一张图表中横轴通常最适合放？",
+      "options": [
+        {
+          "id": "a",
+          "text": "自变量"
+        },
+        {
+          "id": "b",
+          "text": "结论"
+        },
+        {
+          "id": "c",
+          "text": "姓名"
+        },
+        {
+          "id": "d",
+          "text": "答案字母"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 90
+      }
+    },
+    {
+      "id": "science-091",
+      "type": "single-choice",
+      "question": "四次测量长度分别为10.1、10.0、10.2、15.8 cm，其中15.8明显异常。第一步应？",
+      "options": [
+        {
+          "id": "a",
+          "text": "直接删除"
+        },
+        {
+          "id": "b",
+          "text": "检查测量和记录过程"
+        },
+        {
+          "id": "c",
+          "text": "把其他数据都改成15.8"
+        },
+        {
+          "id": "d",
+          "text": "停止实验"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 91
+      }
+    },
+    {
+      "id": "science-092",
+      "type": "single-choice",
+      "question": "为了提高实验结果可靠性，常用的方法是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "只测一次"
+        },
+        {
+          "id": "b",
+          "text": "重复测量并取平均或比较重复结果"
+        },
+        {
+          "id": "c",
+          "text": "只记录最喜欢的数据"
+        },
+        {
+          "id": "d",
+          "text": "改变多个条件"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 92
+      }
+    },
+    {
+      "id": "science-093",
+      "type": "single-choice",
+      "question": "同学研究水温对糖溶解速度的影响，最合适的因变量是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "水温"
+        },
+        {
+          "id": "b",
+          "text": "糖完全溶解所需时间"
+        },
+        {
+          "id": "c",
+          "text": "杯子材料"
+        },
+        {
+          "id": "d",
+          "text": "糖的种类"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 93
+      }
+    },
+    {
+      "id": "science-094",
+      "type": "single-choice",
+      "question": "某实验得到“水温越高，糖溶解越快”的结果。这里“越快”最好用什么量表示？",
+      "options": [
+        {
+          "id": "a",
+          "text": "糖的颜色"
+        },
+        {
+          "id": "b",
+          "text": "溶解所需时间更短"
+        },
+        {
+          "id": "c",
+          "text": "杯子更大"
+        },
+        {
+          "id": "d",
+          "text": "声音更响"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 94
+      }
+    },
+    {
+      "id": "science-095",
+      "type": "single-choice",
+      "question": "制作太阳系模型时，把行星大小和距离都按真实比例缩小到同一张A4纸上非常困难。合理做法是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "放弃模型"
+        },
+        {
+          "id": "b",
+          "text": "明确模型目的，对大小和距离采用不同尺度并标注"
+        },
+        {
+          "id": "c",
+          "text": "随意画且不说明"
+        },
+        {
+          "id": "d",
+          "text": "把所有行星画一样大"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 95
+      }
+    },
+    {
+      "id": "science-096",
+      "type": "single-choice",
+      "question": "模型预测与新实验结果不一致时，科学上较合理的做法是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "坚持模型永远正确"
+        },
+        {
+          "id": "b",
+          "text": "检查数据并修改模型或假设"
+        },
+        {
+          "id": "c",
+          "text": "删除实验结果"
+        },
+        {
+          "id": "d",
+          "text": "停止记录"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 96
+      }
+    },
+    {
+      "id": "science-097",
+      "type": "single-choice",
+      "question": "用小球和弹簧模拟分子结构时，小球与弹簧分别代表原子和化学键。这体现模型的什么特点？",
+      "options": [
+        {
+          "id": "a",
+          "text": "完全复制现实"
+        },
+        {
+          "id": "b",
+          "text": "用简化元素表示关键关系"
+        },
+        {
+          "id": "c",
+          "text": "模型必须能吃能喝"
+        },
+        {
+          "id": "d",
+          "text": "模型不能修改"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 97
+      }
+    },
+    {
+      "id": "science-098",
+      "type": "single-choice",
+      "question": "比较两种纸飞机设计，想判断哪种飞得更远，公平实验中每种设计应？",
+      "options": [
+        {
+          "id": "a",
+          "text": "只飞一次"
+        },
+        {
+          "id": "b",
+          "text": "由同一人用尽量一致方式多次投掷并记录"
+        },
+        {
+          "id": "c",
+          "text": "在不同风力下比较"
+        },
+        {
+          "id": "d",
+          "text": "一个室内一个室外"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 98
+      }
+    },
+    {
+      "id": "science-099",
+      "type": "single-choice",
+      "question": "工程设计中，第一次原型测试失败后最合理的下一步是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "宣布项目结束"
+        },
+        {
+          "id": "b",
+          "text": "根据证据找原因并改进设计"
+        },
+        {
+          "id": "c",
+          "text": "隐藏失败"
+        },
+        {
+          "id": "d",
+          "text": "随机更换所有零件"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 99
+      }
+    },
+    {
+      "id": "science-100",
+      "type": "single-choice",
+      "question": "某桥梁模型承重测试中，A承重8 kg、B承重10 kg、C承重9 kg，但B使用材料是A的两倍。若目标强调“单位材料承重效率”，应优先比较？",
+      "options": [
+        {
+          "id": "a",
+          "text": "总承重"
+        },
+        {
+          "id": "b",
+          "text": "承重与材料用量的比值"
+        },
+        {
+          "id": "c",
+          "text": "模型颜色"
+        },
+        {
+          "id": "d",
+          "text": "搭建者姓名"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 100
+      }
+    },
+    {
+      "id": "science-101",
+      "type": "single-choice",
+      "question": "在表格中记录“温度/℃：20,30,40,50；溶解时间/s：80,60,42,31”，最合理结论是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "温度越高，溶解时间总体越短"
+        },
+        {
+          "id": "b",
+          "text": "温度越高，溶解时间越长"
+        },
+        {
+          "id": "c",
+          "text": "二者无关系"
+        },
+        {
+          "id": "d",
+          "text": "温度等于时间"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 101
+      }
+    },
+    {
+      "id": "science-102",
+      "type": "single-choice",
+      "question": "研究磁铁与回形针距离对吸力的影响，最合适的自变量是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "回形针数量"
+        },
+        {
+          "id": "b",
+          "text": "磁铁与回形针距离"
+        },
+        {
+          "id": "c",
+          "text": "是否吸住"
+        },
+        {
+          "id": "d",
+          "text": "实验结论"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 102
+      }
+    },
+    {
+      "id": "science-103",
+      "type": "single-choice",
+      "question": "某同学每改变一个变量就立刻改变实验装置其他多个条件，这会导致？",
+      "options": [
+        {
+          "id": "a",
+          "text": "更容易判断因果"
+        },
+        {
+          "id": "b",
+          "text": "难以确定究竟哪个因素造成结果变化"
+        },
+        {
+          "id": "c",
+          "text": "实验一定更准确"
+        },
+        {
+          "id": "d",
+          "text": "不影响结论"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 103
+      }
+    },
+    {
+      "id": "science-104",
+      "type": "single-choice",
+      "question": "为了检验“光照强度影响植物生长速度”，最适合的测量指标是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "每天株高变化或生物量变化"
+        },
+        {
+          "id": "b",
+          "text": "花盆颜色"
+        },
+        {
+          "id": "c",
+          "text": "实验者年龄"
+        },
+        {
+          "id": "d",
+          "text": "窗户数量"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 104
+      }
+    },
+    {
+      "id": "science-105",
+      "type": "single-choice",
+      "question": "如果一组数据随时间有明显上升趋势，最适合用哪种图表示变化过程？",
+      "options": [
+        {
+          "id": "a",
+          "text": "折线图"
+        },
+        {
+          "id": "b",
+          "text": "仅用一张照片"
+        },
+        {
+          "id": "c",
+          "text": "随机涂色"
+        },
+        {
+          "id": "d",
+          "text": "只写一句话"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 105
+      }
+    },
+    {
+      "id": "science-106",
+      "type": "single-choice",
+      "question": "要比较四种材料吸水能力，最合理的因变量是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "材料名称"
+        },
+        {
+          "id": "b",
+          "text": "相同时间吸收的水质量"
+        },
+        {
+          "id": "c",
+          "text": "水的颜色"
+        },
+        {
+          "id": "d",
+          "text": "实验地点名字"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 106
+      }
+    },
+    {
+      "id": "science-107",
+      "type": "single-choice",
+      "question": "同学提出“叶片越大，蒸腾越快”。为了检验这一说法，首先要把“蒸腾越快”转化为？",
+      "options": [
+        {
+          "id": "a",
+          "text": "可测量指标，例如单位时间失水量"
+        },
+        {
+          "id": "b",
+          "text": "更漂亮"
+        },
+        {
+          "id": "c",
+          "text": "更绿色"
+        },
+        {
+          "id": "d",
+          "text": "更有生命力"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 107
+      }
+    },
+    {
+      "id": "science-108",
+      "type": "single-choice",
+      "question": "某预测模型连续三次都高估实际值。最值得检查的是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "模型是否存在系统性偏差"
+        },
+        {
+          "id": "b",
+          "text": "铅笔颜色"
+        },
+        {
+          "id": "c",
+          "text": "纸张大小"
+        },
+        {
+          "id": "d",
+          "text": "实验者座位"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 108
+      }
+    },
+    {
+      "id": "science-109",
+      "type": "single-choice",
+      "question": "实验报告中最能支持结论的是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "与结论一致的数据和分析"
+        },
+        {
+          "id": "b",
+          "text": "同学的猜测"
+        },
+        {
+          "id": "c",
+          "text": "漂亮标题"
+        },
+        {
+          "id": "d",
+          "text": "字体大小"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 109
+      }
+    },
+    {
+      "id": "science-110",
+      "type": "single-choice",
+      "question": "“所有金属都一定能被磁铁吸引”这一说法如何检验最合适？",
+      "options": [
+        {
+          "id": "a",
+          "text": "只测铁一个样品"
+        },
+        {
+          "id": "b",
+          "text": "选择铁、铜、铝等多种金属进行测试"
+        },
+        {
+          "id": "c",
+          "text": "只看金属颜色"
+        },
+        {
+          "id": "d",
+          "text": "查一张图片就结束"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 110
+      }
+    },
+    {
+      "id": "science-111",
+      "type": "single-choice",
+      "question": "小明测小车速度，记录10米所需时间。若想让结果更可靠，应？",
+      "options": [
+        {
+          "id": "a",
+          "text": "多次测量并取合理平均"
+        },
+        {
+          "id": "b",
+          "text": "只保留最快一次"
+        },
+        {
+          "id": "c",
+          "text": "每次更换距离"
+        },
+        {
+          "id": "d",
+          "text": "每次换不同小车"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 111
+      }
+    },
+    {
+      "id": "science-112",
+      "type": "single-choice",
+      "question": "在“纸巾吸水能力”实验中，如果不同品牌纸巾面积不同，会造成？",
+      "options": [
+        {
+          "id": "a",
+          "text": "公平性提高"
+        },
+        {
+          "id": "b",
+          "text": "比较受到面积这一额外因素干扰"
+        },
+        {
+          "id": "c",
+          "text": "纸巾无法吸水"
+        },
+        {
+          "id": "d",
+          "text": "水无法流动"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 112
+      }
+    },
+    {
+      "id": "science-113",
+      "type": "single-choice",
+      "question": "观察到“气温越高，冰淇淋销量越大”，能否直接证明高温是销量增加的唯一原因？",
+      "options": [
+        {
+          "id": "a",
+          "text": "能"
+        },
+        {
+          "id": "b",
+          "text": "不能，还可能有节假日等其他因素"
+        },
+        {
+          "id": "c",
+          "text": "一定是价格造成"
+        },
+        {
+          "id": "d",
+          "text": "数据无任何意义"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 113
+      }
+    },
+    {
+      "id": "science-114",
+      "type": "single-choice",
+      "question": "用比例模型表示一座桥，如果模型长度是实桥的1/100，模型上2 cm对应实桥？",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 cm"
+        },
+        {
+          "id": "b",
+          "text": "20 cm"
+        },
+        {
+          "id": "c",
+          "text": "2 m"
+        },
+        {
+          "id": "d",
+          "text": "200 m"
+        }
+      ],
+      "answer": [
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 114
+      }
+    },
+    {
+      "id": "science-115",
+      "type": "single-choice",
+      "question": "在实验中记录单位时，最重要的原因之一是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "便于理解和比较测量结果"
+        },
+        {
+          "id": "b",
+          "text": "让数字更长"
+        },
+        {
+          "id": "c",
+          "text": "让实验更神秘"
+        },
+        {
+          "id": "d",
+          "text": "可以不用测量"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 115
+      }
+    },
+    {
+      "id": "science-116",
+      "type": "single-choice",
+      "question": "实验结论“所有植物都需要每天浇500 mL水”只来自一种植物、一次实验。主要问题是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "结论推广范围过大"
+        },
+        {
+          "id": "b",
+          "text": "数据太多"
+        },
+        {
+          "id": "c",
+          "text": "没有颜色"
+        },
+        {
+          "id": "d",
+          "text": "植物不能测量"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 116
+      }
+    },
+    {
+      "id": "science-117",
+      "type": "single-choice",
+      "question": "把复杂生态系统画成“草→兔→鹰”是一个简化模型。它最大的局限是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "没有表现真实食物网中的多种关系"
+        },
+        {
+          "id": "b",
+          "text": "无法使用箭头"
+        },
+        {
+          "id": "c",
+          "text": "草不存在"
+        },
+        {
+          "id": "d",
+          "text": "鹰不会吃东西"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 117
+      }
+    },
+    {
+      "id": "science-118",
+      "type": "single-choice",
+      "question": "对于“怎样让冰块融化更慢”的工程任务，最合理的评价指标是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "相同时间剩余冰的质量"
+        },
+        {
+          "id": "b",
+          "text": "包装颜色"
+        },
+        {
+          "id": "c",
+          "text": "盒子价格越高越好"
+        },
+        {
+          "id": "d",
+          "text": "名称越长越好"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 118
+      }
+    },
+    {
+      "id": "science-119",
+      "type": "single-choice",
+      "question": "某装置平均运行时间10分钟，但每次结果在2到18分钟之间大幅波动。说明？",
+      "options": [
+        {
+          "id": "a",
+          "text": "平均值足以说明装置非常稳定"
+        },
+        {
+          "id": "b",
+          "text": "结果稳定性较差，还应关注波动范围"
+        },
+        {
+          "id": "c",
+          "text": "不需要更多测试"
+        },
+        {
+          "id": "d",
+          "text": "所有数据都错误"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 119
+      }
+    },
+    {
+      "id": "science-120",
+      "type": "single-choice",
+      "question": "科学交流中把原始数据、处理方法和结论都记录下来，最重要的价值是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "便于他人检查、复现和讨论"
+        },
+        {
+          "id": "b",
+          "text": "增加纸张消耗"
+        },
+        {
+          "id": "c",
+          "text": "避免任何质疑"
+        },
+        {
+          "id": "d",
+          "text": "保证结论永远正确"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 120
+      }
+    },
+    {
+      "id": "science-121",
+      "type": "multiple-choice",
+      "question": "下列关于声音的说法正确的有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "声音由振动产生"
+        },
+        {
+          "id": "b",
+          "text": "音调与振动快慢有关"
+        },
+        {
+          "id": "c",
+          "text": "响度与振幅有关"
+        },
+        {
+          "id": "d",
+          "text": "真空能很好传声"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 121
+      }
+    },
+    {
+      "id": "science-122",
+      "type": "multiple-choice",
+      "question": "为了保护听力，较好的习惯有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "控制耳机音量"
+        },
+        {
+          "id": "b",
+          "text": "减少持续强噪声暴露"
+        },
+        {
+          "id": "c",
+          "text": "必要时佩戴听力防护"
+        },
+        {
+          "id": "d",
+          "text": "用尖硬物深入耳道清理"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 122
+      }
+    },
+    {
+      "id": "science-123",
+      "type": "multiple-choice",
+      "question": "研究弦长对音调影响时，需要尽量控制的条件有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "弦的材料"
+        },
+        {
+          "id": "b",
+          "text": "弦的粗细"
+        },
+        {
+          "id": "c",
+          "text": "弦的张力"
+        },
+        {
+          "id": "d",
+          "text": "有效振动长度"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 123
+      }
+    },
+    {
+      "id": "science-124",
+      "type": "multiple-choice",
+      "question": "下列因素会影响物体浮力大小的有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "液体密度"
+        },
+        {
+          "id": "b",
+          "text": "排开液体体积"
+        },
+        {
+          "id": "c",
+          "text": "物体浸入程度"
+        },
+        {
+          "id": "d",
+          "text": "物体表面颜色"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 124
+      }
+    },
+    {
+      "id": "science-125",
+      "type": "multiple-choice",
+      "question": "一艘船能浮在水面，相关解释正确的有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "船排开了水"
+        },
+        {
+          "id": "b",
+          "text": "水对船有向上的浮力"
+        },
+        {
+          "id": "c",
+          "text": "平衡时浮力可与船重力相等"
+        },
+        {
+          "id": "d",
+          "text": "铁做的物体都必沉"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 125
+      }
+    },
+    {
+      "id": "science-126",
+      "type": "multiple-choice",
+      "question": "增大摩擦在下列哪些场景中有利？",
+      "options": [
+        {
+          "id": "a",
+          "text": "汽车刹车"
+        },
+        {
+          "id": "b",
+          "text": "鞋底防滑"
+        },
+        {
+          "id": "c",
+          "text": "机器轴承高速转动"
+        },
+        {
+          "id": "d",
+          "text": "攀岩抓握"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "d"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 126
+      }
+    },
+    {
+      "id": "science-127",
+      "type": "multiple-choice",
+      "question": "减小摩擦的常见方法有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "加润滑油"
+        },
+        {
+          "id": "b",
+          "text": "使用滚珠轴承"
+        },
+        {
+          "id": "c",
+          "text": "把接触面做得更粗糙"
+        },
+        {
+          "id": "d",
+          "text": "适当减小压力"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "d"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 127
+      }
+    },
+    {
+      "id": "science-128",
+      "type": "multiple-choice",
+      "question": "一个静止物体受到平衡力时，可能具有的特征有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "合力为零"
+        },
+        {
+          "id": "b",
+          "text": "保持静止"
+        },
+        {
+          "id": "c",
+          "text": "一定向某方向加速"
+        },
+        {
+          "id": "d",
+          "text": "各力可能大小相等方向相反"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "d"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 128
+      }
+    },
+    {
+      "id": "science-129",
+      "type": "multiple-choice",
+      "question": "下列现象与光的反射有关的有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "照镜子"
+        },
+        {
+          "id": "b",
+          "text": "潜望镜"
+        },
+        {
+          "id": "c",
+          "text": "湖面倒影"
+        },
+        {
+          "id": "d",
+          "text": "影子的形成"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 129
+      }
+    },
+    {
+      "id": "science-130",
+      "type": "multiple-choice",
+      "question": "下列现象与光的折射有关的有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "水中的筷子看起来弯折"
+        },
+        {
+          "id": "b",
+          "text": "放大镜成像"
+        },
+        {
+          "id": "c",
+          "text": "三棱镜色散"
+        },
+        {
+          "id": "d",
+          "text": "平面镜成像"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 130
+      }
+    },
+    {
+      "id": "science-131",
+      "type": "multiple-choice",
+      "question": "要比较不同材料透光能力，合理的做法有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "使用相同强度光源"
+        },
+        {
+          "id": "b",
+          "text": "材料厚度尽量相同"
+        },
+        {
+          "id": "c",
+          "text": "测量透过光的强度"
+        },
+        {
+          "id": "d",
+          "text": "每次改变光源和材料厚度"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 131
+      }
+    },
+    {
+      "id": "science-132",
+      "type": "multiple-choice",
+      "question": "闭合简单电路通常需要？",
+      "options": [
+        {
+          "id": "a",
+          "text": "电源"
+        },
+        {
+          "id": "b",
+          "text": "导线"
+        },
+        {
+          "id": "c",
+          "text": "用电器或负载"
+        },
+        {
+          "id": "d",
+          "text": "形成完整通路"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 132
+      }
+    },
+    {
+      "id": "science-133",
+      "type": "multiple-choice",
+      "question": "下列物质通常可作为绝缘材料的有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "塑料"
+        },
+        {
+          "id": "b",
+          "text": "干燥木材"
+        },
+        {
+          "id": "c",
+          "text": "橡胶"
+        },
+        {
+          "id": "d",
+          "text": "铜"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 133
+      }
+    },
+    {
+      "id": "science-134",
+      "type": "multiple-choice",
+      "question": "并联电路相对串联电路常见特点有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "存在多条支路"
+        },
+        {
+          "id": "b",
+          "text": "支路可较独立工作"
+        },
+        {
+          "id": "c",
+          "text": "一个支路断开不一定影响其他支路"
+        },
+        {
+          "id": "d",
+          "text": "任何情况下都只有一条电流路径"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 134
+      }
+    },
+    {
+      "id": "science-135",
+      "type": "multiple-choice",
+      "question": "增强电磁铁磁性的可能方法有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "增加线圈匝数"
+        },
+        {
+          "id": "b",
+          "text": "在安全范围内增大电流"
+        },
+        {
+          "id": "c",
+          "text": "加入合适铁芯"
+        },
+        {
+          "id": "d",
+          "text": "断开电源"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 135
+      }
+    },
+    {
+      "id": "science-136",
+      "type": "multiple-choice",
+      "question": "下列属于热传递现象的有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "热汤把勺子加热"
+        },
+        {
+          "id": "b",
+          "text": "阳光晒暖地面"
+        },
+        {
+          "id": "c",
+          "text": "暖气使空气形成对流"
+        },
+        {
+          "id": "d",
+          "text": "磁铁吸铁钉"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 136
+      }
+    },
+    {
+      "id": "science-137",
+      "type": "multiple-choice",
+      "question": "能减慢热传递的材料或结构有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "泡沫塑料"
+        },
+        {
+          "id": "b",
+          "text": "空气层"
+        },
+        {
+          "id": "c",
+          "text": "棉花"
+        },
+        {
+          "id": "d",
+          "text": "厚铜板"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 137
+      }
+    },
+    {
+      "id": "science-138",
+      "type": "multiple-choice",
+      "question": "蒸发速度通常会受到哪些因素影响？",
+      "options": [
+        {
+          "id": "a",
+          "text": "温度"
+        },
+        {
+          "id": "b",
+          "text": "液体表面积"
+        },
+        {
+          "id": "c",
+          "text": "空气流动"
+        },
+        {
+          "id": "d",
+          "text": "液体种类"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 138
+      }
+    },
+    {
+      "id": "science-139",
+      "type": "multiple-choice",
+      "question": "下列属于物理变化的有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "水结冰"
+        },
+        {
+          "id": "b",
+          "text": "糖溶于水"
+        },
+        {
+          "id": "c",
+          "text": "纸燃烧"
+        },
+        {
+          "id": "d",
+          "text": "水沸腾"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "d"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 139
+      }
+    },
+    {
+      "id": "science-140",
+      "type": "multiple-choice",
+      "question": "比较不同温度下糖溶解速度时，应控制的条件有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "糖的质量"
+        },
+        {
+          "id": "b",
+          "text": "水的体积"
+        },
+        {
+          "id": "c",
+          "text": "糖颗粒大小"
+        },
+        {
+          "id": "d",
+          "text": "水温"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 140
+      }
+    },
+    {
+      "id": "science-141",
+      "type": "multiple-choice",
+      "question": "植物生长通常需要的条件包括？",
+      "options": [
+        {
+          "id": "a",
+          "text": "适宜水分"
+        },
+        {
+          "id": "b",
+          "text": "适宜温度"
+        },
+        {
+          "id": "c",
+          "text": "空气"
+        },
+        {
+          "id": "d",
+          "text": "一定条件下的光"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 141
+      }
+    },
+    {
+      "id": "science-142",
+      "type": "multiple-choice",
+      "question": "光合作用相关说法正确的有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "需要光能"
+        },
+        {
+          "id": "b",
+          "text": "绿色植物可制造有机物"
+        },
+        {
+          "id": "c",
+          "text": "会影响大气中氧气和二氧化碳"
+        },
+        {
+          "id": "d",
+          "text": "只能在根部发生"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 142
+      }
+    },
+    {
+      "id": "science-143",
+      "type": "multiple-choice",
+      "question": "生态系统中的消费者可能包括？",
+      "options": [
+        {
+          "id": "a",
+          "text": "兔"
+        },
+        {
+          "id": "b",
+          "text": "鹰"
+        },
+        {
+          "id": "c",
+          "text": "人"
+        },
+        {
+          "id": "d",
+          "text": "绿色植物"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 143
+      }
+    },
+    {
+      "id": "science-144",
+      "type": "multiple-choice",
+      "question": "若一种昆虫数量骤减，可能造成？",
+      "options": [
+        {
+          "id": "a",
+          "text": "以它为食的动物食物减少"
+        },
+        {
+          "id": "b",
+          "text": "它取食的植物数量可能变化"
+        },
+        {
+          "id": "c",
+          "text": "食物网其他关系可能受影响"
+        },
+        {
+          "id": "d",
+          "text": "生态系统一定完全不变"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 144
+      }
+    },
+    {
+      "id": "science-145",
+      "type": "multiple-choice",
+      "question": "人体运动时可能发生的变化有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "心率加快"
+        },
+        {
+          "id": "b",
+          "text": "呼吸频率增加"
+        },
+        {
+          "id": "c",
+          "text": "肌肉耗氧增加"
+        },
+        {
+          "id": "d",
+          "text": "能量需求下降到零"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 145
+      }
+    },
+    {
+      "id": "science-146",
+      "type": "multiple-choice",
+      "question": "关于地球运动，正确的有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "地球自转约一天一周"
+        },
+        {
+          "id": "b",
+          "text": "地球绕太阳公转约一年一周"
+        },
+        {
+          "id": "c",
+          "text": "昼夜交替与自转有关"
+        },
+        {
+          "id": "d",
+          "text": "四季与公转和地轴倾斜有关"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 146
+      }
+    },
+    {
+      "id": "science-147",
+      "type": "multiple-choice",
+      "question": "观察月相时，应长期记录的内容可以包括？",
+      "options": [
+        {
+          "id": "a",
+          "text": "日期和时间"
+        },
+        {
+          "id": "b",
+          "text": "月亮亮面形状"
+        },
+        {
+          "id": "c",
+          "text": "观察方向和高度大致位置"
+        },
+        {
+          "id": "d",
+          "text": "天气情况"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 147
+      }
+    },
+    {
+      "id": "science-148",
+      "type": "multiple-choice",
+      "question": "天气观测常见要素包括？",
+      "options": [
+        {
+          "id": "a",
+          "text": "气温"
+        },
+        {
+          "id": "b",
+          "text": "降水"
+        },
+        {
+          "id": "c",
+          "text": "风向风力"
+        },
+        {
+          "id": "d",
+          "text": "云量"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 148
+      }
+    },
+    {
+      "id": "science-149",
+      "type": "multiple-choice",
+      "question": "土壤对植物生长的重要作用包括？",
+      "options": [
+        {
+          "id": "a",
+          "text": "固定根系"
+        },
+        {
+          "id": "b",
+          "text": "提供水分"
+        },
+        {
+          "id": "c",
+          "text": "提供部分无机盐"
+        },
+        {
+          "id": "d",
+          "text": "提供根系所需空气孔隙"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 149
+      }
+    },
+    {
+      "id": "science-150",
+      "type": "multiple-choice",
+      "question": "风化作用可能由哪些因素引起？",
+      "options": [
+        {
+          "id": "a",
+          "text": "温度变化"
+        },
+        {
+          "id": "b",
+          "text": "流水"
+        },
+        {
+          "id": "c",
+          "text": "植物根系"
+        },
+        {
+          "id": "d",
+          "text": "风沙磨蚀"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 150
+      }
+    },
+    {
+      "id": "science-151",
+      "type": "multiple-choice",
+      "question": "一个公平实验通常应具备哪些特征？",
+      "options": [
+        {
+          "id": "a",
+          "text": "明确自变量"
+        },
+        {
+          "id": "b",
+          "text": "明确因变量"
+        },
+        {
+          "id": "c",
+          "text": "控制无关变量"
+        },
+        {
+          "id": "d",
+          "text": "尽量重复测量"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 151
+      }
+    },
+    {
+      "id": "science-152",
+      "type": "multiple-choice",
+      "question": "提高测量可靠性的做法有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "使用合适量程工具"
+        },
+        {
+          "id": "b",
+          "text": "重复测量"
+        },
+        {
+          "id": "c",
+          "text": "统一读数方法"
+        },
+        {
+          "id": "d",
+          "text": "只记录最符合预期的数据"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 152
+      }
+    },
+    {
+      "id": "science-153",
+      "type": "multiple-choice",
+      "question": "下列哪些可以作为“证据”？",
+      "options": [
+        {
+          "id": "a",
+          "text": "实验测量数据"
+        },
+        {
+          "id": "b",
+          "text": "系统观察记录"
+        },
+        {
+          "id": "c",
+          "text": "可核查的照片或视频"
+        },
+        {
+          "id": "d",
+          "text": "没有依据的猜测"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 153
+      }
+    },
+    {
+      "id": "science-154",
+      "type": "multiple-choice",
+      "question": "科学图表制作合理的做法有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "标明坐标轴名称"
+        },
+        {
+          "id": "b",
+          "text": "写清单位"
+        },
+        {
+          "id": "c",
+          "text": "选择合适刻度"
+        },
+        {
+          "id": "d",
+          "text": "任意改变比例却不标注"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 154
+      }
+    },
+    {
+      "id": "science-155",
+      "type": "multiple-choice",
+      "question": "发现异常数据后，合理处理包括？",
+      "options": [
+        {
+          "id": "a",
+          "text": "检查设备"
+        },
+        {
+          "id": "b",
+          "text": "检查记录"
+        },
+        {
+          "id": "c",
+          "text": "必要时重复测量"
+        },
+        {
+          "id": "d",
+          "text": "因为不喜欢就删掉"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 155
+      }
+    },
+    {
+      "id": "science-156",
+      "type": "multiple-choice",
+      "question": "科学模型可以是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "实体模型"
+        },
+        {
+          "id": "b",
+          "text": "示意图"
+        },
+        {
+          "id": "c",
+          "text": "数学关系式"
+        },
+        {
+          "id": "d",
+          "text": "计算机模拟"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 156
+      }
+    },
+    {
+      "id": "science-157",
+      "type": "multiple-choice",
+      "question": "一个好的科学模型通常需要？",
+      "options": [
+        {
+          "id": "a",
+          "text": "与研究目的相关"
+        },
+        {
+          "id": "b",
+          "text": "能够解释或预测部分现象"
+        },
+        {
+          "id": "c",
+          "text": "明确假设与限制"
+        },
+        {
+          "id": "d",
+          "text": "永远不能修改"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 157
+      }
+    },
+    {
+      "id": "science-158",
+      "type": "multiple-choice",
+      "question": "模型与实验结果不一致时，可以？",
+      "options": [
+        {
+          "id": "a",
+          "text": "检查实验是否可靠"
+        },
+        {
+          "id": "b",
+          "text": "检查模型假设"
+        },
+        {
+          "id": "c",
+          "text": "调整参数并重新验证"
+        },
+        {
+          "id": "d",
+          "text": "自动认为实验或模型其中一个必须被永久丢弃"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 158
+      }
+    },
+    {
+      "id": "science-159",
+      "type": "multiple-choice",
+      "question": "工程设计评价中可能同时考虑？",
+      "options": [
+        {
+          "id": "a",
+          "text": "功能"
+        },
+        {
+          "id": "b",
+          "text": "安全"
+        },
+        {
+          "id": "c",
+          "text": "成本与材料"
+        },
+        {
+          "id": "d",
+          "text": "可靠性"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 159
+      }
+    },
+    {
+      "id": "science-160",
+      "type": "multiple-choice",
+      "question": "在比较不同设计方案时，建立评分表的好处有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "把评价标准显式化"
+        },
+        {
+          "id": "b",
+          "text": "支持多指标比较"
+        },
+        {
+          "id": "c",
+          "text": "减少只凭感觉选择"
+        },
+        {
+          "id": "d",
+          "text": "保证所有人永远得出完全相同结论"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 160
+      }
+    },
+    {
+      "id": "science-161",
+      "type": "single-choice",
+      "question": "根据数据，橡皮筋有效长度增加时，频率总体如何变化？",
+      "options": [
+        {
+          "id": "a",
+          "text": "增大"
+        },
+        {
+          "id": "b",
+          "text": "减小"
+        },
+        {
+          "id": "c",
+          "text": "完全不变"
+        },
+        {
+          "id": "d",
+          "text": "先增后减"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 161
+      },
+      "explanation": "直接读取题干数据、比较大小或描述趋势。"
+    },
+    {
+      "id": "science-162",
+      "type": "single-choice",
+      "question": "频率更高时，人耳听到的音调通常？",
+      "options": [
+        {
+          "id": "a",
+          "text": "更高"
+        },
+        {
+          "id": "b",
+          "text": "更低"
+        },
+        {
+          "id": "c",
+          "text": "更响"
+        },
+        {
+          "id": "d",
+          "text": "完全听不到"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 162
+      },
+      "explanation": "依据频率与音调、振动与声音等基本关系判断。"
+    },
+    {
+      "id": "science-163",
+      "type": "single-choice",
+      "question": "本实验的自变量是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "橡皮筋有效长度"
+        },
+        {
+          "id": "b",
+          "text": "振动频率"
+        },
+        {
+          "id": "c",
+          "text": "橡皮筋材料"
+        },
+        {
+          "id": "d",
+          "text": "拨动方式"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 163
+      },
+      "explanation": "依据自变量、因变量、控制变量和公平实验原则判断。"
+    },
+    {
+      "id": "science-164",
+      "type": "single-choice",
+      "question": "如果不同长度下拨动幅度差异很大，最可能影响比较中的哪一项？",
+      "options": [
+        {
+          "id": "a",
+          "text": "响度"
+        },
+        {
+          "id": "b",
+          "text": "长度"
+        },
+        {
+          "id": "c",
+          "text": "材料名称"
+        },
+        {
+          "id": "d",
+          "text": "尺子刻度"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 164
+      },
+      "explanation": "依据自变量、因变量、控制变量和公平实验原则判断。"
+    },
+    {
+      "id": "science-165",
+      "type": "single-choice",
+      "question": "想进一步建立“长度与频率”的预测模型，最有价值的下一步是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "增加更多长度点并重复测量"
+        },
+        {
+          "id": "b",
+          "text": "只保留8 cm数据"
+        },
+        {
+          "id": "c",
+          "text": "改变橡皮筋材料和长度同时测试"
+        },
+        {
+          "id": "d",
+          "text": "不再记录频率"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 165
+      },
+      "explanation": "依据模型需要数据验证、明确适用范围并谨慎外推的原则判断。"
+    },
+    {
+      "id": "science-166",
+      "type": "single-choice",
+      "question": "最能解释这一现象的是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "盐水越浓密度通常越大，对鸡蛋浮力越大"
+        },
+        {
+          "id": "b",
+          "text": "鸡蛋质量不断变小"
+        },
+        {
+          "id": "c",
+          "text": "容器颜色改变"
+        },
+        {
+          "id": "d",
+          "text": "重力消失"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 166
+      },
+      "explanation": "依据液体密度、排水体积以及浮力与重力关系判断。"
+    },
+    {
+      "id": "science-167",
+      "type": "single-choice",
+      "question": "实验自变量是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "鸡蛋种类"
+        },
+        {
+          "id": "b",
+          "text": "盐水浓度"
+        },
+        {
+          "id": "c",
+          "text": "鸡蛋沉浮状态"
+        },
+        {
+          "id": "d",
+          "text": "容器高度"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 167
+      },
+      "explanation": "依据自变量、因变量、控制变量和公平实验原则判断。"
+    },
+    {
+      "id": "science-168",
+      "type": "single-choice",
+      "question": "因变量是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "盐水浓度"
+        },
+        {
+          "id": "b",
+          "text": "鸡蛋沉浮状态"
+        },
+        {
+          "id": "c",
+          "text": "水的体积"
+        },
+        {
+          "id": "d",
+          "text": "室温"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 168
+      },
+      "explanation": "依据自变量、因变量、控制变量和公平实验原则判断。"
+    },
+    {
+      "id": "science-169",
+      "type": "single-choice",
+      "question": "为了更准确找到“刚好悬浮”的浓度，下一步应？",
+      "options": [
+        {
+          "id": "a",
+          "text": "在5%到15%之间用更小浓度间隔测试"
+        },
+        {
+          "id": "b",
+          "text": "改换不同鸡蛋同时比较"
+        },
+        {
+          "id": "c",
+          "text": "只测0%和15%"
+        },
+        {
+          "id": "d",
+          "text": "改变水温和浓度"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 169
+      },
+      "explanation": "依据模型需要数据验证、明确适用范围并谨慎外推的原则判断。"
+    },
+    {
+      "id": "science-170",
+      "type": "single-choice",
+      "question": "若换一个更重且体积相近的鸡蛋，原模型预测可能产生偏差，原因是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "鸡蛋自身平均密度变了"
+        },
+        {
+          "id": "b",
+          "text": "盐水不再有浮力"
+        },
+        {
+          "id": "c",
+          "text": "重力方向改变"
+        },
+        {
+          "id": "d",
+          "text": "浓度没有意义"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 170
+      },
+      "explanation": "依据模型需要数据验证、明确适用范围并谨慎外推的原则判断。"
+    },
+    {
+      "id": "science-171",
+      "type": "single-choice",
+      "question": "若只看平均距离，表现最好的是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "无法计算"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 171
+      },
+      "explanation": "直接读取题干数据、比较大小或描述趋势。"
+    },
+    {
+      "id": "science-172",
+      "type": "single-choice",
+      "question": "哪种设计的结果最稳定？",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "无法从数据判断"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 172
+      },
+      "explanation": "直接读取题干数据、比较大小或描述趋势。"
+    },
+    {
+      "id": "science-173",
+      "type": "single-choice",
+      "question": "C 平均距离较高但波动大，说明评价设计时还应关注？",
+      "options": [
+        {
+          "id": "a",
+          "text": "稳定性"
+        },
+        {
+          "id": "b",
+          "text": "纸张颜色"
+        },
+        {
+          "id": "c",
+          "text": "飞机名字"
+        },
+        {
+          "id": "d",
+          "text": "投掷者鞋码"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 173
+      },
+      "explanation": "依据任务目标以及功能、稳定性、安全、成本等约束综合评价。"
+    },
+    {
+      "id": "science-174",
+      "type": "single-choice",
+      "question": "若下一轮只想比较机翼宽度影响，应控制？",
+      "options": [
+        {
+          "id": "a",
+          "text": "纸张、机身结构、投掷方法等"
+        },
+        {
+          "id": "b",
+          "text": "机翼宽度"
+        },
+        {
+          "id": "c",
+          "text": "飞行距离"
+        },
+        {
+          "id": "d",
+          "text": "所有变量一起改"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 174
+      },
+      "explanation": "依据自变量、因变量、控制变量和公平实验原则判断。"
+    },
+    {
+      "id": "science-175",
+      "type": "single-choice",
+      "question": "若目标是“既远又稳定”，合理评价方式是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "同时考虑平均距离与波动范围"
+        },
+        {
+          "id": "b",
+          "text": "只看最好一次"
+        },
+        {
+          "id": "c",
+          "text": "只看最差一次"
+        },
+        {
+          "id": "d",
+          "text": "只看外观"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 175
+      },
+      "explanation": "依据模型需要数据验证、明确适用范围并谨慎外推的原则判断。"
+    },
+    {
+      "id": "science-176",
+      "type": "single-choice",
+      "question": "保温效果最好的是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "棉花"
+        },
+        {
+          "id": "b",
+          "text": "泡沫塑料"
+        },
+        {
+          "id": "c",
+          "text": "铝箔"
+        },
+        {
+          "id": "d",
+          "text": "无包裹"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 176
+      },
+      "explanation": "依据热传递与保温原理判断。"
+    },
+    {
+      "id": "science-177",
+      "type": "single-choice",
+      "question": "本实验的因变量是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "包裹材料"
+        },
+        {
+          "id": "b",
+          "text": "20分钟后的水温"
+        },
+        {
+          "id": "c",
+          "text": "杯子大小"
+        },
+        {
+          "id": "d",
+          "text": "初始水量"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 177
+      },
+      "explanation": "依据自变量、因变量、控制变量和公平实验原则判断。"
+    },
+    {
+      "id": "science-178",
+      "type": "single-choice",
+      "question": "为了公平比较，应保持一致的条件包括？",
+      "options": [
+        {
+          "id": "a",
+          "text": "杯子、初温、水量、测量时间"
+        },
+        {
+          "id": "b",
+          "text": "包裹材料"
+        },
+        {
+          "id": "c",
+          "text": "最终水温"
+        },
+        {
+          "id": "d",
+          "text": "保温效果"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 178
+      },
+      "explanation": "依据自变量、因变量、控制变量和公平实验原则判断。"
+    },
+    {
+      "id": "science-179",
+      "type": "single-choice",
+      "question": "若铝箔组低于棉花组，能否据此断言“所有金属保温都差”？",
+      "options": [
+        {
+          "id": "a",
+          "text": "能"
+        },
+        {
+          "id": "b",
+          "text": "不能，实验对象和结构有限，结论不能过度推广"
+        },
+        {
+          "id": "c",
+          "text": "一定能，因为金属都一样"
+        },
+        {
+          "id": "d",
+          "text": "数据无意义"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 179
+      },
+      "explanation": "依据自变量、因变量、控制变量和公平实验原则判断。"
+    },
+    {
+      "id": "science-180",
+      "type": "single-choice",
+      "question": "若要设计午餐保温盒，除了温度保持，还应评价？",
+      "options": [
+        {
+          "id": "a",
+          "text": "安全、重量、成本、耐用性"
+        },
+        {
+          "id": "b",
+          "text": "只看颜色"
+        },
+        {
+          "id": "c",
+          "text": "只看名称"
+        },
+        {
+          "id": "d",
+          "text": "完全不考虑材料"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 180
+      },
+      "explanation": "依据任务目标以及功能、稳定性、安全、成本等约束综合评价。"
+    },
+    {
+      "id": "science-181",
+      "type": "single-choice",
+      "question": "从现有数据看，株高增长最大的是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 h组"
+        },
+        {
+          "id": "b",
+          "text": "6 h组"
+        },
+        {
+          "id": "c",
+          "text": "10 h组"
+        },
+        {
+          "id": "d",
+          "text": "三组相同"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 181
+      },
+      "explanation": "依据生物生长条件和题干数据判断。"
+    },
+    {
+      "id": "science-182",
+      "type": "single-choice",
+      "question": "能否得出“光照越久，植物一定长得越高”？",
+      "options": [
+        {
+          "id": "a",
+          "text": "能"
+        },
+        {
+          "id": "b",
+          "text": "不能，10 h组并未继续增加且只测了三个水平"
+        },
+        {
+          "id": "c",
+          "text": "能，因为有光合作用"
+        },
+        {
+          "id": "d",
+          "text": "一定能推广到所有植物"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 182
+      },
+      "explanation": "直接读取题干数据、比较大小或描述趋势。"
+    },
+    {
+      "id": "science-183",
+      "type": "single-choice",
+      "question": "每组使用10株而非1株，主要好处是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "减少个体差异和偶然因素影响"
+        },
+        {
+          "id": "b",
+          "text": "让植物更快开花"
+        },
+        {
+          "id": "c",
+          "text": "改变光照时间"
+        },
+        {
+          "id": "d",
+          "text": "取消控制变量"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 183
+      },
+      "explanation": "依据自变量、因变量、控制变量和公平实验原则判断。"
+    },
+    {
+      "id": "science-184",
+      "type": "single-choice",
+      "question": "如果2 h组同时浇水更少，主要问题是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "出现混杂变量，难判断是否由光照造成"
+        },
+        {
+          "id": "b",
+          "text": "数据一定更准确"
+        },
+        {
+          "id": "c",
+          "text": "植物不需要水"
+        },
+        {
+          "id": "d",
+          "text": "光照成为因变量"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 184
+      },
+      "explanation": "依据自变量、因变量、控制变量和公平实验原则判断。"
+    },
+    {
+      "id": "science-185",
+      "type": "single-choice",
+      "question": "若要预测8 h光照下的株高增长，较合理做法是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "基于现有趋势给出范围预测并再做8 h实验验证"
+        },
+        {
+          "id": "b",
+          "text": "宣称一定是100 cm"
+        },
+        {
+          "id": "c",
+          "text": "忽略已有数据"
+        },
+        {
+          "id": "d",
+          "text": "只看2 h组"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 185
+      },
+      "explanation": "依据模型需要数据验证、明确适用范围并谨慎外推的原则判断。"
+    },
+    {
+      "id": "science-186",
+      "type": "single-choice",
+      "question": "数据显示斜面释放高度增加时，滑行距离总体？",
+      "options": [
+        {
+          "id": "a",
+          "text": "增加"
+        },
+        {
+          "id": "b",
+          "text": "减小"
+        },
+        {
+          "id": "c",
+          "text": "不变"
+        },
+        {
+          "id": "d",
+          "text": "随机变化"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 186
+      },
+      "explanation": "直接读取题干数据、比较大小或描述趋势。"
+    },
+    {
+      "id": "science-187",
+      "type": "single-choice",
+      "question": "本实验自变量是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "滑行距离"
+        },
+        {
+          "id": "b",
+          "text": "释放高度"
+        },
+        {
+          "id": "c",
+          "text": "小车质量"
+        },
+        {
+          "id": "d",
+          "text": "地面材料"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 187
+      },
+      "explanation": "依据自变量、因变量、控制变量和公平实验原则判断。"
+    },
+    {
+      "id": "science-188",
+      "type": "single-choice",
+      "question": "为了公平，应保持不变的是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "同一辆小车和同样地面"
+        },
+        {
+          "id": "b",
+          "text": "释放高度"
+        },
+        {
+          "id": "c",
+          "text": "滑行距离"
+        },
+        {
+          "id": "d",
+          "text": "实验结论"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 188
+      },
+      "explanation": "依据自变量、因变量、控制变量和公平实验原则判断。"
+    },
+    {
+      "id": "science-189",
+      "type": "single-choice",
+      "question": "若在20 cm高度用手额外推了一下小车，会导致？",
+      "options": [
+        {
+          "id": "a",
+          "text": "引入额外能量，结果不再可直接比较"
+        },
+        {
+          "id": "b",
+          "text": "实验更公平"
+        },
+        {
+          "id": "c",
+          "text": "释放高度消失"
+        },
+        {
+          "id": "d",
+          "text": "摩擦力为零"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 189
+      },
+      "explanation": "依据自变量、因变量、控制变量和公平实验原则判断。"
+    },
+    {
+      "id": "science-190",
+      "type": "single-choice",
+      "question": "若建立简单线性模型预测25 cm高度的距离，预测值约可在哪个范围？",
+      "options": [
+        {
+          "id": "a",
+          "text": "约190到205 cm"
+        },
+        {
+          "id": "b",
+          "text": "约20 cm"
+        },
+        {
+          "id": "c",
+          "text": "约80 cm"
+        },
+        {
+          "id": "d",
+          "text": "一定1000 cm"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 190
+      },
+      "explanation": "依据模型需要数据验证、明确适用范围并谨慎外推的原则判断。"
+    },
+    {
+      "id": "science-191",
+      "type": "single-choice",
+      "question": "数据表明在线圈匝数增加的范围内，吸起回形针数量总体？",
+      "options": [
+        {
+          "id": "a",
+          "text": "增加"
+        },
+        {
+          "id": "b",
+          "text": "减少"
+        },
+        {
+          "id": "c",
+          "text": "不变"
+        },
+        {
+          "id": "d",
+          "text": "完全随机"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 191
+      },
+      "explanation": "依据电磁铁强弱与实验数据判断。"
+    },
+    {
+      "id": "science-192",
+      "type": "single-choice",
+      "question": "线圈匝数是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "自变量"
+        },
+        {
+          "id": "b",
+          "text": "因变量"
+        },
+        {
+          "id": "c",
+          "text": "控制变量"
+        },
+        {
+          "id": "d",
+          "text": "误差"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 192
+      },
+      "explanation": "依据自变量、因变量、控制变量和公平实验原则判断。"
+    },
+    {
+      "id": "science-193",
+      "type": "single-choice",
+      "question": "吸起回形针数量可用来间接表示？",
+      "options": [
+        {
+          "id": "a",
+          "text": "电磁铁磁性强弱"
+        },
+        {
+          "id": "b",
+          "text": "铁钉颜色"
+        },
+        {
+          "id": "c",
+          "text": "电池质量"
+        },
+        {
+          "id": "d",
+          "text": "导线长度单位"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 193
+      },
+      "explanation": "依据模型需要数据验证、明确适用范围并谨慎外推的原则判断。"
+    },
+    {
+      "id": "science-194",
+      "type": "single-choice",
+      "question": "若80匝组电池已明显发热、电压下降，继续增加到100匝时预测应？",
+      "options": [
+        {
+          "id": "a",
+          "text": "保持谨慎，关系可能不再按原趋势增长"
+        },
+        {
+          "id": "b",
+          "text": "一定线性增加到18个"
+        },
+        {
+          "id": "c",
+          "text": "一定变成0"
+        },
+        {
+          "id": "d",
+          "text": "不用实验即可断言"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 194
+      },
+      "explanation": "依据模型需要数据验证、明确适用范围并谨慎外推的原则判断。"
+    },
+    {
+      "id": "science-195",
+      "type": "single-choice",
+      "question": "为了比较匝数影响，应控制？",
+      "options": [
+        {
+          "id": "a",
+          "text": "铁钉、电池条件、导线材料等"
+        },
+        {
+          "id": "b",
+          "text": "线圈匝数"
+        },
+        {
+          "id": "c",
+          "text": "吸起数量"
+        },
+        {
+          "id": "d",
+          "text": "所有条件都随机"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 195
+      },
+      "explanation": "依据自变量、因变量、控制变量和公平实验原则判断。"
+    },
+    {
+      "id": "science-196",
+      "type": "single-choice",
+      "question": "温度最高的地点是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "水泥操场"
+        },
+        {
+          "id": "b",
+          "text": "草地"
+        },
+        {
+          "id": "c",
+          "text": "树荫"
+        },
+        {
+          "id": "d",
+          "text": "池塘边"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 196
+      },
+      "explanation": "依据题干观测数据和微气候概念判断。"
+    },
+    {
+      "id": "science-197",
+      "type": "single-choice",
+      "question": "统一测量高度和使用同一温度计的主要目的是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "减少额外变量影响，使比较更公平"
+        },
+        {
+          "id": "b",
+          "text": "让温度都相同"
+        },
+        {
+          "id": "c",
+          "text": "改变太阳位置"
+        },
+        {
+          "id": "d",
+          "text": "增加风速"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 197
+      },
+      "explanation": "依据自变量、因变量、控制变量和公平实验原则判断。"
+    },
+    {
+      "id": "science-198",
+      "type": "single-choice",
+      "question": "数据支持哪一结论？",
+      "options": [
+        {
+          "id": "a",
+          "text": "不同地表和遮阴条件可能形成局部温度差异"
+        },
+        {
+          "id": "b",
+          "text": "树荫一定比任何地方都热"
+        },
+        {
+          "id": "c",
+          "text": "所有地点温度相同"
+        },
+        {
+          "id": "d",
+          "text": "校园没有微气候"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 198
+      },
+      "explanation": "直接读取题干数据、比较大小或描述趋势。"
+    },
+    {
+      "id": "science-199",
+      "type": "single-choice",
+      "question": "若要建立更可靠的“校园微气候模型”，还应增加？",
+      "options": [
+        {
+          "id": "a",
+          "text": "不同时间、不同天气的重复观测，并记录风、湿度等"
+        },
+        {
+          "id": "b",
+          "text": "只保留中午一次数据"
+        },
+        {
+          "id": "c",
+          "text": "换不同温度单位但不说明"
+        },
+        {
+          "id": "d",
+          "text": "删除较低温度"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 199
+      },
+      "explanation": "依据模型需要数据验证、明确适用范围并谨慎外推的原则判断。"
+    },
+    {
+      "id": "science-200",
+      "type": "single-choice",
+      "question": "模型若用于决定新增遮阴树的位置，还应结合？",
+      "options": [
+        {
+          "id": "a",
+          "text": "人流、日照、空间和养护等工程约束"
+        },
+        {
+          "id": "b",
+          "text": "只看温度最高点"
+        },
+        {
+          "id": "c",
+          "text": "树的名字长度"
+        },
+        {
+          "id": "d",
+          "text": "随机选择"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 200
+      },
+      "explanation": "依据任务目标以及功能、稳定性、安全、成本等约束综合评价。"
+    }
+  ]
+}

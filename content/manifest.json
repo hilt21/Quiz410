@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "topics": [
+    {
+      "id": "force-motion",
+      "title": "力与运动",
+      "description": "从推动、沉浮到纸飞机，探索物体为什么动。",
+      "icon": "motion",
+      "file": "./science/force-motion/questions.json"
+    },
+    {
+      "id": "light",
+      "title": "光",
+      "description": "从影子到彩虹，发现光的奇妙旅程。",
+      "icon": "light",
+      "file": "./science/light/questions.json"
+    },
+    {
+      "id": "electricity",
+      "title": "电与磁",
+      "description": "让灯泡亮起来，认识看不见的磁力。",
+      "icon": "electricity",
+      "file": "./science/electricity/questions.json"
+    },
+    {
+      "id": "experiment",
+      "title": "实验探究",
+      "description": "观察、比较、找证据，像科学家一样思考。",
+      "icon": "experiment",
+      "file": "./science/experiment/questions.json"
+    },
+    {
+      "id": "sound",
+      "title": "声音",
+      "description": "拨一拨、听一听，研究声音的高低与强弱。",
+      "icon": "sound",
+      "file": "./science/sound/questions.json"
+    },
+    {
+      "id": "heat",
+      "title": "热与材料",
+      "description": "看看热怎样传递，材料又有什么不同。",
+      "icon": "heat",
+      "file": "./science/heat/questions.json"
+    },
+    {
+      "id": "life",
+      "title": "生命与生态",
+      "description": "从一粒种子开始，理解生命之间的联系。",
+      "icon": "life",
+      "file": "./science/life/questions.json"
+    },
+    {
+      "id": "earth",
+      "title": "地球与宇宙",
+      "description": "观察天空和天气，认识我们生活的星球。",
+      "icon": "earth",
+      "file": "./science/earth/questions.json"
+    }
+  ]
+}

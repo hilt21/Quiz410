@@ -1,0 +1,665 @@
+{
+  "validator": "jsonschema Draft202012Validator",
+  "schemaValid": true,
+  "structuralCheck": "200/200 pass when explanation requirement alone is omitted",
+  "productionSchemaErrorCount": 160,
+  "productionSchemaErrors": [
+    {
+      "path": "questions/0",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/1",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/2",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/3",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/4",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/5",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/6",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/7",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/8",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/9",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/10",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/11",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/12",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/13",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/14",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/15",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/16",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/17",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/18",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/19",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/20",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/21",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/22",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/23",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/24",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/25",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/26",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/27",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/28",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/29",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/30",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/31",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/32",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/33",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/34",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/35",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/36",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/37",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/38",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/39",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/40",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/41",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/42",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/43",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/44",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/45",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/46",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/47",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/48",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/49",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/50",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/51",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/52",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/53",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/54",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/55",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/56",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/57",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/58",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/59",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/60",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/61",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/62",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/63",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/64",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/65",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/66",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/67",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/68",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/69",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/70",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/71",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/72",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/73",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/74",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/75",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/76",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/77",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/78",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/79",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/80",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/81",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/82",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/83",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/84",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/85",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/86",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/87",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/88",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/89",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/90",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/91",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/92",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/93",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/94",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/95",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/96",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/97",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/98",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/99",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/100",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/101",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/102",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/103",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/104",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/105",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/106",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/107",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/108",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/109",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/110",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/111",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/112",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/113",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/114",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/115",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/116",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/117",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/118",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/119",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/120",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/121",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/122",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/123",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/124",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/125",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/126",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/127",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/128",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/129",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/130",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/131",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/132",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/133",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/134",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/135",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/136",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/137",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/138",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/139",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/140",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/141",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/142",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/143",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/144",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/145",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/146",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/147",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/148",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/149",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/150",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/151",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/152",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/153",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/154",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/155",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/156",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/157",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/158",
+      "message": "'explanation' is a required property"
+    },
+    {
+      "path": "questions/159",
+      "message": "'explanation' is a required property"
+    }
+  ],
+  "semanticCheck": "pass: unique question/group/option IDs, answer references, group references and membership, table row width",
+  "table101Fixture": "pass",
+  "negativeCases": {
+    "invalid question type": "rejected",
+    "empty prompt": "rejected",
+    "single-choice two answers": "rejected",
+    "multiple-choice one answer": "rejected",
+    "duplicate answer": "rejected",
+    "invalid true-false option": "rejected",
+    "unknown field": "rejected",
+    "duplicate question ID": "rejected",
+    "duplicate option ID": "rejected",
+    "unknown answer reference": "rejected",
+    "unknown group question": "rejected",
+    "question in two groups": "rejected",
+    "unequal table row width": "rejected"
+  }
+}

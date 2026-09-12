@@ -1,0 +1,679 @@
+{
+  "schemaVersion": 1,
+  "topic": "life",
+  "groups": [
+    {
+      "id": "scenario-05",
+      "title": "情境五：植物生长与光照",
+      "material": [
+        {
+          "type": "text",
+          "text": "同品种幼苗分为三组，每组 10 株，水量、土壤和温度相同，改变每日光照时间。两周后测量平均株高增量。"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "每日光照 / h",
+            "两周平均增高 / cm"
+          ],
+          "rows": [
+            [
+              "2",
+              "3.2"
+            ],
+            [
+              "6",
+              "6.8"
+            ],
+            [
+              "10",
+              "6.5"
+            ]
+          ]
+        }
+      ],
+      "questionIds": [
+        "science-181",
+        "science-182",
+        "science-183",
+        "science-184",
+        "science-185"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "science-031",
+      "type": "true-false",
+      "question": "植物进行光合作用需要光，并会制造有机物。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 31
+      },
+      "explanation": "绿色植物利用光能，把水和二氧化碳转化为有机物，供自身生长等活动使用。"
+    },
+    {
+      "id": "science-032",
+      "type": "true-false",
+      "question": "一条完整的食物链通常从绿色植物或其他生产者开始。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 32
+      },
+      "explanation": "生产者制造有机物，为食物链提供食物来源，所以食物链通常从生产者开始。"
+    },
+    {
+      "id": "science-033",
+      "type": "true-false",
+      "question": "生态系统中一种生物数量变化，可能影响多种其他生物。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "true"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 33
+      },
+      "explanation": "生物之间通过捕食、竞争等关系相互联系，一种数量变化可能沿这些关系影响其他生物。"
+    },
+    {
+      "id": "science-034",
+      "type": "true-false",
+      "question": "种子萌发只需要水，温度和空气完全没有影响。（ ）",
+      "options": [
+        {
+          "id": "true",
+          "text": "正确"
+        },
+        {
+          "id": "false",
+          "text": "错误"
+        }
+      ],
+      "answer": [
+        "false"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 34
+      },
+      "explanation": "多数种子萌发需要适量水分、空气和适宜温度，缺少其中重要条件会影响萌发。"
+    },
+    {
+      "id": "science-076",
+      "type": "single-choice",
+      "question": "在“阳光是否影响幼苗生长”的实验中，最需要保持相同的是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "光照条件"
+        },
+        {
+          "id": "b",
+          "text": "幼苗品种、土壤、水量等"
+        },
+        {
+          "id": "c",
+          "text": "实验结果"
+        },
+        {
+          "id": "d",
+          "text": "叶片颜色"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 76
+      },
+      "explanation": "改变光照时，应让幼苗品种、土壤和水量相同，减少其他生长条件的干扰。"
+    },
+    {
+      "id": "science-077",
+      "type": "single-choice",
+      "question": "若某地区兔数量短期大幅减少，最可能首先受到食物减少影响的是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "鹰"
+        },
+        {
+          "id": "b",
+          "text": "草"
+        },
+        {
+          "id": "c",
+          "text": "太阳"
+        },
+        {
+          "id": "d",
+          "text": "岩石"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 77
+      },
+      "explanation": "鹰可能捕食兔，兔减少会使鹰的食物来源减少；草不是以兔为食的动物。"
+    },
+    {
+      "id": "science-078",
+      "type": "single-choice",
+      "question": "下列哪项属于动物适应环境的结构特征？",
+      "options": [
+        {
+          "id": "a",
+          "text": "北极熊厚厚的脂肪层"
+        },
+        {
+          "id": "b",
+          "text": "石头很硬"
+        },
+        {
+          "id": "c",
+          "text": "河水向低处流"
+        },
+        {
+          "id": "d",
+          "text": "铁会生锈"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 78
+      },
+      "explanation": "北极熊的脂肪层有助于减少热量散失，是与寒冷环境相适应的身体结构。"
+    },
+    {
+      "id": "science-079",
+      "type": "single-choice",
+      "question": "研究种子萌发是否需要水，合理的两组实验应主要区别在？",
+      "options": [
+        {
+          "id": "a",
+          "text": "是否提供水"
+        },
+        {
+          "id": "b",
+          "text": "种子种类"
+        },
+        {
+          "id": "c",
+          "text": "温度与光照同时不同"
+        },
+        {
+          "id": "d",
+          "text": "容器大小完全不同"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 79
+      },
+      "explanation": "用相同种子，在温度、空气等条件一致时比较有水和无水，才能检验水的作用。"
+    },
+    {
+      "id": "science-080",
+      "type": "single-choice",
+      "question": "人体吸入空气与呼出空气相比，呼出空气通常？",
+      "options": [
+        {
+          "id": "a",
+          "text": "氧气更多、二氧化碳更少"
+        },
+        {
+          "id": "b",
+          "text": "氧气更少、二氧化碳更多"
+        },
+        {
+          "id": "c",
+          "text": "完全没有氧气"
+        },
+        {
+          "id": "d",
+          "text": "完全没有水蒸气"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 80
+      },
+      "explanation": "人体利用部分氧气并产生二氧化碳，因此呼出空气通常氧气较少、二氧化碳较多，但仍含氧气。"
+    },
+    {
+      "id": "science-081",
+      "type": "single-choice",
+      "question": "运动后心跳和呼吸加快，主要为了？",
+      "options": [
+        {
+          "id": "a",
+          "text": "给肌肉提供更多氧气并运走代谢产物"
+        },
+        {
+          "id": "b",
+          "text": "减少血液流动"
+        },
+        {
+          "id": "c",
+          "text": "停止能量供应"
+        },
+        {
+          "id": "d",
+          "text": "降低所有器官活动"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 81
+      },
+      "explanation": "运动时肌肉需要更多能量，心跳和呼吸加快有助于输送氧气并带走二氧化碳等代谢产物。"
+    },
+    {
+      "id": "science-141",
+      "type": "multiple-choice",
+      "question": "植物生长通常需要的条件包括？",
+      "options": [
+        {
+          "id": "a",
+          "text": "适宜水分"
+        },
+        {
+          "id": "b",
+          "text": "适宜温度"
+        },
+        {
+          "id": "c",
+          "text": "空气"
+        },
+        {
+          "id": "d",
+          "text": "一定条件下的光"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 141
+      },
+      "explanation": "植物正常生长通常需要适宜水分、温度、空气和光照，各种植物对这些条件的需求并不完全相同。"
+    },
+    {
+      "id": "science-142",
+      "type": "multiple-choice",
+      "question": "光合作用相关说法正确的有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "需要光能"
+        },
+        {
+          "id": "b",
+          "text": "绿色植物可制造有机物"
+        },
+        {
+          "id": "c",
+          "text": "会影响大气中氧气和二氧化碳"
+        },
+        {
+          "id": "d",
+          "text": "只能在根部发生"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 142
+      },
+      "explanation": "绿色植物利用光能制造有机物，并在过程中吸收二氧化碳、释放氧气；并非只能在根部进行。"
+    },
+    {
+      "id": "science-143",
+      "type": "multiple-choice",
+      "question": "生态系统中的消费者可能包括？",
+      "options": [
+        {
+          "id": "a",
+          "text": "兔"
+        },
+        {
+          "id": "b",
+          "text": "鹰"
+        },
+        {
+          "id": "c",
+          "text": "人"
+        },
+        {
+          "id": "d",
+          "text": "绿色植物"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 143
+      },
+      "explanation": "兔、鹰和人都通过取食其他生物获得有机物，属于消费者；绿色植物通常是生产者。"
+    },
+    {
+      "id": "science-144",
+      "type": "multiple-choice",
+      "question": "若一种昆虫数量骤减，可能造成？",
+      "options": [
+        {
+          "id": "a",
+          "text": "以它为食的动物食物减少"
+        },
+        {
+          "id": "b",
+          "text": "它取食的植物数量可能变化"
+        },
+        {
+          "id": "c",
+          "text": "食物网其他关系可能受影响"
+        },
+        {
+          "id": "d",
+          "text": "生态系统一定完全不变"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 144
+      },
+      "explanation": "昆虫减少可能影响其捕食者和它取食的植物，变化还可能沿食物网传递，不能认为系统必定不变。"
+    },
+    {
+      "id": "science-145",
+      "type": "multiple-choice",
+      "question": "人体运动时可能发生的变化有？",
+      "options": [
+        {
+          "id": "a",
+          "text": "心率加快"
+        },
+        {
+          "id": "b",
+          "text": "呼吸频率增加"
+        },
+        {
+          "id": "c",
+          "text": "肌肉耗氧增加"
+        },
+        {
+          "id": "d",
+          "text": "能量需求下降到零"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 145
+      },
+      "explanation": "运动使肌肉用能和耗氧增加，心率与呼吸频率可能随之上升，能量需求不会降为零。"
+    },
+    {
+      "id": "science-149",
+      "type": "multiple-choice",
+      "question": "土壤对植物生长的重要作用包括？",
+      "options": [
+        {
+          "id": "a",
+          "text": "固定根系"
+        },
+        {
+          "id": "b",
+          "text": "提供水分"
+        },
+        {
+          "id": "c",
+          "text": "提供部分无机盐"
+        },
+        {
+          "id": "d",
+          "text": "提供根系所需空气孔隙"
+        }
+      ],
+      "answer": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 149
+      },
+      "explanation": "土壤支撑根系，并通过水分、无机盐和孔隙中的空气为根系提供重要生长条件。"
+    },
+    {
+      "id": "science-181",
+      "type": "single-choice",
+      "question": "从现有数据看，株高增长最大的是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 h组"
+        },
+        {
+          "id": "b",
+          "text": "6 h组"
+        },
+        {
+          "id": "c",
+          "text": "10 h组"
+        },
+        {
+          "id": "d",
+          "text": "三组相同"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 181
+      },
+      "explanation": "6 h组平均增高6.8 cm，大于2 h组的3.2 cm和10 h组的6.5 cm，是本次增长最大的一组。"
+    },
+    {
+      "id": "science-182",
+      "type": "single-choice",
+      "question": "能否得出“光照越久，植物一定长得越高”？",
+      "options": [
+        {
+          "id": "a",
+          "text": "能"
+        },
+        {
+          "id": "b",
+          "text": "不能，10 h组并未继续增加且只测了三个水平"
+        },
+        {
+          "id": "c",
+          "text": "能，因为有光合作用"
+        },
+        {
+          "id": "d",
+          "text": "一定能推广到所有植物"
+        }
+      ],
+      "answer": [
+        "b"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 182
+      },
+      "explanation": "10 h组增长6.5 cm，低于6 h组的6.8 cm，已不符合“一定越久越高”，也不能推广到所有植物。"
+    },
+    {
+      "id": "science-183",
+      "type": "single-choice",
+      "question": "每组使用10株而非1株，主要好处是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "减少个体差异和偶然因素影响"
+        },
+        {
+          "id": "b",
+          "text": "让植物更快开花"
+        },
+        {
+          "id": "c",
+          "text": "改变光照时间"
+        },
+        {
+          "id": "d",
+          "text": "取消控制变量"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 183
+      },
+      "explanation": "多株幼苗能减少某一株特别强壮或虚弱对结果的影响，比只用一株更能反映这一组的情况。"
+    },
+    {
+      "id": "science-184",
+      "type": "single-choice",
+      "question": "如果2 h组同时浇水更少，主要问题是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "出现混杂变量，难判断是否由光照造成"
+        },
+        {
+          "id": "b",
+          "text": "数据一定更准确"
+        },
+        {
+          "id": "c",
+          "text": "植物不需要水"
+        },
+        {
+          "id": "d",
+          "text": "光照成为因变量"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 184
+      },
+      "explanation": "光照少的组同时水量更少，生长差异可能来自缺光、缺水或二者共同作用，无法单独判断光照影响。"
+    },
+    {
+      "id": "science-185",
+      "type": "single-choice",
+      "question": "若要预测8 h光照下的株高增长，较合理做法是？",
+      "options": [
+        {
+          "id": "a",
+          "text": "基于现有趋势给出范围预测并再做8 h实验验证"
+        },
+        {
+          "id": "b",
+          "text": "宣称一定是100 cm"
+        },
+        {
+          "id": "c",
+          "text": "忽略已有数据"
+        },
+        {
+          "id": "d",
+          "text": "只看2 h组"
+        }
+      ],
+      "answer": [
+        "a"
+      ],
+      "source": {
+        "file": "小学高年级科学实验探索建模_200题训练题库.md",
+        "number": 185
+      },
+      "explanation": "8 h尚未测量，可参考邻近6 h和10 h数据提出有不确定性的预测，再增加8 h实验验证。"
+    }
+  ]
+}
