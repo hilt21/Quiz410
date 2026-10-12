@@ -21,7 +21,11 @@ const cacheName = prefix + '${version}';
 const files = ${JSON.stringify(files)};
 const url = path => new URL(path, self.registration.scope).href;
 self.addEventListener('install', event => {
-  event.waitUntil(caches.open(cacheName).then(cache => cache.addAll(files.map(url))));
+  event.waitUntil(
+    caches.open(cacheName)
+      .then(cache => cache.addAll(files.map(path => new Request(url(path), { cache: 'reload' }))))
+      .then(() => self.skipWaiting())
+  );
 });
 self.addEventListener('activate', event => {
   event.waitUntil(caches.keys().then(keys => Promise.all(keys.filter(key => key.startsWith(prefix) && key !== cacheName).map(key => caches.delete(key)))).then(() => self.clients.claim()));
