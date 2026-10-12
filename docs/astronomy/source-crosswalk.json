@@ -1,0 +1,1578 @@
+[
+  {
+    "source": "A1",
+    "status": "imported",
+    "id": "astronomy-a-001",
+    "editorialNote": ""
+  },
+  {
+    "source": "A2",
+    "status": "imported",
+    "id": "astronomy-a-002",
+    "editorialNote": "原题“最优秀”没有客观标准，改为可核对的著作问题。"
+  },
+  {
+    "source": "A3",
+    "status": "imported",
+    "id": "astronomy-a-003",
+    "editorialNote": ""
+  },
+  {
+    "source": "A4",
+    "status": "imported",
+    "id": "astronomy-a-004",
+    "editorialNote": ""
+  },
+  {
+    "source": "A5",
+    "status": "imported",
+    "id": "astronomy-a-005",
+    "editorialNote": ""
+  },
+  {
+    "source": "A6",
+    "status": "imported",
+    "id": "astronomy-a-006",
+    "editorialNote": "原题没有区分空间和时空。"
+  },
+  {
+    "source": "A7",
+    "status": "imported",
+    "id": "astronomy-a-007",
+    "editorialNote": ""
+  },
+  {
+    "source": "A8",
+    "status": "imported",
+    "id": "astronomy-a-008",
+    "editorialNote": ""
+  },
+  {
+    "source": "A9",
+    "status": "imported",
+    "id": "astronomy-a-009",
+    "editorialNote": ""
+  },
+  {
+    "source": "A10",
+    "status": "imported",
+    "id": "astronomy-a-010",
+    "editorialNote": "修复原题重复“火星”和“最接近地球”的模糊比较。"
+  },
+  {
+    "source": "A11",
+    "status": "imported",
+    "id": "astronomy-a-011",
+    "editorialNote": ""
+  },
+  {
+    "source": "A12",
+    "status": "imported",
+    "id": "astronomy-a-012",
+    "editorialNote": ""
+  },
+  {
+    "source": "A13",
+    "status": "imported",
+    "id": "astronomy-a-013",
+    "editorialNote": ""
+  },
+  {
+    "source": "A14",
+    "status": "imported",
+    "id": "astronomy-a-014",
+    "editorialNote": ""
+  },
+  {
+    "source": "A15",
+    "status": "imported",
+    "id": "astronomy-a-015",
+    "editorialNote": "原 D 选项缺字，编辑补为水星和金星。"
+  },
+  {
+    "source": "A16",
+    "status": "imported",
+    "id": "astronomy-a-016",
+    "editorialNote": ""
+  },
+  {
+    "source": "A17",
+    "status": "imported",
+    "id": "astronomy-a-017",
+    "editorialNote": ""
+  },
+  {
+    "source": "A18",
+    "status": "imported",
+    "id": "astronomy-a-018",
+    "editorialNote": ""
+  },
+  {
+    "source": "A19",
+    "status": "imported",
+    "id": "astronomy-a-019",
+    "editorialNote": "原选项混用位置与波段分类。"
+  },
+  {
+    "source": "A20",
+    "status": "imported",
+    "id": "astronomy-a-020",
+    "editorialNote": ""
+  },
+  {
+    "source": "A21",
+    "status": "imported",
+    "id": "astronomy-a-021",
+    "editorialNote": ""
+  },
+  {
+    "source": "A22",
+    "status": "imported",
+    "id": "astronomy-a-022",
+    "editorialNote": ""
+  },
+  {
+    "source": "A23",
+    "status": "imported",
+    "id": "astronomy-a-023",
+    "editorialNote": ""
+  },
+  {
+    "source": "A24",
+    "status": "excluded",
+    "reason": "题干与题号缺失，只剩光谱选项。"
+  },
+  {
+    "source": "A25",
+    "status": "imported",
+    "id": "astronomy-a-025",
+    "editorialNote": "原答案 D（江苏）错误，“在建”也已过时。"
+  },
+  {
+    "source": "A26",
+    "status": "imported",
+    "id": "astronomy-a-026",
+    "editorialNote": ""
+  },
+  {
+    "source": "A27",
+    "status": "imported",
+    "id": "astronomy-a-027",
+    "editorialNote": ""
+  },
+  {
+    "source": "A28",
+    "status": "imported",
+    "id": "astronomy-a-028",
+    "editorialNote": ""
+  },
+  {
+    "source": "A29",
+    "status": "imported",
+    "id": "astronomy-a-029",
+    "editorialNote": ""
+  },
+  {
+    "source": "A30",
+    "status": "imported",
+    "id": "astronomy-a-030",
+    "editorialNote": ""
+  },
+  {
+    "source": "A31",
+    "status": "imported",
+    "id": "astronomy-a-031",
+    "editorialNote": ""
+  },
+  {
+    "source": "A32",
+    "status": "imported",
+    "id": "astronomy-a-032",
+    "editorialNote": ""
+  },
+  {
+    "source": "A33",
+    "status": "imported",
+    "id": "astronomy-a-033",
+    "editorialNote": ""
+  },
+  {
+    "source": "A34",
+    "status": "imported",
+    "id": "astronomy-a-034",
+    "editorialNote": ""
+  },
+  {
+    "source": "A35",
+    "status": "imported",
+    "id": "astronomy-a-035",
+    "editorialNote": ""
+  },
+  {
+    "source": "A36",
+    "status": "imported",
+    "id": "astronomy-a-036",
+    "editorialNote": ""
+  },
+  {
+    "source": "A37",
+    "status": "excluded",
+    "reason": "原页没有题干，不能凭空补造。"
+  },
+  {
+    "source": "A38",
+    "status": "excluded",
+    "reason": "原页没有题干，不能凭空补造。"
+  },
+  {
+    "source": "A39",
+    "status": "excluded",
+    "reason": "原页没有题干，不能凭空补造。"
+  },
+  {
+    "source": "A40",
+    "status": "excluded",
+    "reason": "只剩重复“比邻星”的选项，题干缺失。"
+  },
+  {
+    "source": "A41",
+    "status": "imported",
+    "id": "astronomy-a-041",
+    "editorialNote": ""
+  },
+  {
+    "source": "A42",
+    "status": "imported",
+    "id": "astronomy-a-042",
+    "editorialNote": "原“四万”改为更准确的数值。"
+  },
+  {
+    "source": "A43",
+    "status": "imported",
+    "id": "astronomy-a-043",
+    "editorialNote": ""
+  },
+  {
+    "source": "A44",
+    "status": "imported",
+    "id": "astronomy-a-044",
+    "editorialNote": ""
+  },
+  {
+    "source": "A45",
+    "status": "imported",
+    "id": "astronomy-a-045",
+    "editorialNote": ""
+  },
+  {
+    "source": "A46",
+    "status": "imported",
+    "id": "astronomy-a-046",
+    "editorialNote": ""
+  },
+  {
+    "source": "A47",
+    "status": "imported",
+    "id": "astronomy-a-047",
+    "editorialNote": ""
+  },
+  {
+    "source": "A48",
+    "status": "imported",
+    "id": "astronomy-a-048",
+    "editorialNote": ""
+  },
+  {
+    "source": "A49",
+    "status": "imported",
+    "id": "astronomy-a-049",
+    "editorialNote": ""
+  },
+  {
+    "source": "A50",
+    "status": "imported",
+    "id": "astronomy-a-050",
+    "editorialNote": ""
+  },
+  {
+    "source": "A51",
+    "status": "excluded",
+    "reason": "只剩舱段选项，没有题干。"
+  },
+  {
+    "source": "A52",
+    "status": "imported",
+    "id": "astronomy-a-052",
+    "editorialNote": ""
+  },
+  {
+    "source": "A53",
+    "status": "imported",
+    "id": "astronomy-a-053",
+    "editorialNote": ""
+  },
+  {
+    "source": "A54",
+    "status": "imported",
+    "id": "astronomy-a-054",
+    "editorialNote": ""
+  },
+  {
+    "source": "A55",
+    "status": "imported",
+    "id": "astronomy-a-055",
+    "editorialNote": ""
+  },
+  {
+    "source": "A56",
+    "status": "imported",
+    "id": "astronomy-a-056",
+    "editorialNote": ""
+  },
+  {
+    "source": "A57",
+    "status": "imported",
+    "id": "astronomy-a-057",
+    "editorialNote": ""
+  },
+  {
+    "source": "A58",
+    "status": "imported",
+    "id": "astronomy-a-058",
+    "editorialNote": ""
+  },
+  {
+    "source": "A59",
+    "status": "imported",
+    "id": "astronomy-a-059",
+    "editorialNote": ""
+  },
+  {
+    "source": "A60",
+    "status": "imported",
+    "id": "astronomy-a-060",
+    "editorialNote": "原文姓名错为“杨立伟”。"
+  },
+  {
+    "source": "A61",
+    "status": "imported",
+    "id": "astronomy-a-061",
+    "editorialNote": ""
+  },
+  {
+    "source": "A62",
+    "status": "imported",
+    "id": "astronomy-a-062",
+    "editorialNote": ""
+  },
+  {
+    "source": "A63",
+    "status": "merged",
+    "id": "astronomy-a-032",
+    "reason": "同知识点重复题；保留对应题，避免重复抽题权重。"
+  },
+  {
+    "source": "A64",
+    "status": "imported",
+    "id": "astronomy-a-064",
+    "editorialNote": "原 D 选项残缺，删除。"
+  },
+  {
+    "source": "A65",
+    "status": "imported",
+    "id": "astronomy-a-065",
+    "editorialNote": "修正原题将耀斑限定在单一层的说法。"
+  },
+  {
+    "source": "A66",
+    "status": "merged",
+    "id": "astronomy-a-033",
+    "reason": "同知识点重复题；保留对应题，避免重复抽题权重。"
+  },
+  {
+    "source": "A67",
+    "status": "imported",
+    "id": "astronomy-a-067",
+    "editorialNote": ""
+  },
+  {
+    "source": "A68",
+    "status": "imported",
+    "id": "astronomy-a-068",
+    "editorialNote": "原题答案只给 B，但恢复缺字后 B、C 均正确，改为多选。"
+  },
+  {
+    "source": "A69",
+    "status": "imported",
+    "id": "astronomy-a-069",
+    "editorialNote": "原答案“3”整理为 C。"
+  },
+  {
+    "source": "A70",
+    "status": "imported",
+    "id": "astronomy-a-070",
+    "editorialNote": ""
+  },
+  {
+    "source": "A71",
+    "status": "imported",
+    "id": "astronomy-a-071",
+    "editorialNote": ""
+  },
+  {
+    "source": "A72",
+    "status": "imported",
+    "id": "astronomy-a-072",
+    "editorialNote": ""
+  },
+  {
+    "source": "A73",
+    "status": "imported",
+    "id": "astronomy-a-073",
+    "editorialNote": ""
+  },
+  {
+    "source": "A74",
+    "status": "imported",
+    "id": "astronomy-a-074",
+    "editorialNote": ""
+  },
+  {
+    "source": "A75",
+    "status": "imported",
+    "id": "astronomy-a-075",
+    "editorialNote": ""
+  },
+  {
+    "source": "A76",
+    "status": "imported",
+    "id": "astronomy-a-076",
+    "editorialNote": ""
+  },
+  {
+    "source": "A77",
+    "status": "imported",
+    "id": "astronomy-a-077",
+    "editorialNote": ""
+  },
+  {
+    "source": "A78",
+    "status": "imported",
+    "id": "astronomy-a-078",
+    "editorialNote": ""
+  },
+  {
+    "source": "A79",
+    "status": "imported",
+    "id": "astronomy-a-079",
+    "editorialNote": "原答案 A 错误。"
+  },
+  {
+    "source": "A80",
+    "status": "imported",
+    "id": "astronomy-a-080",
+    "editorialNote": "删去原题“即将发射”。"
+  },
+  {
+    "source": "A81",
+    "status": "imported",
+    "id": "astronomy-a-081",
+    "editorialNote": ""
+  },
+  {
+    "source": "A82",
+    "status": "imported",
+    "id": "astronomy-a-082",
+    "editorialNote": ""
+  },
+  {
+    "source": "A83",
+    "status": "imported",
+    "id": "astronomy-a-083",
+    "editorialNote": ""
+  },
+  {
+    "source": "A84",
+    "status": "imported",
+    "id": "astronomy-a-084",
+    "editorialNote": ""
+  },
+  {
+    "source": "A85",
+    "status": "imported",
+    "id": "astronomy-a-085",
+    "editorialNote": ""
+  },
+  {
+    "source": "A86",
+    "status": "imported",
+    "id": "astronomy-a-086",
+    "editorialNote": ""
+  },
+  {
+    "source": "A87",
+    "status": "imported",
+    "id": "astronomy-a-087",
+    "editorialNote": ""
+  },
+  {
+    "source": "A88",
+    "status": "excluded",
+    "reason": "只剩太阳现象选项，没有题干。"
+  },
+  {
+    "source": "A89",
+    "status": "imported",
+    "id": "astronomy-a-089",
+    "editorialNote": "原题选项缺失，四个符号选项为编辑补充。"
+  },
+  {
+    "source": "A90",
+    "status": "imported",
+    "id": "astronomy-a-090",
+    "editorialNote": ""
+  },
+  {
+    "source": "A91",
+    "status": "imported",
+    "id": "astronomy-a-091",
+    "editorialNote": ""
+  },
+  {
+    "source": "A92",
+    "status": "imported",
+    "id": "astronomy-a-092",
+    "editorialNote": ""
+  },
+  {
+    "source": "A93",
+    "status": "imported",
+    "id": "astronomy-a-093",
+    "editorialNote": ""
+  },
+  {
+    "source": "A94",
+    "status": "imported",
+    "id": "astronomy-a-094",
+    "editorialNote": "原题的旧定义改为近似比较。"
+  },
+  {
+    "source": "A95",
+    "status": "imported",
+    "id": "astronomy-a-095",
+    "editorialNote": ""
+  },
+  {
+    "source": "A96",
+    "status": "imported",
+    "id": "astronomy-a-096",
+    "editorialNote": ""
+  },
+  {
+    "source": "A97",
+    "status": "imported",
+    "id": "astronomy-a-097",
+    "editorialNote": ""
+  },
+  {
+    "source": "A98",
+    "status": "imported",
+    "id": "astronomy-a-098",
+    "editorialNote": ""
+  },
+  {
+    "source": "A99",
+    "status": "imported",
+    "id": "astronomy-a-099",
+    "editorialNote": ""
+  },
+  {
+    "source": "A100",
+    "status": "imported",
+    "id": "astronomy-a-100",
+    "editorialNote": ""
+  },
+  {
+    "source": "A101",
+    "status": "imported",
+    "id": "astronomy-a-101",
+    "editorialNote": "原题只选月球，遗漏其余正确选项，改为多选。"
+  },
+  {
+    "source": "A102",
+    "status": "imported",
+    "id": "astronomy-a-102",
+    "editorialNote": ""
+  },
+  {
+    "source": "A103",
+    "status": "imported",
+    "id": "astronomy-a-103",
+    "editorialNote": ""
+  },
+  {
+    "source": "A104",
+    "status": "imported",
+    "id": "astronomy-a-104",
+    "editorialNote": ""
+  },
+  {
+    "source": "A105",
+    "status": "imported",
+    "id": "astronomy-a-105",
+    "editorialNote": ""
+  },
+  {
+    "source": "A106",
+    "status": "imported",
+    "id": "astronomy-a-106",
+    "editorialNote": "原“天气类型”改为气候带。"
+  },
+  {
+    "source": "A107",
+    "status": "imported",
+    "id": "astronomy-a-107",
+    "editorialNote": ""
+  },
+  {
+    "source": "A108",
+    "status": "imported",
+    "id": "astronomy-a-108",
+    "editorialNote": ""
+  },
+  {
+    "source": "A109",
+    "status": "imported",
+    "id": "astronomy-a-109",
+    "editorialNote": ""
+  },
+  {
+    "source": "A110",
+    "status": "excluded",
+    "reason": "只剩城市选项，没有题干。"
+  },
+  {
+    "source": "A111",
+    "status": "imported",
+    "id": "astronomy-a-111",
+    "editorialNote": "原 D 缺字、原答案 C 不适合这一问法。"
+  },
+  {
+    "source": "A112",
+    "status": "imported",
+    "id": "astronomy-a-112",
+    "editorialNote": "原四个选项完全重复，重新编写干扰项。"
+  },
+  {
+    "source": "A113",
+    "status": "imported",
+    "id": "astronomy-a-113",
+    "editorialNote": ""
+  },
+  {
+    "source": "A114",
+    "status": "imported",
+    "id": "astronomy-a-114",
+    "editorialNote": ""
+  },
+  {
+    "source": "A115",
+    "status": "imported",
+    "id": "astronomy-a-115",
+    "editorialNote": ""
+  },
+  {
+    "source": "A116",
+    "status": "imported",
+    "id": "astronomy-a-116",
+    "editorialNote": "原“最出名”改为具体贡献。"
+  },
+  {
+    "source": "A117",
+    "status": "merged",
+    "id": "astronomy-a-084",
+    "reason": "同知识点重复题；保留对应题，避免重复抽题权重。"
+  },
+  {
+    "source": "A118",
+    "status": "imported",
+    "id": "astronomy-a-118",
+    "editorialNote": ""
+  },
+  {
+    "source": "A119",
+    "status": "imported",
+    "id": "astronomy-a-119",
+    "editorialNote": ""
+  },
+  {
+    "source": "A120",
+    "status": "imported",
+    "id": "astronomy-a-120",
+    "editorialNote": ""
+  },
+  {
+    "source": "A121",
+    "status": "imported",
+    "id": "astronomy-a-121",
+    "editorialNote": ""
+  },
+  {
+    "source": "A122",
+    "status": "imported",
+    "id": "astronomy-a-122",
+    "editorialNote": ""
+  },
+  {
+    "source": "A123",
+    "status": "imported",
+    "id": "astronomy-a-123",
+    "editorialNote": ""
+  },
+  {
+    "source": "A124",
+    "status": "imported",
+    "id": "astronomy-a-124",
+    "editorialNote": ""
+  },
+  {
+    "source": "A125",
+    "status": "imported",
+    "id": "astronomy-a-125",
+    "editorialNote": ""
+  },
+  {
+    "source": "A126",
+    "status": "imported",
+    "id": "astronomy-a-126",
+    "editorialNote": ""
+  },
+  {
+    "source": "A127",
+    "status": "merged",
+    "id": "astronomy-a-002",
+    "reason": "同知识点重复题；保留对应题，避免重复抽题权重。"
+  },
+  {
+    "source": "A128",
+    "status": "merged",
+    "id": "astronomy-a-036",
+    "reason": "同知识点重复题；保留对应题，避免重复抽题权重。"
+  },
+  {
+    "source": "A129",
+    "status": "imported",
+    "id": "astronomy-a-129",
+    "editorialNote": ""
+  },
+  {
+    "source": "A130",
+    "status": "imported",
+    "id": "astronomy-a-130",
+    "editorialNote": ""
+  },
+  {
+    "source": "A131",
+    "status": "imported",
+    "id": "astronomy-a-131",
+    "editorialNote": ""
+  },
+  {
+    "source": "A132",
+    "status": "imported",
+    "id": "astronomy-a-132",
+    "editorialNote": ""
+  },
+  {
+    "source": "A133",
+    "status": "excluded",
+    "reason": "只剩天体选项，没有题干。"
+  },
+  {
+    "source": "A134",
+    "status": "merged",
+    "id": "astronomy-a-016",
+    "reason": "同知识点重复题；保留对应题，避免重复抽题权重。"
+  },
+  {
+    "source": "A135",
+    "status": "imported",
+    "id": "astronomy-a-135",
+    "editorialNote": ""
+  },
+  {
+    "source": "A136",
+    "status": "imported",
+    "id": "astronomy-a-136",
+    "editorialNote": ""
+  },
+  {
+    "source": "A137",
+    "status": "imported",
+    "id": "astronomy-a-137",
+    "editorialNote": ""
+  },
+  {
+    "source": "A138",
+    "status": "imported",
+    "id": "astronomy-a-138",
+    "editorialNote": ""
+  },
+  {
+    "source": "A139",
+    "status": "excluded",
+    "reason": "“中国天文日 10 月 30 日”缺少可靠依据，不能据原答案发布。"
+  },
+  {
+    "source": "A140",
+    "status": "imported",
+    "id": "astronomy-a-140",
+    "editorialNote": ""
+  },
+  {
+    "source": "A141",
+    "status": "imported",
+    "id": "astronomy-a-141",
+    "editorialNote": ""
+  },
+  {
+    "source": "A142",
+    "status": "imported",
+    "id": "astronomy-a-142",
+    "editorialNote": ""
+  },
+  {
+    "source": "A143",
+    "status": "imported",
+    "id": "astronomy-a-143",
+    "editorialNote": ""
+  },
+  {
+    "source": "A144",
+    "status": "imported",
+    "id": "astronomy-a-144",
+    "editorialNote": "原题“生命物质”表述不准确。"
+  },
+  {
+    "source": "A145",
+    "status": "imported",
+    "id": "astronomy-a-145",
+    "editorialNote": ""
+  },
+  {
+    "source": "A146",
+    "status": "imported",
+    "id": "astronomy-a-146",
+    "editorialNote": ""
+  },
+  {
+    "source": "A147",
+    "status": "imported",
+    "id": "astronomy-a-147",
+    "editorialNote": ""
+  },
+  {
+    "source": "A148",
+    "status": "imported",
+    "id": "astronomy-a-148",
+    "editorialNote": ""
+  },
+  {
+    "source": "A149",
+    "status": "imported",
+    "id": "astronomy-a-149",
+    "editorialNote": ""
+  },
+  {
+    "source": "A150",
+    "status": "merged",
+    "id": "astronomy-a-026",
+    "reason": "同知识点重复题；保留对应题，避免重复抽题权重。"
+  },
+  {
+    "source": "B1",
+    "status": "imported",
+    "id": "astronomy-b-001",
+    "editorialNote": ""
+  },
+  {
+    "source": "B2",
+    "status": "imported",
+    "id": "astronomy-b-002",
+    "editorialNote": ""
+  },
+  {
+    "source": "B3",
+    "status": "imported",
+    "id": "astronomy-b-003",
+    "editorialNote": ""
+  },
+  {
+    "source": "B4",
+    "status": "imported",
+    "id": "astronomy-b-004",
+    "editorialNote": ""
+  },
+  {
+    "source": "B5",
+    "status": "excluded",
+    "reason": "“宇宙中最大能源”没有可比较的定义或条件。"
+  },
+  {
+    "source": "B6",
+    "status": "imported",
+    "id": "astronomy-b-006",
+    "editorialNote": ""
+  },
+  {
+    "source": "B7",
+    "status": "imported",
+    "id": "astronomy-b-007",
+    "editorialNote": ""
+  },
+  {
+    "source": "B8",
+    "status": "imported",
+    "id": "astronomy-b-008",
+    "editorialNote": ""
+  },
+  {
+    "source": "B9",
+    "status": "excluded",
+    "reason": "题干部分可读，但 B、C 选项完全缺失，无法还原原答案。"
+  },
+  {
+    "source": "B10",
+    "status": "imported",
+    "id": "astronomy-b-010",
+    "editorialNote": ""
+  },
+  {
+    "source": "B11",
+    "status": "imported",
+    "id": "astronomy-b-011",
+    "editorialNote": ""
+  },
+  {
+    "source": "B12",
+    "status": "imported",
+    "id": "astronomy-b-012",
+    "editorialNote": ""
+  },
+  {
+    "source": "B13",
+    "status": "imported",
+    "id": "astronomy-b-013",
+    "editorialNote": ""
+  },
+  {
+    "source": "B14",
+    "status": "imported",
+    "id": "astronomy-b-014",
+    "editorialNote": ""
+  },
+  {
+    "source": "B15",
+    "status": "imported",
+    "id": "astronomy-b-015",
+    "editorialNote": "原题缺单位，补为公里并限定初期。"
+  },
+  {
+    "source": "B16",
+    "status": "imported",
+    "id": "astronomy-b-016",
+    "editorialNote": ""
+  },
+  {
+    "source": "B17",
+    "status": "merged",
+    "id": "astronomy-a-094",
+    "reason": "同知识点重复题；保留对应题，避免重复抽题权重。"
+  },
+  {
+    "source": "B18",
+    "status": "imported",
+    "id": "astronomy-b-018",
+    "editorialNote": ""
+  },
+  {
+    "source": "B19",
+    "status": "merged",
+    "id": "astronomy-a-013",
+    "reason": "同知识点重复题；保留对应题，避免重复抽题权重。"
+  },
+  {
+    "source": "B20",
+    "status": "imported",
+    "id": "astronomy-b-020",
+    "editorialNote": ""
+  },
+  {
+    "source": "B21",
+    "status": "merged",
+    "id": "astronomy-a-078",
+    "reason": "同知识点重复题；保留对应题，避免重复抽题权重。"
+  },
+  {
+    "source": "B22",
+    "status": "imported",
+    "id": "astronomy-b-022",
+    "editorialNote": ""
+  },
+  {
+    "source": "B23",
+    "status": "imported",
+    "id": "astronomy-b-023",
+    "editorialNote": ""
+  },
+  {
+    "source": "B24",
+    "status": "imported",
+    "id": "astronomy-b-024",
+    "editorialNote": ""
+  },
+  {
+    "source": "B25",
+    "status": "imported",
+    "id": "astronomy-b-025",
+    "editorialNote": ""
+  },
+  {
+    "source": "B26",
+    "status": "imported",
+    "id": "astronomy-b-026",
+    "editorialNote": ""
+  },
+  {
+    "source": "B27",
+    "status": "imported",
+    "id": "astronomy-b-027",
+    "editorialNote": ""
+  },
+  {
+    "source": "B28",
+    "status": "imported",
+    "id": "astronomy-b-028",
+    "editorialNote": ""
+  },
+  {
+    "source": "B29",
+    "status": "imported",
+    "id": "astronomy-b-029",
+    "editorialNote": ""
+  },
+  {
+    "source": "B30",
+    "status": "imported",
+    "id": "astronomy-b-030",
+    "editorialNote": "原选项“16 世纪末”错误。"
+  },
+  {
+    "source": "B31",
+    "status": "imported",
+    "id": "astronomy-b-031",
+    "editorialNote": ""
+  },
+  {
+    "source": "B32",
+    "status": "imported",
+    "id": "astronomy-b-032",
+    "editorialNote": ""
+  },
+  {
+    "source": "B33",
+    "status": "imported",
+    "id": "astronomy-b-033",
+    "editorialNote": ""
+  },
+  {
+    "source": "B34",
+    "status": "imported",
+    "id": "astronomy-b-034",
+    "editorialNote": ""
+  },
+  {
+    "source": "B35",
+    "status": "imported",
+    "id": "astronomy-b-035",
+    "editorialNote": ""
+  },
+  {
+    "source": "B36",
+    "status": "imported",
+    "id": "astronomy-b-036",
+    "editorialNote": ""
+  },
+  {
+    "source": "B37",
+    "status": "imported",
+    "id": "astronomy-b-037",
+    "editorialNote": ""
+  },
+  {
+    "source": "B38",
+    "status": "imported",
+    "id": "astronomy-b-038",
+    "editorialNote": ""
+  },
+  {
+    "source": "B39",
+    "status": "imported",
+    "id": "astronomy-b-039",
+    "editorialNote": ""
+  },
+  {
+    "source": "B40",
+    "status": "imported",
+    "id": "astronomy-b-040",
+    "editorialNote": ""
+  },
+  {
+    "source": "B41",
+    "status": "imported",
+    "id": "astronomy-b-041",
+    "editorialNote": ""
+  },
+  {
+    "source": "B42",
+    "status": "imported",
+    "id": "astronomy-b-042",
+    "editorialNote": ""
+  },
+  {
+    "source": "B43",
+    "status": "imported",
+    "id": "astronomy-b-043",
+    "editorialNote": ""
+  },
+  {
+    "source": "B44",
+    "status": "imported",
+    "id": "astronomy-b-044",
+    "editorialNote": "原答案 A 错误。"
+  },
+  {
+    "source": "B45",
+    "status": "imported",
+    "id": "astronomy-b-045",
+    "editorialNote": "原题“整个北半球全年”范围过大。"
+  },
+  {
+    "source": "B46",
+    "status": "imported",
+    "id": "astronomy-b-046",
+    "editorialNote": "原题泛称黄道星座“大多用动物命名”，改为明确例子。"
+  },
+  {
+    "source": "B47",
+    "status": "imported",
+    "id": "astronomy-b-047",
+    "editorialNote": "原 50 亿年改为更准确的近似值。"
+  },
+  {
+    "source": "B48",
+    "status": "imported",
+    "id": "astronomy-b-048",
+    "editorialNote": ""
+  },
+  {
+    "source": "B49",
+    "status": "imported",
+    "id": "astronomy-b-049",
+    "editorialNote": "原题把质量单位 kg 和重量混淆，改为质量问题。"
+  },
+  {
+    "source": "B50",
+    "status": "imported",
+    "id": "astronomy-b-050",
+    "editorialNote": "原答案 B 错误。"
+  },
+  {
+    "source": "B51",
+    "status": "imported",
+    "id": "astronomy-b-051",
+    "editorialNote": ""
+  },
+  {
+    "source": "B52",
+    "status": "imported",
+    "id": "astronomy-b-052",
+    "editorialNote": ""
+  },
+  {
+    "source": "B53",
+    "status": "imported",
+    "id": "astronomy-b-053",
+    "editorialNote": ""
+  },
+  {
+    "source": "B54",
+    "status": "imported",
+    "id": "astronomy-b-054",
+    "editorialNote": "原题含糊的“温室气体”改为具体气体。"
+  },
+  {
+    "source": "B55",
+    "status": "imported",
+    "id": "astronomy-b-055",
+    "editorialNote": ""
+  },
+  {
+    "source": "B56",
+    "status": "imported",
+    "id": "astronomy-b-056",
+    "editorialNote": ""
+  },
+  {
+    "source": "B57",
+    "status": "imported",
+    "id": "astronomy-b-057",
+    "editorialNote": ""
+  },
+  {
+    "source": "B58",
+    "status": "imported",
+    "id": "astronomy-b-058",
+    "editorialNote": ""
+  },
+  {
+    "source": "B59",
+    "status": "imported",
+    "id": "astronomy-b-059",
+    "editorialNote": ""
+  },
+  {
+    "source": "B60",
+    "status": "excluded",
+    "reason": "观测地点、天气、安全的排序缺乏客观唯一答案。"
+  },
+  {
+    "source": "B61",
+    "status": "imported",
+    "id": "astronomy-b-061",
+    "editorialNote": ""
+  },
+  {
+    "source": "B62",
+    "status": "merged",
+    "id": "astronomy-b-028",
+    "reason": "同知识点重复题；保留对应题，避免重复抽题权重。"
+  },
+  {
+    "source": "B63",
+    "status": "imported",
+    "id": "astronomy-b-063",
+    "editorialNote": "原题“目前唯一正式刊行”当作永久事实。"
+  },
+  {
+    "source": "B64",
+    "status": "imported",
+    "id": "astronomy-b-064",
+    "editorialNote": ""
+  },
+  {
+    "source": "B65",
+    "status": "imported",
+    "id": "astronomy-b-065",
+    "editorialNote": ""
+  },
+  {
+    "source": "B66",
+    "status": "imported",
+    "id": "astronomy-b-066",
+    "editorialNote": "原题“距太阳最远的天体”已不能作为稳定结论。"
+  },
+  {
+    "source": "B67",
+    "status": "merged",
+    "id": "astronomy-a-113",
+    "reason": "同知识点重复题；保留对应题，避免重复抽题权重。"
+  },
+  {
+    "source": "B68",
+    "status": "merged",
+    "id": "astronomy-b-024",
+    "reason": "同知识点重复题；保留对应题，避免重复抽题权重。"
+  },
+  {
+    "source": "B69",
+    "status": "imported",
+    "id": "astronomy-b-069",
+    "editorialNote": ""
+  },
+  {
+    "source": "B70",
+    "status": "imported",
+    "id": "astronomy-b-070",
+    "editorialNote": ""
+  },
+  {
+    "source": "C1",
+    "status": "merged",
+    "id": "astronomy-b-025",
+    "reason": "同知识点重复题；保留对应题，避免重复抽题权重。"
+  },
+  {
+    "source": "C2",
+    "status": "imported",
+    "id": "astronomy-c-002",
+    "editorialNote": ""
+  },
+  {
+    "source": "C3",
+    "status": "imported",
+    "id": "astronomy-c-003",
+    "editorialNote": ""
+  },
+  {
+    "source": "C4",
+    "status": "merged",
+    "id": "astronomy-a-113",
+    "reason": "同知识点重复题；保留对应题，避免重复抽题权重。"
+  },
+  {
+    "source": "C5",
+    "status": "imported",
+    "id": "astronomy-c-005",
+    "editorialNote": ""
+  },
+  {
+    "source": "C6",
+    "status": "imported",
+    "id": "astronomy-c-006",
+    "editorialNote": ""
+  },
+  {
+    "source": "C7",
+    "status": "imported",
+    "id": "astronomy-c-007",
+    "editorialNote": "原“沉括”改为沈括。"
+  },
+  {
+    "source": "C8",
+    "status": "imported",
+    "id": "astronomy-c-008",
+    "editorialNote": ""
+  },
+  {
+    "source": "C9",
+    "status": "imported",
+    "id": "astronomy-c-009",
+    "editorialNote": ""
+  },
+  {
+    "source": "C10",
+    "status": "imported",
+    "id": "astronomy-c-010",
+    "editorialNote": ""
+  },
+  {
+    "source": "C11",
+    "status": "imported",
+    "id": "astronomy-c-011",
+    "editorialNote": ""
+  },
+  {
+    "source": "C12",
+    "status": "imported",
+    "id": "astronomy-c-012",
+    "editorialNote": ""
+  },
+  {
+    "source": "C13",
+    "status": "imported",
+    "id": "astronomy-c-013",
+    "editorialNote": ""
+  },
+  {
+    "source": "C14",
+    "status": "imported",
+    "id": "astronomy-c-014",
+    "editorialNote": ""
+  },
+  {
+    "source": "C15",
+    "status": "imported",
+    "id": "astronomy-c-015",
+    "editorialNote": ""
+  },
+  {
+    "source": "C16",
+    "status": "imported",
+    "id": "astronomy-c-016",
+    "editorialNote": ""
+  },
+  {
+    "source": "C17",
+    "status": "imported",
+    "id": "astronomy-c-017",
+    "editorialNote": ""
+  },
+  {
+    "source": "C18",
+    "status": "imported",
+    "id": "astronomy-c-018",
+    "editorialNote": ""
+  },
+  {
+    "source": "C19",
+    "status": "imported",
+    "id": "astronomy-c-019",
+    "editorialNote": ""
+  },
+  {
+    "source": "C20",
+    "status": "imported",
+    "id": "astronomy-c-020",
+    "editorialNote": ""
+  },
+  {
+    "source": "C21",
+    "status": "merged",
+    "id": "astronomy-b-030",
+    "reason": "同知识点重复题；保留对应题，避免重复抽题权重。"
+  },
+  {
+    "source": "C22",
+    "status": "merged",
+    "id": "astronomy-b-032",
+    "reason": "同知识点重复题；保留对应题，避免重复抽题权重。"
+  },
+  {
+    "source": "C23",
+    "status": "imported",
+    "id": "astronomy-c-023",
+    "editorialNote": "原题“唯一”限定不准确，已删除。"
+  },
+  {
+    "source": "C24",
+    "status": "imported",
+    "id": "astronomy-c-024",
+    "editorialNote": ""
+  },
+  {
+    "source": "C25",
+    "status": "imported",
+    "id": "astronomy-c-025",
+    "editorialNote": ""
+  },
+  {
+    "source": "C26",
+    "status": "imported",
+    "id": "astronomy-c-026",
+    "editorialNote": "原题同时含过时“九大行星”和错误答案，修订后只有 A 不正确。"
+  },
+  {
+    "source": "C27",
+    "status": "merged",
+    "id": "astronomy-b-035",
+    "reason": "同知识点重复题；保留对应题，避免重复抽题权重。"
+  },
+  {
+    "source": "C28",
+    "status": "merged",
+    "id": "astronomy-b-035",
+    "reason": "同知识点重复题；保留对应题，避免重复抽题权重。"
+  },
+  {
+    "source": "C29",
+    "status": "imported",
+    "id": "astronomy-c-029",
+    "editorialNote": ""
+  },
+  {
+    "source": "C30",
+    "status": "imported",
+    "id": "astronomy-c-030",
+    "editorialNote": ""
+  },
+  {
+    "source": "S1",
+    "status": "imported",
+    "id": "astronomy-s-001",
+    "editorialNote": "原题“昨天”缺少年份，改为常年近似时间。"
+  },
+  {
+    "source": "S2",
+    "status": "imported",
+    "id": "astronomy-s-002",
+    "editorialNote": ""
+  },
+  {
+    "source": "S3",
+    "status": "imported",
+    "id": "astronomy-s-003",
+    "editorialNote": "原文“快乐”是姓名错写。"
+  },
+  {
+    "source": "S4",
+    "status": "imported",
+    "id": "astronomy-s-004",
+    "editorialNote": "原“最明显”改为具体特征，删除断裂且错误的“最大贝利”旁注。"
+  },
+  {
+    "source": "S5",
+    "status": "imported",
+    "id": "astronomy-s-005",
+    "editorialNote": ""
+  },
+  {
+    "source": "S6",
+    "status": "imported",
+    "id": "astronomy-s-006",
+    "editorialNote": ""
+  },
+  {
+    "source": "S7",
+    "status": "imported",
+    "id": "astronomy-s-007",
+    "editorialNote": ""
+  },
+  {
+    "source": "S8",
+    "status": "imported",
+    "id": "astronomy-s-008",
+    "editorialNote": "原“专家星”无法确指哪颗，按内行星观测原理改写并标注。"
+  },
+  {
+    "source": "S9",
+    "status": "imported",
+    "id": "astronomy-s-009",
+    "editorialNote": "原题为简答，选择项为编辑新增。"
+  },
+  {
+    "source": "S10",
+    "status": "imported",
+    "id": "astronomy-s-010",
+    "editorialNote": "原简答改为选择题，补充地点和月相条件。"
+  },
+  {
+    "source": "S11",
+    "status": "imported",
+    "id": "astronomy-s-011",
+    "editorialNote": ""
+  },
+  {
+    "source": "S12",
+    "status": "imported",
+    "id": "astronomy-s-012",
+    "editorialNote": "原“最近一段时间”没有日期，改为稳定的定义题。"
+  },
+  {
+    "source": "S13",
+    "status": "imported",
+    "id": "astronomy-s-013",
+    "editorialNote": ""
+  },
+  {
+    "source": "S14",
+    "status": "imported",
+    "id": "astronomy-s-014",
+    "editorialNote": ""
+  },
+  {
+    "source": "A125-extra",
+    "status": "excluded",
+    "reason": "原文重复 A125 的领土历史题，不属于科学练习内容，保留原文不入库。"
+  }
+]

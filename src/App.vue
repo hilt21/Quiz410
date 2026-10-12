@@ -7,6 +7,7 @@ import {
   PhCheck,
   PhCloudArrowUp,
   PhFlask,
+  PhGear,
   PhMoon,
   PhSun,
   PhWarningCircle,
@@ -17,6 +18,7 @@ import type { Library } from './engine/library';
 import { startSession } from './engine/quiz';
 import { createProgress, loadProgress, updateStoredProgress, recordAnswer } from './progress/store';
 import { syncProgress } from './sync/client';
+import { isPracticeCount, loadPracticeCount, savePracticeCount } from './progress/settings';
 import type { PracticeQuestion } from './types/quiz';
 import TopicIcon from './components/TopicIcon.vue';
 import QuizView from './components/QuizView.vue';
@@ -32,8 +34,34 @@ const saving = ref(false);
 const unsaved: { id: string; topic: string; correct: boolean; at: string }[] = [];
 const session = shallowRef<PracticeQuestion[]>([]),
   sessionResults = ref<boolean[]>([]);
+const practicePool = shallowRef<PracticeQuestion[]>([]),
+  explicitLimit = ref<number>();
 const exitDialog = ref<HTMLDialogElement>(),
   titleEl = ref<HTMLElement>();
+const settingsDialog = ref<HTMLDialogElement>(),
+  practiceCount = ref(loadPracticeCount()),
+  draftCount = ref<number | string>(practiceCount.value),
+  settingsError = ref('');
+
+function openSettings() {
+  draftCount.value = practiceCount.value;
+  settingsError.value = '';
+  settingsDialog.value?.showModal();
+}
+function saveSettings() {
+  const count = Number(draftCount.value);
+  if (!isPracticeCount(count)) {
+    settingsError.value = '请输入大于零的整数。';
+    return;
+  }
+  try {
+    savePracticeCount(count);
+    practiceCount.value = count;
+    settingsDialog.value?.close();
+  } catch {
+    settingsError.value = '设置暂时没能保存，请再试一次。';
+  }
+}
 const syncState = ref<'idle' | 'loading' | 'success' | 'error'>('idle'),
   syncError = ref('');
 const filter = ref(''),
@@ -169,8 +197,10 @@ function chooseTopic(id: string) {
   topicId.value = id;
   go('topic');
 }
-function begin(questions: PracticeQuestion[], limit = 10) {
-  session.value = startSession(questions, limit);
+function begin(questions: PracticeQuestion[], limit?: number) {
+  practicePool.value = questions;
+  explicitLimit.value = limit;
+  session.value = startSession(questions, limit ?? practiceCount.value);
   if (session.value.length) go('quiz');
 }
 function answer(q: PracticeQuestion, correct: boolean) {
@@ -253,13 +283,18 @@ onUnmounted(() => {
           我的错题<span v-if="wrong.length" class="nav-count">{{ wrong.length }}</span>
         </button>
       </nav>
-      <button
-        class="theme-button"
-        :aria-label="dark ? '切换浅色模式' : '切换深色模式'"
-        @click="toggleTheme"
-      >
-        <component :is="dark ? PhSun : PhMoon" :size="21" />
-      </button>
+      <div class="header-actions">
+        <button
+          class="theme-button"
+          :aria-label="dark ? '切换浅色模式' : '切换深色模式'"
+          @click="toggleTheme"
+        >
+          <component :is="dark ? PhSun : PhMoon" :size="21" />
+        </button>
+        <button class="theme-button" aria-label="练习设置" @click="openSettings">
+          <PhGear :size="21" />
+        </button>
+      </div>
     </div>
   </header>
   <main id="main" class="main-container">
@@ -344,7 +379,7 @@ onUnmounted(() => {
         </div>
         <div class="practice-card">
           <h2>准备好，来探索一下</h2>
-          <p>每次练习最多 10 题，选好答案后提交，马上查看反馈与解析。</p>
+          <p>每次练习 {{ practiceCount }} 题，选好答案后提交，马上查看反馈与解析。</p>
           <div class="detail-stats">
             <span
               ><strong>{{ topicQuestions(activeTopic.id).length }}</strong
@@ -354,7 +389,9 @@ onUnmounted(() => {
               >道题已掌握</span
             >
           </div>
-          <p class="muted">包含判断、单选或多选题。材料题会整组出现，并保持题目顺序。</p>
+          <p class="muted">
+            包含判断、单选或多选题。题目不足时按实际数量练习；材料题整组出现，题数可能超过设置数量，并保持组内顺序。
+          </p>
           <button class="button primary wide" @click="begin(topicQuestions(activeTopic.id))">
             开始练习<PhArrowRight :size="21" />
           </button>
@@ -415,7 +452,7 @@ onUnmounted(() => {
           ><button
             class="button wide"
             :class="score === session.length ? 'primary' : 'secondary'"
-            @click="begin(session, session.length)"
+            @click="begin(practicePool, explicitLimit)"
           >
             再练一次</button
           ><button class="text-button" @click="go(activeTopic ? 'topic' : 'home')">返回主题</button>
@@ -466,7 +503,9 @@ onUnmounted(() => {
           ><div class="review-start">
             <span
               >共 {{ filteredWrong.length }} 题{{
-                filteredWrong.length > 10 ? '，先练 10 题' : ''
+                filteredWrong.length > practiceCount
+                  ? `，先练 ${practiceCount} 题（材料题整组出现）`
+                  : ''
               }}</span
             ><button
               class="button primary"
@@ -561,5 +600,34 @@ onUnmounted(() => {
       <button class="button primary" autofocus @click="exitDialog?.close()">继续练习</button
       ><button class="button secondary" @click="confirmExit">返回主题</button>
     </div>
+  </dialog>
+  <dialog ref="settingsDialog" class="exit-dialog settings-dialog" aria-labelledby="settings-title">
+    <form @submit.prevent="saveSettings">
+      <h2 id="settings-title">练习设置</h2>
+      <label for="practice-count">每次练习题数</label>
+      <input
+        id="practice-count"
+        v-model="draftCount"
+        name="practice-count"
+        type="number"
+        min="1"
+        :max="Number.MAX_SAFE_INTEGER"
+        step="1"
+        inputmode="numeric"
+        required
+        autofocus
+        aria-describedby="settings-help"
+      />
+      <p id="settings-help" class="muted">
+        适用于所有主题、错题和再次练习，从下一次练习生效。题目不足时按实际数量练习。材料题整组保留，题数可能超过设置数量；单题复习和指定材料练习按所选题目进行。
+      </p>
+      <p v-if="settingsError" role="alert">{{ settingsError }}</p>
+      <div class="dialog-actions">
+        <button type="submit" class="button primary">保存设置</button>
+        <button type="button" class="button secondary" @click="settingsDialog?.close()">
+          取消
+        </button>
+      </div>
+    </form>
   </dialog>
 </template>
