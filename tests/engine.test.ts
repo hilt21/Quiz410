@@ -56,3 +56,16 @@ it('抽题以材料组为单位，保持组内顺序，复习子题仍保留材�
   );
   expect(review[0].group?.material).toEqual(group.material);
 });
+
+it('自定义数量限制独立题，不重复出题，题库不足时返回全部', () => {
+  const pool: PracticeQuestion[] = Array.from({ length: 25 }, (_, i) => ({
+    ...question,
+    id: `q-${i}`,
+    topic: 'earth',
+  }));
+  for (const limit of [1, 7, 23, 100]) {
+    const selected = startSession(pool, limit);
+    expect(selected).toHaveLength(Math.min(limit, pool.length));
+    expect(new Set(selected.map((q) => q.id)).size).toBe(selected.length);
+  }
+});

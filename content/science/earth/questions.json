@@ -12,37 +12,16 @@
         },
         {
           "type": "table",
-          "headers": [
-            "测量地点",
-            "温度 / ℃"
-          ],
+          "headers": ["测量地点", "温度 / ℃"],
           "rows": [
-            [
-              "水泥操场",
-              "34.5"
-            ],
-            [
-              "草地",
-              "30.2"
-            ],
-            [
-              "树荫",
-              "28.9"
-            ],
-            [
-              "池塘边",
-              "29.7"
-            ]
+            ["水泥操场", "34.5"],
+            ["草地", "30.2"],
+            ["树荫", "28.9"],
+            ["池塘边", "29.7"]
           ]
         }
       ],
-      "questionIds": [
-        "science-196",
-        "science-197",
-        "science-198",
-        "science-199",
-        "science-200"
-      ]
+      "questionIds": ["science-196", "science-197", "science-198", "science-199", "science-200"]
     }
   ],
   "questions": [
@@ -60,9 +39,7 @@
           "text": "错误"
         }
       ],
-      "answer": [
-        "false"
-      ],
+      "answer": ["false"],
       "source": {
         "file": "小学高年级科学实验探索建模_200题训练题库.md",
         "number": 35
@@ -83,9 +60,7 @@
           "text": "错误"
         }
       ],
-      "answer": [
-        "true"
-      ],
+      "answer": ["true"],
       "source": {
         "file": "小学高年级科学实验探索建模_200题训练题库.md",
         "number": 36
@@ -106,9 +81,7 @@
           "text": "错误"
         }
       ],
-      "answer": [
-        "true"
-      ],
+      "answer": ["true"],
       "source": {
         "file": "小学高年级科学实验探索建模_200题训练题库.md",
         "number": 37
@@ -129,9 +102,7 @@
           "text": "错误"
         }
       ],
-      "answer": [
-        "false"
-      ],
+      "answer": ["false"],
       "source": {
         "file": "小学高年级科学实验探索建模_200题训练题库.md",
         "number": 38
@@ -160,9 +131,7 @@
           "text": "太阳绕地球转"
         }
       ],
-      "answer": [
-        "a"
-      ],
+      "answer": ["a"],
       "source": {
         "file": "小学高年级科学实验探索建模_200题训练题库.md",
         "number": 82
@@ -191,9 +160,7 @@
           "text": "云的颜色"
         }
       ],
-      "answer": [
-        "a"
-      ],
+      "answer": ["a"],
       "source": {
         "file": "小学高年级科学实验探索建模_200题训练题库.md",
         "number": 83
@@ -222,9 +189,7 @@
           "text": "一年"
         }
       ],
-      "answer": [
-        "c"
-      ],
+      "answer": ["c"],
       "source": {
         "file": "小学高年级科学实验探索建模_200题训练题库.md",
         "number": 84
@@ -253,9 +218,7 @@
           "text": "植物呼吸"
         }
       ],
-      "answer": [
-        "a"
-      ],
+      "answer": ["a"],
       "source": {
         "file": "小学高年级科学实验探索建模_200题训练题库.md",
         "number": 85
@@ -284,9 +247,7 @@
           "text": "月亮发热"
         }
       ],
-      "answer": [
-        "a"
-      ],
+      "answer": ["a"],
       "source": {
         "file": "小学高年级科学实验探索建模_200题训练题库.md",
         "number": 86
@@ -315,9 +276,7 @@
           "text": "今天有60小时下雨"
         }
       ],
-      "answer": [
-        "b"
-      ],
+      "answer": ["b"],
       "source": {
         "file": "小学高年级科学实验探索建模_200题训练题库.md",
         "number": 87
@@ -346,9 +305,7 @@
           "text": "导电"
         }
       ],
-      "answer": [
-        "a"
-      ],
+      "answer": ["a"],
       "source": {
         "file": "小学高年级科学实验探索建模_200题训练题库.md",
         "number": 88
@@ -377,12 +334,7 @@
           "text": "四季与公转和地轴倾斜有关"
         }
       ],
-      "answer": [
-        "a",
-        "b",
-        "c",
-        "d"
-      ],
+      "answer": ["a", "b", "c", "d"],
       "source": {
         "file": "小学高年级科学实验探索建模_200题训练题库.md",
         "number": 146
@@ -411,12 +363,7 @@
           "text": "天气情况"
         }
       ],
-      "answer": [
-        "a",
-        "b",
-        "c",
-        "d"
-      ],
+      "answer": ["a", "b", "c", "d"],
       "source": {
         "file": "小学高年级科学实验探索建模_200题训练题库.md",
         "number": 147
@@ -445,12 +392,7 @@
           "text": "云量"
         }
       ],
-      "answer": [
-        "a",
-        "b",
-        "c",
-        "d"
-      ],
+      "answer": ["a", "b", "c", "d"],
       "source": {
         "file": "小学高年级科学实验探索建模_200题训练题库.md",
         "number": 148
@@ -479,12 +421,7 @@
           "text": "风沙磨蚀"
         }
       ],
-      "answer": [
-        "a",
-        "b",
-        "c",
-        "d"
-      ],
+      "answer": ["a", "b", "c", "d"],
       "source": {
         "file": "小学高年级科学实验探索建模_200题训练题库.md",
         "number": 150
@@ -513,9 +450,7 @@
           "text": "池塘边"
         }
       ],
-      "answer": [
-        "a"
-      ],
+      "answer": ["a"],
       "source": {
         "file": "小学高年级科学实验探索建模_200题训练题库.md",
         "number": 196
@@ -544,9 +479,7 @@
           "text": "增加风速"
         }
       ],
-      "answer": [
-        "a"
-      ],
+      "answer": ["a"],
       "source": {
         "file": "小学高年级科学实验探索建模_200题训练题库.md",
         "number": 197
@@ -575,9 +508,7 @@
           "text": "校园没有微气候"
         }
       ],
-      "answer": [
-        "a"
-      ],
+      "answer": ["a"],
       "source": {
         "file": "小学高年级科学实验探索建模_200题训练题库.md",
         "number": 198
@@ -606,9 +537,7 @@
           "text": "删除较低温度"
         }
       ],
-      "answer": [
-        "a"
-      ],
+      "answer": ["a"],
       "source": {
         "file": "小学高年级科学实验探索建模_200题训练题库.md",
         "number": 199
@@ -637,14 +566,6668 @@
           "text": "随机选择"
         }
       ],
-      "answer": [
-        "a"
-      ],
+      "answer": ["a"],
       "source": {
         "file": "小学高年级科学实验探索建模_200题训练题库.md",
         "number": 200
       },
       "explanation": "种树不仅要降温，还要考虑人在哪里活动、能否获得日照、种植空间和养护条件，才能形成可行方案。"
+    },
+    {
+      "id": "astronomy-a-001",
+      "type": "single-choice",
+      "question": "万有引力定律是谁提出的？",
+      "options": [
+        {
+          "id": "a",
+          "text": "伽利略"
+        },
+        {
+          "id": "b",
+          "text": "牛顿"
+        },
+        {
+          "id": "c",
+          "text": "哈勃"
+        },
+        {
+          "id": "d",
+          "text": "哥伦布"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "牛顿提出万有引力定律，描述有质量的物体之间的引力。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 1
+      }
+    },
+    {
+      "id": "astronomy-a-002",
+      "type": "single-choice",
+      "question": "《时间简史》的作者是哪位研究宇宙和黑洞的科学家？",
+      "options": [
+        {
+          "id": "a",
+          "text": "伽利略"
+        },
+        {
+          "id": "b",
+          "text": "牛顿"
+        },
+        {
+          "id": "c",
+          "text": "哈勃"
+        },
+        {
+          "id": "d",
+          "text": "霍金"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "霍金研究黑洞与宇宙学，并写作《时间简史》。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 2
+      }
+    },
+    {
+      "id": "astronomy-a-003",
+      "type": "single-choice",
+      "question": "在星系之间的大尺度运动中，起主导作用的是哪种力？",
+      "options": [
+        {
+          "id": "a",
+          "text": "引力"
+        },
+        {
+          "id": "b",
+          "text": "磁力"
+        },
+        {
+          "id": "c",
+          "text": "电场力"
+        },
+        {
+          "id": "d",
+          "text": "洛伦兹力"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "引力作用于有质量的物体，是星系之间大尺度相互作用的主要力量。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 3
+      }
+    },
+    {
+      "id": "astronomy-a-004",
+      "type": "single-choice",
+      "question": "太阳光到达地球大约需要多长时间？",
+      "options": [
+        {
+          "id": "a",
+          "text": "6 分钟"
+        },
+        {
+          "id": "b",
+          "text": "7 分钟"
+        },
+        {
+          "id": "c",
+          "text": "8 分钟"
+        },
+        {
+          "id": "d",
+          "text": "9 分钟"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "光通过平均日地距离约需 8 分 20 秒，四个选项中 8 分钟最接近。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 4
+      }
+    },
+    {
+      "id": "astronomy-a-005",
+      "type": "single-choice",
+      "question": "地球海洋潮汐主要受哪些天体的引力影响？",
+      "options": [
+        {
+          "id": "a",
+          "text": "月球和太阳"
+        },
+        {
+          "id": "b",
+          "text": "火星和木星"
+        },
+        {
+          "id": "c",
+          "text": "水星和金星"
+        },
+        {
+          "id": "d",
+          "text": "天王星和海王星"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "月球和太阳对地球不同位置的引力差异产生潮汐效应，月球的影响更大。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 5
+      }
+    },
+    {
+      "id": "astronomy-a-006",
+      "type": "single-choice",
+      "question": "如果把时间也作为一个维度，描述事件的时空共有几个维度？",
+      "options": [
+        {
+          "id": "a",
+          "text": "一维"
+        },
+        {
+          "id": "b",
+          "text": "二维"
+        },
+        {
+          "id": "c",
+          "text": "三维"
+        },
+        {
+          "id": "d",
+          "text": "四维"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "通常的空间有三个维度，再加入时间维度，构成四维时空。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 6
+      }
+    },
+    {
+      "id": "astronomy-a-007",
+      "type": "single-choice",
+      "question": "太阳系中体积最大的行星是哪颗？",
+      "options": [
+        {
+          "id": "a",
+          "text": "地球"
+        },
+        {
+          "id": "b",
+          "text": "木星"
+        },
+        {
+          "id": "c",
+          "text": "火星"
+        },
+        {
+          "id": "d",
+          "text": "水星"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "木星是太阳系中体积和质量最大的行星。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 7
+      }
+    },
+    {
+      "id": "astronomy-a-008",
+      "type": "single-choice",
+      "question": "太阳系八颗行星按离太阳由近到远排列，正确的是哪项？",
+      "options": [
+        {
+          "id": "a",
+          "text": "水星、金星、地球、火星、木星、土星、天王星、海王星"
+        },
+        {
+          "id": "b",
+          "text": "地球、火星、木星、土星、天王星、海王星、水星、金星"
+        },
+        {
+          "id": "c",
+          "text": "水星、金星、地球、火星、木星、海王星、土星、天王星"
+        },
+        {
+          "id": "d",
+          "text": "水星、金星、地球、土星、天王星、海王星、火星、木星"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "由内向外依次为水、金、地、火、木、土、天王、海王。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 8
+      }
+    },
+    {
+      "id": "astronomy-a-009",
+      "type": "single-choice",
+      "question": "以下哪颗行星的环最明显、最容易用望远镜辨认？",
+      "options": [
+        {
+          "id": "a",
+          "text": "水星"
+        },
+        {
+          "id": "b",
+          "text": "金星"
+        },
+        {
+          "id": "c",
+          "text": "火星"
+        },
+        {
+          "id": "d",
+          "text": "土星"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "土星具有显著的环。木星、天王星和海王星也有环，因此不能说只有土星有环。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 9
+      }
+    },
+    {
+      "id": "astronomy-a-010",
+      "type": "single-choice",
+      "question": "以下哪颗行星的大气十分稀薄，主要成分是二氧化碳？",
+      "options": [
+        {
+          "id": "a",
+          "text": "金星"
+        },
+        {
+          "id": "b",
+          "text": "木星"
+        },
+        {
+          "id": "c",
+          "text": "火星"
+        },
+        {
+          "id": "d",
+          "text": "水星"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "火星拥有以二氧化碳为主的稀薄大气，与地球以氮和氧为主的大气不同。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 10
+      }
+    },
+    {
+      "id": "astronomy-a-011",
+      "type": "single-choice",
+      "question": "按照国际天文学联合会 2006 年的分类，太阳系有几颗行星？",
+      "options": [
+        {
+          "id": "a",
+          "text": "6 颗"
+        },
+        {
+          "id": "b",
+          "text": "7 颗"
+        },
+        {
+          "id": "c",
+          "text": "8 颗"
+        },
+        {
+          "id": "d",
+          "text": "9 颗"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "冥王星被归为矮行星，太阳系行星数为八颗。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 11
+      }
+    },
+    {
+      "id": "astronomy-a-012",
+      "type": "single-choice",
+      "question": "太阳的主要物质成分是什么？",
+      "options": [
+        {
+          "id": "a",
+          "text": "只有氢"
+        },
+        {
+          "id": "b",
+          "text": "只有氦"
+        },
+        {
+          "id": "c",
+          "text": "氢和氧"
+        },
+        {
+          "id": "d",
+          "text": "氢和氦"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "太阳主要由氢和氦组成，中心的核聚变把氢转化为氦。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 12
+      }
+    },
+    {
+      "id": "astronomy-a-013",
+      "type": "single-choice",
+      "question": "太阳结束红巨星阶段并抛出外层物质后，核心最终会成为哪类天体？",
+      "options": [
+        {
+          "id": "a",
+          "text": "中子星"
+        },
+        {
+          "id": "b",
+          "text": "主序星"
+        },
+        {
+          "id": "c",
+          "text": "行星"
+        },
+        {
+          "id": "d",
+          "text": "白矮星"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "太阳质量不足以形成中子星，晚期将留下白矮星。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 13
+      }
+    },
+    {
+      "id": "astronomy-a-014",
+      "type": "single-choice",
+      "question": "以下哪个单位适合表示恒星之间的遥远距离？",
+      "options": [
+        {
+          "id": "a",
+          "text": "公里"
+        },
+        {
+          "id": "b",
+          "text": "千米"
+        },
+        {
+          "id": "c",
+          "text": "光年"
+        },
+        {
+          "id": "d",
+          "text": "米"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "光年是光在真空中一年传播的距离，适合表示很大的天文距离。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 14
+      }
+    },
+    {
+      "id": "astronomy-a-015",
+      "type": "single-choice",
+      "question": "太阳系主小行星带主要位于哪两颗行星的轨道之间？",
+      "options": [
+        {
+          "id": "a",
+          "text": "火星和水星"
+        },
+        {
+          "id": "b",
+          "text": "金星和木星"
+        },
+        {
+          "id": "c",
+          "text": "火星和木星"
+        },
+        {
+          "id": "d",
+          "text": "水星和金星"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "主小行星带位于火星与木星的轨道之间。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 15
+      }
+    },
+    {
+      "id": "astronomy-a-016",
+      "type": "single-choice",
+      "question": "冥王星属于哪类天体？",
+      "options": [
+        {
+          "id": "a",
+          "text": "恒星"
+        },
+        {
+          "id": "b",
+          "text": "中子星"
+        },
+        {
+          "id": "c",
+          "text": "矮行星"
+        },
+        {
+          "id": "d",
+          "text": "白矮星"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "冥王星绕太阳运行，近似球形，但没有清空轨道邻域，归为矮行星。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 16
+      }
+    },
+    {
+      "id": "astronomy-a-017",
+      "type": "single-choice",
+      "question": "太阳系中离太阳最近的行星是哪颗？",
+      "options": [
+        {
+          "id": "a",
+          "text": "地球"
+        },
+        {
+          "id": "b",
+          "text": "木星"
+        },
+        {
+          "id": "c",
+          "text": "火星"
+        },
+        {
+          "id": "d",
+          "text": "水星"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "水星的轨道在八颗行星中最靠近太阳。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 17
+      }
+    },
+    {
+      "id": "astronomy-a-018",
+      "type": "single-choice",
+      "question": "太阳系八颗行星中离太阳最远的是哪颗？",
+      "options": [
+        {
+          "id": "a",
+          "text": "海王星"
+        },
+        {
+          "id": "b",
+          "text": "木星"
+        },
+        {
+          "id": "c",
+          "text": "火星"
+        },
+        {
+          "id": "d",
+          "text": "水星"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "海王星是八颗行星中最外侧的一颗。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 18
+      }
+    },
+    {
+      "id": "astronomy-a-019",
+      "type": "single-choice",
+      "question": "按所在位置分类，哈勃望远镜属于哪一类？",
+      "options": [
+        {
+          "id": "a",
+          "text": "空间望远镜"
+        },
+        {
+          "id": "b",
+          "text": "地面望远镜"
+        },
+        {
+          "id": "c",
+          "text": "地下望远镜"
+        },
+        {
+          "id": "d",
+          "text": "海底望远镜"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "哈勃在地球轨道上运行，是空间望远镜，同时也能观测可见光。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 19
+      }
+    },
+    {
+      "id": "astronomy-a-020",
+      "type": "single-choice",
+      "question": "1990 年，哈勃空间望远镜由哪个国家的航天飞机送入轨道？",
+      "options": [
+        {
+          "id": "a",
+          "text": "英国"
+        },
+        {
+          "id": "b",
+          "text": "德国"
+        },
+        {
+          "id": "c",
+          "text": "俄罗斯"
+        },
+        {
+          "id": "d",
+          "text": "美国"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "美国“发现”号航天飞机于 1990 年将哈勃送入轨道；哈勃项目由 NASA 与 ESA 合作。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 20
+      }
+    },
+    {
+      "id": "astronomy-a-021",
+      "type": "single-choice",
+      "question": "哈勃空间望远镜以哪位天文学家的名字命名？",
+      "options": [
+        {
+          "id": "a",
+          "text": "埃德温·哈勃"
+        },
+        {
+          "id": "b",
+          "text": "山姆·哈勃"
+        },
+        {
+          "id": "c",
+          "text": "迈克尔·哈勃"
+        },
+        {
+          "id": "d",
+          "text": "卡尔·哈勃"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "埃德温·哈勃的观测推动了对河外星系和宇宙膨胀的认识。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 21
+      }
+    },
+    {
+      "id": "astronomy-a-022",
+      "type": "single-choice",
+      "question": "哈勃除可见光和紫外线外，还能观测哪个波段？",
+      "options": [
+        {
+          "id": "a",
+          "text": "射电波"
+        },
+        {
+          "id": "b",
+          "text": "近红外线"
+        },
+        {
+          "id": "c",
+          "text": "X 射线"
+        },
+        {
+          "id": "d",
+          "text": "伽马射线"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "哈勃能够观测紫外、可见光和近红外波段。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 22
+      }
+    },
+    {
+      "id": "astronomy-a-023",
+      "type": "single-choice",
+      "question": "以下哪组都是专门的天文观测设备？",
+      "options": [
+        {
+          "id": "a",
+          "text": "射电望远镜、光学望远镜、气象雷达"
+        },
+        {
+          "id": "b",
+          "text": "光学望远镜、天文观测卫星、地质采样船"
+        },
+        {
+          "id": "c",
+          "text": "光学望远镜、射电望远镜、天文观测卫星"
+        },
+        {
+          "id": "d",
+          "text": "射电望远镜、远洋货轮、光学望远镜"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "天文学通过不同波段的望远镜及天文观测卫星获取信息。原干扰项“军用望远镜”等也可能用于看星，已改为用途明确的设备。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 23
+      }
+    },
+    {
+      "id": "astronomy-a-025",
+      "type": "single-choice",
+      "question": "“中国天眼”FAST 位于我国哪个省？",
+      "options": [
+        {
+          "id": "a",
+          "text": "陕西"
+        },
+        {
+          "id": "b",
+          "text": "北京"
+        },
+        {
+          "id": "c",
+          "text": "贵州"
+        },
+        {
+          "id": "d",
+          "text": "江苏"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "FAST 位于贵州省平塘县，2016 年落成。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 25
+      }
+    },
+    {
+      "id": "astronomy-a-026",
+      "type": "single-choice",
+      "question": "太阳属于哪类天体？",
+      "options": [
+        {
+          "id": "a",
+          "text": "卫星"
+        },
+        {
+          "id": "b",
+          "text": "恒星"
+        },
+        {
+          "id": "c",
+          "text": "行星"
+        },
+        {
+          "id": "d",
+          "text": "白矮星"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "太阳依靠内部核聚变释放能量，是恒星。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 26
+      }
+    },
+    {
+      "id": "astronomy-a-027",
+      "type": "single-choice",
+      "question": "光年是什么物理量的单位？",
+      "options": [
+        {
+          "id": "a",
+          "text": "时间"
+        },
+        {
+          "id": "b",
+          "text": "距离"
+        },
+        {
+          "id": "c",
+          "text": "速度"
+        },
+        {
+          "id": "d",
+          "text": "质量"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "光年虽然含有“年”，但表示距离，不是时间。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 27
+      }
+    },
+    {
+      "id": "astronomy-a-028",
+      "type": "single-choice",
+      "question": "月球表面常见的圆形凹坑叫什么？",
+      "options": [
+        {
+          "id": "a",
+          "text": "山脉"
+        },
+        {
+          "id": "b",
+          "text": "大气"
+        },
+        {
+          "id": "c",
+          "text": "平原"
+        },
+        {
+          "id": "d",
+          "text": "环形山"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "环形山也称撞击坑，月球表面许多这样的凹坑由撞击形成。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 28
+      }
+    },
+    {
+      "id": "astronomy-a-029",
+      "type": "single-choice",
+      "question": "月球难以长期保有浓厚大气的主要原因是什么？",
+      "options": [
+        {
+          "id": "a",
+          "text": "质量小、引力较弱"
+        },
+        {
+          "id": "b",
+          "text": "温度总是过高"
+        },
+        {
+          "id": "c",
+          "text": "离太阳太近"
+        },
+        {
+          "id": "d",
+          "text": "完全没有水"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "月球引力较弱，难以留住大量气体；它有极稀薄的外逸层，不能严格说完全没有大气。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 29
+      }
+    },
+    {
+      "id": "astronomy-a-030",
+      "type": "single-choice",
+      "question": "从地球观测，以下天体中通常最明亮的是哪个？",
+      "options": [
+        {
+          "id": "a",
+          "text": "牛郎星"
+        },
+        {
+          "id": "b",
+          "text": "天狼星"
+        },
+        {
+          "id": "c",
+          "text": "木星"
+        },
+        {
+          "id": "d",
+          "text": "金星"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "金星反射太阳光，在这些天体中通常最亮，但并不是自身发光的恒星。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 30
+      }
+    },
+    {
+      "id": "astronomy-a-031",
+      "type": "single-choice",
+      "question": "太阳释放的能量主要来自什么过程？",
+      "options": [
+        {
+          "id": "a",
+          "text": "核聚变"
+        },
+        {
+          "id": "b",
+          "text": "核裂变"
+        },
+        {
+          "id": "c",
+          "text": "氢和氧燃烧"
+        },
+        {
+          "id": "d",
+          "text": "氦和氧燃烧"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "太阳核心主要通过氢核聚变释放能量，不能用普通燃烧来解释。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 31
+      }
+    },
+    {
+      "id": "astronomy-a-032",
+      "type": "single-choice",
+      "question": "太阳系中自转周期最长的行星是哪颗？",
+      "options": [
+        {
+          "id": "a",
+          "text": "水星"
+        },
+        {
+          "id": "b",
+          "text": "金星"
+        },
+        {
+          "id": "c",
+          "text": "地球"
+        },
+        {
+          "id": "d",
+          "text": "火星"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "金星自转一周约需 243 个地球日，是八颗行星中最慢的。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 32
+      }
+    },
+    {
+      "id": "astronomy-a-033",
+      "type": "single-choice",
+      "question": "太阳直射北回归线时，对应哪个节气？",
+      "options": [
+        {
+          "id": "a",
+          "text": "春分"
+        },
+        {
+          "id": "b",
+          "text": "秋分"
+        },
+        {
+          "id": "c",
+          "text": "夏至"
+        },
+        {
+          "id": "d",
+          "text": "冬至"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "北半球夏至时太阳直射点到达北回归线。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 33
+      }
+    },
+    {
+      "id": "astronomy-a-034",
+      "type": "single-choice",
+      "question": "织女星位于哪个星座？",
+      "options": [
+        {
+          "id": "a",
+          "text": "仙女座"
+        },
+        {
+          "id": "b",
+          "text": "室女座"
+        },
+        {
+          "id": "c",
+          "text": "天琴座"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "织女星是天琴座中的亮星。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 34
+      }
+    },
+    {
+      "id": "astronomy-a-035",
+      "type": "single-choice",
+      "question": "第一位进入太空的宇航员是谁？",
+      "options": [
+        {
+          "id": "a",
+          "text": "阿姆斯特朗"
+        },
+        {
+          "id": "b",
+          "text": "加加林"
+        },
+        {
+          "id": "c",
+          "text": "查理·杜克"
+        },
+        {
+          "id": "d",
+          "text": "杨利伟"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "加加林于 1961 年乘东方一号完成首次载人太空飞行。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 35
+      }
+    },
+    {
+      "id": "astronomy-a-036",
+      "type": "single-choice",
+      "question": "从地球出发逃离太阳引力束缚的第三宇宙速度，常用近似值是多少？",
+      "options": [
+        {
+          "id": "a",
+          "text": "7.9 km/s"
+        },
+        {
+          "id": "b",
+          "text": "16.7 km/s"
+        },
+        {
+          "id": "c",
+          "text": "11.2 km/s"
+        },
+        {
+          "id": "d",
+          "text": "3.0 km/s"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "在理想化条件和有利发射方向下，第三宇宙速度约为 16.7 km/s；实际任务还受轨道和飞行方案影响。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 36
+      }
+    },
+    {
+      "id": "astronomy-a-041",
+      "type": "single-choice",
+      "question": "太阳系八颗行星中体积最小的是哪颗？",
+      "options": [
+        {
+          "id": "a",
+          "text": "地球"
+        },
+        {
+          "id": "b",
+          "text": "火星"
+        },
+        {
+          "id": "c",
+          "text": "水星"
+        },
+        {
+          "id": "d",
+          "text": "海王星"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "水星是八颗行星中体积最小的一颗。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 41
+      }
+    },
+    {
+      "id": "astronomy-a-042",
+      "type": "single-choice",
+      "question": "地球静止轨道卫星距地面的高度约为多少？",
+      "options": [
+        {
+          "id": "a",
+          "text": "200 km"
+        },
+        {
+          "id": "b",
+          "text": "3,000 km"
+        },
+        {
+          "id": "c",
+          "text": "35,786 km"
+        },
+        {
+          "id": "d",
+          "text": "500,000 km"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "地球静止轨道位于赤道上空，距地面约 35,786 km。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 42
+      }
+    },
+    {
+      "id": "astronomy-a-043",
+      "type": "single-choice",
+      "question": "地球的年龄约为多少？",
+      "options": [
+        {
+          "id": "a",
+          "text": "4,600 万年"
+        },
+        {
+          "id": "b",
+          "text": "460 万年"
+        },
+        {
+          "id": "c",
+          "text": "46 亿年"
+        },
+        {
+          "id": "d",
+          "text": "4.6 亿年"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "地球形成于约 46 亿年前。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 43
+      }
+    },
+    {
+      "id": "astronomy-a-044",
+      "type": "single-choice",
+      "question": "月球相对恒星绕地球公转一周约需多久？",
+      "options": [
+        {
+          "id": "a",
+          "text": "12 小时"
+        },
+        {
+          "id": "b",
+          "text": "15 天"
+        },
+        {
+          "id": "c",
+          "text": "27.3 天"
+        },
+        {
+          "id": "d",
+          "text": "365 天"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "恒星月约为 27.3 天；相同月相之间的朔望月约为 29.53 天，两者不同。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 44
+      }
+    },
+    {
+      "id": "astronomy-a-045",
+      "type": "single-choice",
+      "question": "月球表面许多环形山主要是怎样形成的？",
+      "options": [
+        {
+          "id": "a",
+          "text": "小天体撞击"
+        },
+        {
+          "id": "b",
+          "text": "流水侵蚀"
+        },
+        {
+          "id": "c",
+          "text": "动物挖掘"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "小天体高速撞击月球表面形成撞击坑。月面暗色的月海主要是古代熔岩形成的平原，不能混称为撞击斑点。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 45
+      }
+    },
+    {
+      "id": "astronomy-a-046",
+      "type": "single-choice",
+      "question": "流星进入地球大气后出现亮迹，主要原因是什么？",
+      "options": [
+        {
+          "id": "a",
+          "text": "与大气高速作用，物质烧蚀并使气体发光"
+        },
+        {
+          "id": "b",
+          "text": "本来就是一颗燃烧的恒星"
+        },
+        {
+          "id": "c",
+          "text": "仅仅反射太阳光"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "流星体高速进入大气，发生烧蚀并激发周围气体发光，形成短暂的亮迹。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 46
+      }
+    },
+    {
+      "id": "astronomy-a-047",
+      "type": "single-choice",
+      "question": "哈雷彗星绕太阳公转一周大约需要多久？",
+      "options": [
+        {
+          "id": "a",
+          "text": "72—73 年"
+        },
+        {
+          "id": "b",
+          "text": "73—74 年"
+        },
+        {
+          "id": "c",
+          "text": "75—76 年"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "哈雷彗星的公转周期约为 76 年，每次回归间隔会略有变化。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 47
+      }
+    },
+    {
+      "id": "astronomy-a-048",
+      "type": "single-choice",
+      "question": "以下哪个国家没有参加国际空间站的建设合作？",
+      "options": [
+        {
+          "id": "a",
+          "text": "美国"
+        },
+        {
+          "id": "b",
+          "text": "俄罗斯"
+        },
+        {
+          "id": "c",
+          "text": "日本"
+        },
+        {
+          "id": "d",
+          "text": "中国"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "国际空间站由美国、俄罗斯、日本、加拿大和欧洲伙伴合作，中国建设了自己的空间站。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 48
+      }
+    },
+    {
+      "id": "astronomy-a-049",
+      "type": "single-choice",
+      "question": "“惊雷初响，万物复苏”通常用来描述哪个节气？",
+      "options": [
+        {
+          "id": "a",
+          "text": "立春"
+        },
+        {
+          "id": "b",
+          "text": "春分"
+        },
+        {
+          "id": "c",
+          "text": "惊蛰"
+        },
+        {
+          "id": "d",
+          "text": "清明"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "惊蛰表示春季气温回升、万物开始活跃，是传统节气名称。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 49
+      }
+    },
+    {
+      "id": "astronomy-a-050",
+      "type": "single-choice",
+      "question": "FAST 位于贵州哪个县？",
+      "options": [
+        {
+          "id": "a",
+          "text": "黄平"
+        },
+        {
+          "id": "b",
+          "text": "平塘"
+        },
+        {
+          "id": "c",
+          "text": "望谟"
+        },
+        {
+          "id": "d",
+          "text": "思南"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "FAST 位于贵州省平塘县的大窝凼洼地。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 50
+      }
+    },
+    {
+      "id": "astronomy-a-052",
+      "type": "single-choice",
+      "question": "运载火箭技术与以下哪种技术有较强关联？",
+      "options": [
+        {
+          "id": "a",
+          "text": "洲际导弹"
+        },
+        {
+          "id": "b",
+          "text": "巡航导弹"
+        },
+        {
+          "id": "c",
+          "text": "原子弹"
+        },
+        {
+          "id": "d",
+          "text": "无人侦察机"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "运载火箭和弹道导弹都涉及火箭推进、制导与多级飞行等技术。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 52
+      }
+    },
+    {
+      "id": "astronomy-a-053",
+      "type": "single-choice",
+      "question": "我们平常看到的太阳明亮盘面主要对应哪一层？",
+      "options": [
+        {
+          "id": "a",
+          "text": "光球"
+        },
+        {
+          "id": "b",
+          "text": "色球"
+        },
+        {
+          "id": "c",
+          "text": "日冕"
+        },
+        {
+          "id": "d",
+          "text": "磁球"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "光球是太阳可见光辐射主要发出的层，构成通常看到的太阳盘面。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 53
+      }
+    },
+    {
+      "id": "astronomy-a-054",
+      "type": "single-choice",
+      "question": "从地球看，太阳与月球的视直径通常怎样？",
+      "options": [
+        {
+          "id": "a",
+          "text": "差不多大"
+        },
+        {
+          "id": "b",
+          "text": "太阳大很多"
+        },
+        {
+          "id": "c",
+          "text": "月球大很多"
+        },
+        {
+          "id": "d",
+          "text": "至少相差 20%"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "太阳实际远大于月球，但也远得多，两者从地球看视直径都约半度。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 54
+      }
+    },
+    {
+      "id": "astronomy-a-055",
+      "type": "single-choice",
+      "question": "世界上第一颗人造地球卫星是什么？",
+      "options": [
+        {
+          "id": "a",
+          "text": "东方红一号"
+        },
+        {
+          "id": "b",
+          "text": "斯普特尼克一号"
+        },
+        {
+          "id": "c",
+          "text": "宇宙一号"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "苏联于 1957 年发射斯普特尼克一号，又称人造地球卫星一号。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 55
+      }
+    },
+    {
+      "id": "astronomy-a-056",
+      "type": "single-choice",
+      "question": "地球绕太阳公转一周大约是多少天？",
+      "options": [
+        {
+          "id": "a",
+          "text": "200 天"
+        },
+        {
+          "id": "b",
+          "text": "312 天"
+        },
+        {
+          "id": "c",
+          "text": "365 天"
+        },
+        {
+          "id": "d",
+          "text": "420 天"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "地球公转周期约一年，恒星年约 365.26 天；365 是这些选项中最接近的值。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 56
+      }
+    },
+    {
+      "id": "astronomy-a-057",
+      "type": "single-choice",
+      "question": "地球与月球的平均距离约为多少？",
+      "options": [
+        {
+          "id": "a",
+          "text": "384,400 km"
+        },
+        {
+          "id": "b",
+          "text": "400,000 km"
+        },
+        {
+          "id": "c",
+          "text": "380,000 km"
+        },
+        {
+          "id": "d",
+          "text": "388,000 km"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "平均地月距离约 384,400 km，实际距离随月球轨道变化。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 57
+      }
+    },
+    {
+      "id": "astronomy-a-058",
+      "type": "single-choice",
+      "question": "开普勒是哪国天文学家？",
+      "options": [
+        {
+          "id": "a",
+          "text": "美国"
+        },
+        {
+          "id": "b",
+          "text": "英国"
+        },
+        {
+          "id": "c",
+          "text": "德国"
+        },
+        {
+          "id": "d",
+          "text": "法国"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "德国天文学家开普勒提出行星运动三定律。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 58
+      }
+    },
+    {
+      "id": "astronomy-a-059",
+      "type": "single-choice",
+      "question": "神舟六号载人飞船上的两位航天员是谁？",
+      "options": [
+        {
+          "id": "a",
+          "text": "杨利伟"
+        },
+        {
+          "id": "b",
+          "text": "聂海胜和翟志刚"
+        },
+        {
+          "id": "c",
+          "text": "翟志刚和景海鹏"
+        },
+        {
+          "id": "d",
+          "text": "费俊龙和聂海胜"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "费俊龙和聂海胜于 2005 年执行神舟六号任务。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 59
+      }
+    },
+    {
+      "id": "astronomy-a-060",
+      "type": "single-choice",
+      "question": "神舟五号载人飞船上的航天员是谁？",
+      "options": [
+        {
+          "id": "a",
+          "text": "杨利伟"
+        },
+        {
+          "id": "b",
+          "text": "聂海胜和翟志刚"
+        },
+        {
+          "id": "c",
+          "text": "翟志刚和景海鹏"
+        },
+        {
+          "id": "d",
+          "text": "费俊龙和聂海胜"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "杨利伟于 2003 年乘神舟五号成为第一位进入太空的中国航天员；",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 60
+      }
+    },
+    {
+      "id": "astronomy-a-061",
+      "type": "single-choice",
+      "question": "我国探月工程第一阶段“绕”的主要任务是什么？",
+      "options": [
+        {
+          "id": "a",
+          "text": "绕月探测"
+        },
+        {
+          "id": "b",
+          "text": "在月球着陆"
+        },
+        {
+          "id": "c",
+          "text": "采集月壤并带回地球"
+        },
+        {
+          "id": "d",
+          "text": "载人登月"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "嫦娥一号于 2007 年发射，执行绕月探测，实现“绕”的阶段目标。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 61
+      }
+    },
+    {
+      "id": "astronomy-a-062",
+      "type": "single-choice",
+      "question": "太阳系中自转最快的行星是哪颗？",
+      "options": [
+        {
+          "id": "a",
+          "text": "木星"
+        },
+        {
+          "id": "b",
+          "text": "土星"
+        },
+        {
+          "id": "c",
+          "text": "天王星"
+        },
+        {
+          "id": "d",
+          "text": "海王星"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "木星约十小时自转一周，是八颗行星中自转最快的。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 62
+      }
+    },
+    {
+      "id": "astronomy-a-064",
+      "type": "single-choice",
+      "question": "太阳黑子位于太阳大气的哪一层？",
+      "options": [
+        {
+          "id": "a",
+          "text": "光球"
+        },
+        {
+          "id": "b",
+          "text": "色球"
+        },
+        {
+          "id": "c",
+          "text": "日冕"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "黑子是光球上温度较低、磁场很强的区域；",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 64
+      }
+    },
+    {
+      "id": "astronomy-a-065",
+      "type": "single-choice",
+      "question": "用氢 α 窄带设备观测太阳耀斑时，通常观察哪一层的亮度变化？",
+      "options": [
+        {
+          "id": "a",
+          "text": "光球"
+        },
+        {
+          "id": "b",
+          "text": "色球"
+        },
+        {
+          "id": "c",
+          "text": "日冕"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "耀斑在多个大气层都有表现，氢 α 波段主要反映色球层。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 65
+      }
+    },
+    {
+      "id": "astronomy-a-067",
+      "type": "single-choice",
+      "question": "历史上最早留下可确认哈雷彗星记录的国家是哪个？",
+      "options": [
+        {
+          "id": "a",
+          "text": "玛雅文明所在地区"
+        },
+        {
+          "id": "b",
+          "text": "埃及"
+        },
+        {
+          "id": "c",
+          "text": "印度"
+        },
+        {
+          "id": "d",
+          "text": "中国"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "中国古代文献留下了很早的哈雷彗星记录，如公元前 240 年的记录。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 67
+      }
+    },
+    {
+      "id": "astronomy-a-068",
+      "type": "multiple-choice",
+      "question": "以下关于太阳、地球和月球的说法，哪些正确？",
+      "options": [
+        {
+          "id": "a",
+          "text": "月球像太阳一样自身发光"
+        },
+        {
+          "id": "b",
+          "text": "地球是绕太阳运行的行星"
+        },
+        {
+          "id": "c",
+          "text": "月球是地球的天然卫星"
+        },
+        {
+          "id": "d",
+          "text": "月球是太阳的一颗恒星"
+        }
+      ],
+      "answer": ["b", "c"],
+      "explanation": "地球是太阳系行星，月球是地球的天然卫星。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 68
+      }
+    },
+    {
+      "id": "astronomy-a-069",
+      "type": "single-choice",
+      "question": "北极星位于哪个星座？",
+      "options": [
+        {
+          "id": "a",
+          "text": "大熊座"
+        },
+        {
+          "id": "b",
+          "text": "天琴座"
+        },
+        {
+          "id": "c",
+          "text": "小熊座"
+        },
+        {
+          "id": "d",
+          "text": "仙后座"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "北极星位于小熊座，接近北天极，不属于北斗七星。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 69
+      }
+    },
+    {
+      "id": "astronomy-a-070",
+      "type": "single-choice",
+      "question": "现代天文学把天球划分成的区域称为什么？",
+      "options": [
+        {
+          "id": "a",
+          "text": "星区"
+        },
+        {
+          "id": "b",
+          "text": "星座"
+        },
+        {
+          "id": "c",
+          "text": "星系"
+        },
+        {
+          "id": "d",
+          "text": "星空"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "国际天文学联合会规定了全天 88 个星座的边界。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 70
+      }
+    },
+    {
+      "id": "astronomy-a-071",
+      "type": "single-choice",
+      "question": "以下哪位科学家早期用望远镜开展天文观测？",
+      "options": [
+        {
+          "id": "a",
+          "text": "伽利略"
+        },
+        {
+          "id": "b",
+          "text": "牛顿"
+        },
+        {
+          "id": "c",
+          "text": "爱迪生"
+        },
+        {
+          "id": "d",
+          "text": "哥白尼"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "伽利略改进并把望远镜用于天文观测，但不是望远镜的最初发明者。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 71
+      }
+    },
+    {
+      "id": "astronomy-a-072",
+      "type": "single-choice",
+      "question": "我国第一颗人造地球卫星在哪一年发射成功？",
+      "options": [
+        {
+          "id": "a",
+          "text": "1960 年"
+        },
+        {
+          "id": "b",
+          "text": "1965 年"
+        },
+        {
+          "id": "c",
+          "text": "1975 年"
+        },
+        {
+          "id": "d",
+          "text": "1970 年"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "东方红一号于 1970 年 4 月 24 日发射成功。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 72
+      }
+    },
+    {
+      "id": "astronomy-a-073",
+      "type": "single-choice",
+      "question": "以下谁是中国航天事业的重要奠基人？",
+      "options": [
+        {
+          "id": "a",
+          "text": "李四光"
+        },
+        {
+          "id": "b",
+          "text": "钱学森"
+        },
+        {
+          "id": "c",
+          "text": "詹天佑"
+        },
+        {
+          "id": "d",
+          "text": "杨振宁"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "钱学森为中国航天事业的建立作出了重要贡献；避免将多人事业归为唯一创始人。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 73
+      }
+    },
+    {
+      "id": "astronomy-a-074",
+      "type": "single-choice",
+      "question": "当太阳经过当地子午线、达到当天最高位置时，当地真太阳时约为几点？",
+      "options": [
+        {
+          "id": "a",
+          "text": "7 点"
+        },
+        {
+          "id": "b",
+          "text": "10 点"
+        },
+        {
+          "id": "c",
+          "text": "12 点"
+        },
+        {
+          "id": "d",
+          "text": "14 点"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "真太阳时中午 12 点对应太阳上中天，不一定等于北京时间 12 点，也不一定在头顶。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 74
+      }
+    },
+    {
+      "id": "astronomy-a-075",
+      "type": "single-choice",
+      "question": "月面上两名宇航员不能直接通过周围环境听到对方说话，主要因为什么？",
+      "options": [
+        {
+          "id": "a",
+          "text": "没有生命"
+        },
+        {
+          "id": "b",
+          "text": "不存在振动物体"
+        },
+        {
+          "id": "c",
+          "text": "缺少能传声的空气"
+        },
+        {
+          "id": "d",
+          "text": "没有水"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "声音需要介质，月面近乎真空，不能像地球空气那样传声；可使用无线电通信。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 75
+      }
+    },
+    {
+      "id": "astronomy-a-076",
+      "type": "single-choice",
+      "question": "《天体运行论》是哪位科学家的著作？",
+      "options": [
+        {
+          "id": "a",
+          "text": "布鲁诺"
+        },
+        {
+          "id": "b",
+          "text": "哥白尼"
+        },
+        {
+          "id": "c",
+          "text": "伽利略"
+        },
+        {
+          "id": "d",
+          "text": "牛顿"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "哥白尼在《天体运行论》中系统论述日心体系。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 76
+      }
+    },
+    {
+      "id": "astronomy-a-077",
+      "type": "single-choice",
+      "question": "连续两次新月之间平均相隔多少天？",
+      "options": [
+        {
+          "id": "a",
+          "text": "29.53 天"
+        },
+        {
+          "id": "b",
+          "text": "15 天"
+        },
+        {
+          "id": "c",
+          "text": "60 天"
+        },
+        {
+          "id": "d",
+          "text": "365 天"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "连续两次新月的间隔称为朔望月，平均约 29.53 天。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 77
+      }
+    },
+    {
+      "id": "astronomy-a-078",
+      "type": "single-choice",
+      "question": "除太阳外，从地球看夜空中最亮的恒星是哪颗？",
+      "options": [
+        {
+          "id": "a",
+          "text": "天狼星"
+        },
+        {
+          "id": "b",
+          "text": "北极星"
+        },
+        {
+          "id": "c",
+          "text": "牛郎星"
+        },
+        {
+          "id": "d",
+          "text": "织女星"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "天狼星是夜空中视星等最亮的恒星。金星更亮，但属于行星。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 78
+      }
+    },
+    {
+      "id": "astronomy-a-079",
+      "type": "single-choice",
+      "question": "第一位在月球上留下脚印的宇航员来自哪个国家？",
+      "options": [
+        {
+          "id": "a",
+          "text": "中国"
+        },
+        {
+          "id": "b",
+          "text": "美国"
+        },
+        {
+          "id": "c",
+          "text": "英国"
+        },
+        {
+          "id": "d",
+          "text": "日本"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "美国宇航员阿姆斯特朗于 1969 年首次踏上月球；",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 79
+      }
+    },
+    {
+      "id": "astronomy-a-080",
+      "type": "single-choice",
+      "question": "中国空间站叫什么？",
+      "options": [
+        {
+          "id": "a",
+          "text": "神舟"
+        },
+        {
+          "id": "b",
+          "text": "嫦娥"
+        },
+        {
+          "id": "c",
+          "text": "夸父"
+        },
+        {
+          "id": "d",
+          "text": "天宫"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "中国空间站名为天宫。神舟是载人飞船，嫦娥是探月工程名称；",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 80
+      }
+    },
+    {
+      "id": "astronomy-a-081",
+      "type": "single-choice",
+      "question": "神舟七号任务中首先执行出舱活动的航天员是谁？",
+      "options": [
+        {
+          "id": "a",
+          "text": "景海鹏"
+        },
+        {
+          "id": "b",
+          "text": "刘伯明"
+        },
+        {
+          "id": "c",
+          "text": "聂海胜"
+        },
+        {
+          "id": "d",
+          "text": "翟志刚"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "翟志刚于 2008 年执行中国首次太空出舱活动，刘伯明参与协助。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 81
+      }
+    },
+    {
+      "id": "astronomy-a-082",
+      "type": "single-choice",
+      "question": "忽略季节差异，在以下城市中，哪座城市通常最早迎来日出？",
+      "options": [
+        {
+          "id": "a",
+          "text": "乌鲁木齐"
+        },
+        {
+          "id": "b",
+          "text": "西安"
+        },
+        {
+          "id": "c",
+          "text": "北京"
+        },
+        {
+          "id": "d",
+          "text": "拉萨"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "北京在这四座城市中最偏东，通常最早迎来日出；不能理解为全中国最早日出的城市。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 82
+      }
+    },
+    {
+      "id": "astronomy-a-083",
+      "type": "single-choice",
+      "question": "“北斗七星”是什么？",
+      "options": [
+        {
+          "id": "a",
+          "text": "一个独立星座"
+        },
+        {
+          "id": "b",
+          "text": "大熊座的一部分"
+        },
+        {
+          "id": "c",
+          "text": "几个星座的组合"
+        },
+        {
+          "id": "d",
+          "text": "一个恒星星团"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "北斗七星是大熊座中的著名星群，并不是独立星座或物理星团。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 83
+      }
+    },
+    {
+      "id": "astronomy-a-084",
+      "type": "single-choice",
+      "question": "从地球上哪个纬度附近，在不同季节理论上能看到南、北天球的恒星？",
+      "options": [
+        {
+          "id": "a",
+          "text": "北极"
+        },
+        {
+          "id": "b",
+          "text": "赤道"
+        },
+        {
+          "id": "c",
+          "text": "南极"
+        },
+        {
+          "id": "d",
+          "text": "南回归线"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "赤道附近理论上可观测南、北天球；并非同一夜能看见全天恒星，也会受地平线和天气限制。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 84
+      }
+    },
+    {
+      "id": "astronomy-a-085",
+      "type": "single-choice",
+      "question": "从地球上不能观察到以下哪种食？",
+      "options": [
+        {
+          "id": "a",
+          "text": "日偏食"
+        },
+        {
+          "id": "b",
+          "text": "日环食"
+        },
+        {
+          "id": "c",
+          "text": "月偏食"
+        },
+        {
+          "id": "d",
+          "text": "月环食"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "在月球距离处，地球本影比月球大，不形成类似日环食的月环食。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 85
+      }
+    },
+    {
+      "id": "astronomy-a-086",
+      "type": "single-choice",
+      "question": "以下哪个星座对应一个著名的流星雨？",
+      "options": [
+        {
+          "id": "a",
+          "text": "狮子座"
+        },
+        {
+          "id": "b",
+          "text": "仙后座"
+        },
+        {
+          "id": "c",
+          "text": "大熊座"
+        },
+        {
+          "id": "d",
+          "text": "小熊座"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "狮子座流星雨每年 11 月前后活跃，曾发生壮观的流星暴。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 86
+      }
+    },
+    {
+      "id": "astronomy-a-087",
+      "type": "single-choice",
+      "question": "以下哪个节气前后，地球多数地区的昼夜长度接近相等？",
+      "options": [
+        {
+          "id": "a",
+          "text": "春分"
+        },
+        {
+          "id": "b",
+          "text": "夏至"
+        },
+        {
+          "id": "c",
+          "text": "大雪"
+        },
+        {
+          "id": "d",
+          "text": "冬至"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "春分和秋分前后昼夜接近等长；大气折射和太阳视直径使实际日照并非严格各 12 小时。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 87
+      }
+    },
+    {
+      "id": "astronomy-a-089",
+      "type": "single-choice",
+      "question": "太阳的常用天文符号是哪一个？",
+      "options": [
+        {
+          "id": "a",
+          "text": "☉"
+        },
+        {
+          "id": "b",
+          "text": "☽"
+        },
+        {
+          "id": "c",
+          "text": "♀"
+        },
+        {
+          "id": "d",
+          "text": "♂"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "☉ 是太阳的常用符号；",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 89
+      }
+    },
+    {
+      "id": "astronomy-a-090",
+      "type": "single-choice",
+      "question": "古希腊罗马文化传统中，与音乐、光明相联系，后来常与太阳联系起来的神是谁？",
+      "options": [
+        {
+          "id": "a",
+          "text": "阿尔忒弥斯"
+        },
+        {
+          "id": "b",
+          "text": "阿波罗"
+        },
+        {
+          "id": "c",
+          "text": "玛尔斯"
+        },
+        {
+          "id": "d",
+          "text": "维纳斯"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "阿波罗与音乐、光明相联系；古希腊专门的太阳神是赫利俄斯，不能简单将两者等同。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 90
+      }
+    },
+    {
+      "id": "astronomy-a-091",
+      "type": "single-choice",
+      "question": "太阳在地平线附近有时显得比中午大，主要是什么现象？",
+      "options": [
+        {
+          "id": "a",
+          "text": "太阳离地球明显更近"
+        },
+        {
+          "id": "b",
+          "text": "视觉错觉"
+        },
+        {
+          "id": "c",
+          "text": "中午气温高"
+        },
+        {
+          "id": "d",
+          "text": "地形改变太阳大小"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "这是天体大小的视觉错觉，太阳实际视直径不会在一天内发生那样大的变化。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 91
+      }
+    },
+    {
+      "id": "astronomy-a-092",
+      "type": "single-choice",
+      "question": "月食开始时，地球本影通常先遮住月面的哪一侧？",
+      "options": [
+        {
+          "id": "a",
+          "text": "东侧"
+        },
+        {
+          "id": "b",
+          "text": "西侧"
+        },
+        {
+          "id": "c",
+          "text": "北侧"
+        },
+        {
+          "id": "d",
+          "text": "南侧"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "月球相对于地球本影向东运动，东侧通常先进入本影；这里的东侧是月面天球方向。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 92
+      }
+    },
+    {
+      "id": "astronomy-a-093",
+      "type": "single-choice",
+      "question": "冥王星不符合行星定义的哪项条件？",
+      "options": [
+        {
+          "id": "a",
+          "text": "必须和卫星一样大"
+        },
+        {
+          "id": "b",
+          "text": "必须靠近太阳"
+        },
+        {
+          "id": "c",
+          "text": "轨道必须无倾角"
+        },
+        {
+          "id": "d",
+          "text": "清空轨道附近区域"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "冥王星没有在轨道邻域取得支配地位，因此被归为矮行星。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 93
+      }
+    },
+    {
+      "id": "astronomy-a-094",
+      "type": "single-choice",
+      "question": "1 天文单位（au）的大小最接近以下哪个距离？",
+      "options": [
+        {
+          "id": "a",
+          "text": "地球到最近恒星的距离"
+        },
+        {
+          "id": "b",
+          "text": "光一年传播的距离"
+        },
+        {
+          "id": "c",
+          "text": "地球到太阳的平均距离"
+        },
+        {
+          "id": "d",
+          "text": "太阳到月球的直径"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "1 au 现定义为恰好 149,597,870,700 米，数值接近平均日地距离；",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 94
+      }
+    },
+    {
+      "id": "astronomy-a-095",
+      "type": "single-choice",
+      "question": "以下哪一种主要用于测量角度，而不是计时？",
+      "options": [
+        {
+          "id": "a",
+          "text": "摆钟"
+        },
+        {
+          "id": "b",
+          "text": "漏壶"
+        },
+        {
+          "id": "c",
+          "text": "水运仪象台"
+        },
+        {
+          "id": "d",
+          "text": "纪限仪"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "纪限仪主要测量天体角距；摆钟、漏壶以及水运仪象台的相关机构可用于计时。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 95
+      }
+    },
+    {
+      "id": "astronomy-a-096",
+      "type": "single-choice",
+      "question": "银河系中心位于哪个星座方向？",
+      "options": [
+        {
+          "id": "a",
+          "text": "猎户座"
+        },
+        {
+          "id": "b",
+          "text": "人马座"
+        },
+        {
+          "id": "c",
+          "text": "飞马座"
+        },
+        {
+          "id": "d",
+          "text": "天鹅座"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "银河系中心在人马座方向，该区域有大量尘埃遮挡可见光。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 96
+      }
+    },
+    {
+      "id": "astronomy-a-097",
+      "type": "single-choice",
+      "question": "以下哪种颜色的恒星通常表面温度最高？",
+      "options": [
+        {
+          "id": "a",
+          "text": "蓝色"
+        },
+        {
+          "id": "b",
+          "text": "白色"
+        },
+        {
+          "id": "c",
+          "text": "红色"
+        },
+        {
+          "id": "d",
+          "text": "橙黄色"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "恒星颜色与表面温度有关，蓝色通常比白色、黄色和红色更热。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 97
+      }
+    },
+    {
+      "id": "astronomy-a-098",
+      "type": "single-choice",
+      "question": "在以下四颗行星中，哪颗拥有最多已确认的天然卫星？",
+      "options": [
+        {
+          "id": "a",
+          "text": "地球"
+        },
+        {
+          "id": "b",
+          "text": "火星"
+        },
+        {
+          "id": "c",
+          "text": "木星"
+        },
+        {
+          "id": "d",
+          "text": "天王星"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "在题列四颗行星中木星最多；本题不比较未列出的土星，也不使用会随发现变化的精确数量。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 98
+      }
+    },
+    {
+      "id": "astronomy-a-100",
+      "type": "single-choice",
+      "question": "以下哪颗行星在与地球最接近时，两者距离可以最小？",
+      "options": [
+        {
+          "id": "a",
+          "text": "金星"
+        },
+        {
+          "id": "b",
+          "text": "水星"
+        },
+        {
+          "id": "c",
+          "text": "火星"
+        },
+        {
+          "id": "d",
+          "text": "土星"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "金星与地球轨道相邻，最近接近距离可最小；各行星到地球的瞬时距离随位置变化，不能说金星一直最近。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 100
+      }
+    },
+    {
+      "id": "astronomy-a-099",
+      "type": "single-choice",
+      "question": "彗星尾巴的方向主要由什么决定？",
+      "options": [
+        {
+          "id": "a",
+          "text": "总沿运动方向"
+        },
+        {
+          "id": "b",
+          "text": "总与运动方向成直角"
+        },
+        {
+          "id": "c",
+          "text": "总与运动方向相反"
+        },
+        {
+          "id": "d",
+          "text": "太阳辐射和太阳风的影响"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "彗尾总体指向背离太阳的方向，离子尾与尘埃尾形状不同，并不由彗星运动方向简单决定。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 99
+      }
+    },
+    {
+      "id": "astronomy-a-101",
+      "type": "multiple-choice",
+      "question": "以下哪些卫星基本处于同步自转，即自转周期与绕主天体公转周期相同？",
+      "options": [
+        {
+          "id": "a",
+          "text": "冥卫一"
+        },
+        {
+          "id": "b",
+          "text": "木卫一"
+        },
+        {
+          "id": "c",
+          "text": "土卫一"
+        },
+        {
+          "id": "d",
+          "text": "月球"
+        }
+      ],
+      "answer": ["a", "b", "c", "d"],
+      "explanation": "这些大型近主天体卫星均发生潮汐锁定。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 101
+      }
+    },
+    {
+      "id": "astronomy-a-102",
+      "type": "single-choice",
+      "question": "第一颗被发现的小行星谷神星是谁发现的？",
+      "options": [
+        {
+          "id": "a",
+          "text": "皮亚齐"
+        },
+        {
+          "id": "b",
+          "text": "奥伯斯"
+        },
+        {
+          "id": "c",
+          "text": "基普·索恩"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "皮亚齐于 1801 年发现谷神星，谷神星现在也被归类为矮行星。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 102
+      }
+    },
+    {
+      "id": "astronomy-a-103",
+      "type": "single-choice",
+      "question": "北半球哪个节气时，太阳直射南回归线？",
+      "options": [
+        {
+          "id": "a",
+          "text": "春分"
+        },
+        {
+          "id": "b",
+          "text": "秋分"
+        },
+        {
+          "id": "c",
+          "text": "夏至"
+        },
+        {
+          "id": "d",
+          "text": "冬至"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "北半球冬至时，太阳直射南回归线。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 103
+      }
+    },
+    {
+      "id": "astronomy-a-104",
+      "type": "single-choice",
+      "question": "地球静止轨道卫星位于哪里的上空？",
+      "options": [
+        {
+          "id": "a",
+          "text": "南极"
+        },
+        {
+          "id": "b",
+          "text": "北极"
+        },
+        {
+          "id": "c",
+          "text": "赤道"
+        },
+        {
+          "id": "d",
+          "text": "可以固定在任意纬度"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "地球静止轨道是赤道平面内的圆形同步轨道；“同步”轨道并不都位于赤道平面。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 104
+      }
+    },
+    {
+      "id": "astronomy-a-105",
+      "type": "single-choice",
+      "question": "贵州省位于中国哪个地理区域？",
+      "options": [
+        {
+          "id": "a",
+          "text": "西北"
+        },
+        {
+          "id": "b",
+          "text": "西南"
+        },
+        {
+          "id": "c",
+          "text": "北部"
+        },
+        {
+          "id": "d",
+          "text": "南部"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "贵州属于中国西南地区。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 105
+      }
+    },
+    {
+      "id": "astronomy-a-106",
+      "type": "single-choice",
+      "question": "贵州大部分地区属于哪类气候带？",
+      "options": [
+        {
+          "id": "a",
+          "text": "热带"
+        },
+        {
+          "id": "b",
+          "text": "亚热带"
+        },
+        {
+          "id": "c",
+          "text": "温带"
+        },
+        {
+          "id": "d",
+          "text": "寒带"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "贵州大部分地区属于亚热带季风气候；",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 106
+      }
+    },
+    {
+      "id": "astronomy-a-107",
+      "type": "single-choice",
+      "question": "以下哪座城市因纬度较高，地球自转线速度最小？",
+      "options": [
+        {
+          "id": "a",
+          "text": "上海"
+        },
+        {
+          "id": "b",
+          "text": "莫斯科"
+        },
+        {
+          "id": "c",
+          "text": "北京"
+        },
+        {
+          "id": "d",
+          "text": "广州"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "自转线速度随纬度升高而减小，这四座城市中莫斯科纬度最高。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 107
+      }
+    },
+    {
+      "id": "astronomy-a-108",
+      "type": "single-choice",
+      "question": "地球有几颗天然卫星？",
+      "options": [
+        {
+          "id": "a",
+          "text": "0 颗"
+        },
+        {
+          "id": "b",
+          "text": "1 颗"
+        },
+        {
+          "id": "c",
+          "text": "2 颗"
+        },
+        {
+          "id": "d",
+          "text": "3 颗"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "地球的天然卫星是月球；人造卫星不计入本题。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 108
+      }
+    },
+    {
+      "id": "astronomy-a-109",
+      "type": "single-choice",
+      "question": "月球属于哪类天体？",
+      "options": [
+        {
+          "id": "a",
+          "text": "恒星"
+        },
+        {
+          "id": "b",
+          "text": "中子星"
+        },
+        {
+          "id": "c",
+          "text": "行星"
+        },
+        {
+          "id": "d",
+          "text": "天然卫星"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "月球绕地球运行，是地球的天然卫星。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 109
+      }
+    },
+    {
+      "id": "astronomy-a-111",
+      "type": "single-choice",
+      "question": "贵州广泛发育的特殊地貌是什么？",
+      "options": [
+        {
+          "id": "a",
+          "text": "沙漠"
+        },
+        {
+          "id": "b",
+          "text": "冰川"
+        },
+        {
+          "id": "c",
+          "text": "广阔平原"
+        },
+        {
+          "id": "d",
+          "text": "喀斯特地貌"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "贵州广泛发育由可溶性岩石溶蚀形成的喀斯特地貌；",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 111
+      }
+    },
+    {
+      "id": "astronomy-a-112",
+      "type": "single-choice",
+      "question": "晴朗白天的天空通常呈蓝色，主要原因是什么？",
+      "options": [
+        {
+          "id": "a",
+          "text": "空气分子对短波可见光散射较强"
+        },
+        {
+          "id": "b",
+          "text": "海洋把蓝色映到天空"
+        },
+        {
+          "id": "c",
+          "text": "空气自身发出蓝光"
+        },
+        {
+          "id": "d",
+          "text": "太阳只发出蓝光"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "空气分子的瑞利散射对短波光较强，使天空呈蓝色。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 112
+      }
+    },
+    {
+      "id": "astronomy-a-113",
+      "type": "single-choice",
+      "question": "日食发生时，月相应是什么？",
+      "options": [
+        {
+          "id": "a",
+          "text": "新月（朔）"
+        },
+        {
+          "id": "b",
+          "text": "上弦月"
+        },
+        {
+          "id": "c",
+          "text": "满月（望）"
+        },
+        {
+          "id": "d",
+          "text": "下弦月"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "日食发生时月球位于太阳和地球之间，月相为朔；朔不一定发生日食。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 113
+      }
+    },
+    {
+      "id": "astronomy-a-114",
+      "type": "single-choice",
+      "question": "太阳系位于哪个星系？",
+      "options": [
+        {
+          "id": "a",
+          "text": "小麦哲伦星系"
+        },
+        {
+          "id": "b",
+          "text": "仙女座星系"
+        },
+        {
+          "id": "c",
+          "text": "狮子座星系"
+        },
+        {
+          "id": "d",
+          "text": "银河系"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "太阳系属于银河系，位于银河盘中的猎户臂附近。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 114
+      }
+    },
+    {
+      "id": "astronomy-a-115",
+      "type": "single-choice",
+      "question": "我们看到月球明亮，主要是因为什么？",
+      "options": [
+        {
+          "id": "a",
+          "text": "月球自身像恒星一样发光"
+        },
+        {
+          "id": "b",
+          "text": "主要反射地球的光"
+        },
+        {
+          "id": "c",
+          "text": "反射太阳光"
+        },
+        {
+          "id": "d",
+          "text": "主要反射其他恒星光"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "月球的主要可见亮光来自反射的太阳光，地球反射光只造成较暗的地照现象。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 115
+      }
+    },
+    {
+      "id": "astronomy-a-116",
+      "type": "single-choice",
+      "question": "以下哪位科学家提出了著名的黑洞辐射理论？",
+      "options": [
+        {
+          "id": "a",
+          "text": "霍金"
+        },
+        {
+          "id": "b",
+          "text": "牛顿"
+        },
+        {
+          "id": "c",
+          "text": "爱因斯坦"
+        },
+        {
+          "id": "d",
+          "text": "爱迪生"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "霍金提出黑洞能够产生量子辐射，称为霍金辐射；",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 116
+      }
+    },
+    {
+      "id": "astronomy-a-118",
+      "type": "single-choice",
+      "question": "月全食时，月球常呈什么颜色？",
+      "options": [
+        {
+          "id": "a",
+          "text": "银白色"
+        },
+        {
+          "id": "b",
+          "text": "总是完全看不见"
+        },
+        {
+          "id": "c",
+          "text": "暗红或古铜色"
+        },
+        {
+          "id": "d",
+          "text": "总是深灰色"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "地球大气把部分红光折射进本影，使月球常呈暗红色；实际颜色和亮度会变化。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 118
+      }
+    },
+    {
+      "id": "astronomy-a-119",
+      "type": "single-choice",
+      "question": "以下哪种事件更可能明显影响地球的无线电通信和空间设备？",
+      "options": [
+        {
+          "id": "a",
+          "text": "哈雷彗星尾部经过地球附近"
+        },
+        {
+          "id": "b",
+          "text": "强烈太阳活动"
+        },
+        {
+          "id": "c",
+          "text": "八颗行星大致同侧"
+        },
+        {
+          "id": "d",
+          "text": "M42 中形成一颗恒星"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "强烈太阳耀斑和相关太阳活动可能影响电离层、无线电通信和航天器。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 119
+      }
+    },
+    {
+      "id": "astronomy-a-120",
+      "type": "single-choice",
+      "question": "以下结构中尺度最大的是哪个？",
+      "options": [
+        {
+          "id": "a",
+          "text": "银河系"
+        },
+        {
+          "id": "b",
+          "text": "星系群"
+        },
+        {
+          "id": "c",
+          "text": "太阳系"
+        },
+        {
+          "id": "d",
+          "text": "地月系"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "星系群包含多个星系，通常比单个星系、太阳系和地月系更大。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 120
+      }
+    },
+    {
+      "id": "astronomy-a-121",
+      "type": "single-choice",
+      "question": "以下关于天体自转的说法，哪项正确？",
+      "options": [
+        {
+          "id": "a",
+          "text": "太阳赤道角速度比两极小"
+        },
+        {
+          "id": "b",
+          "text": "地球赤道角速度比两极大"
+        },
+        {
+          "id": "c",
+          "text": "地球赤道线速度比两极大"
+        },
+        {
+          "id": "d",
+          "text": "太阳各处自转线速度相同"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "地球自转角速度基本相同，纬度越低到自转轴距离越大，线速度越大。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 121
+      }
+    },
+    {
+      "id": "astronomy-a-122",
+      "type": "single-choice",
+      "question": "日食刚开始时，太阳圆面的哪一侧通常先被月球遮挡？",
+      "options": [
+        {
+          "id": "a",
+          "text": "东侧"
+        },
+        {
+          "id": "b",
+          "text": "西侧"
+        },
+        {
+          "id": "c",
+          "text": "南侧"
+        },
+        {
+          "id": "d",
+          "text": "北侧"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "月球在天球上相对太阳向东运动，通常先遮住太阳圆面的西侧。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 122
+      }
+    },
+    {
+      "id": "astronomy-a-123",
+      "type": "single-choice",
+      "question": "许多沿海地区的大潮通常比新月或满月时刻晚多久？",
+      "options": [
+        {
+          "id": "a",
+          "text": "早 1—3 天"
+        },
+        {
+          "id": "b",
+          "text": "恰好同时"
+        },
+        {
+          "id": "c",
+          "text": "晚约 1—3 天"
+        },
+        {
+          "id": "d",
+          "text": "完全无关"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "新月、满月附近潮汐作用较强，实际最大潮差常滞后，具体潮龄因海域而异。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 123
+      }
+    },
+    {
+      "id": "astronomy-a-124",
+      "type": "single-choice",
+      "question": "地球出现四季以及热带、温带、寒带划分的重要共同因素是什么？",
+      "options": [
+        {
+          "id": "a",
+          "text": "黄赤交角"
+        },
+        {
+          "id": "b",
+          "text": "仅仅公转"
+        },
+        {
+          "id": "c",
+          "text": "仅仅球形"
+        },
+        {
+          "id": "d",
+          "text": "仅仅自转"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "地轴倾斜使太阳直射纬度一年中变化，影响季节和五带边界；四季还需要地球公转。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 124
+      }
+    },
+    {
+      "id": "astronomy-a-125",
+      "type": "single-choice",
+      "question": "以下哪国领土跨亚洲和北美洲，首都位于西半球？",
+      "options": [
+        {
+          "id": "a",
+          "text": "埃及"
+        },
+        {
+          "id": "b",
+          "text": "俄罗斯"
+        },
+        {
+          "id": "c",
+          "text": "美国"
+        },
+        {
+          "id": "d",
+          "text": "土耳其"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "美国阿拉斯加的部分阿留申群岛跨过亚洲与北美洲的地理分界，首都华盛顿位于西半球。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 125
+      }
+    },
+    {
+      "id": "astronomy-a-126",
+      "type": "single-choice",
+      "question": "以下哪座城市位于长江中游、地势较低，需要防范长江洪水？",
+      "options": [
+        {
+          "id": "a",
+          "text": "重庆"
+        },
+        {
+          "id": "b",
+          "text": "郑州"
+        },
+        {
+          "id": "c",
+          "text": "武汉"
+        },
+        {
+          "id": "d",
+          "text": "杭州"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "武汉位于长江中游，地势较低，洪水可能直接威胁城区；实际风险还取决于洪水和防洪条件。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 126
+      }
+    },
+    {
+      "id": "astronomy-a-129",
+      "type": "single-choice",
+      "question": "2004 年报道的“五星连珠”主要指五颗肉眼可见行星出现了什么现象？",
+      "options": [
+        {
+          "id": "a",
+          "text": "相互角距都小于 60 度"
+        },
+        {
+          "id": "b",
+          "text": "可同时位于观测地的地平线以上"
+        },
+        {
+          "id": "c",
+          "text": "在空间中严格排成直线"
+        },
+        {
+          "id": "d",
+          "text": "彼此距离相等"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "这类报道描述水、金、火、木、土五颗行星同时可见，不表示它们在空间中严格共线。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 129
+      }
+    },
+    {
+      "id": "astronomy-a-130",
+      "type": "single-choice",
+      "question": "理想的孤立双星系统中，两颗恒星通常怎样运动？",
+      "options": [
+        {
+          "id": "a",
+          "text": "各自绕不同中心做圆周运动"
+        },
+        {
+          "id": "b",
+          "text": "绕共同质心作椭圆轨道运动"
+        },
+        {
+          "id": "c",
+          "text": "相对质心静止"
+        },
+        {
+          "id": "d",
+          "text": "只有一颗恒星运动"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "两颗恒星在相互引力作用下绕共同质心运动，圆轨道是椭圆轨道的特殊情形。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 130
+      }
+    },
+    {
+      "id": "astronomy-a-131",
+      "type": "single-choice",
+      "question": "宇宙中最丰富的化学元素是什么？",
+      "options": [
+        {
+          "id": "a",
+          "text": "氢"
+        },
+        {
+          "id": "b",
+          "text": "氦"
+        },
+        {
+          "id": "c",
+          "text": "碳"
+        },
+        {
+          "id": "d",
+          "text": "铁"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "氢是宇宙中最丰富的元素，其次是氦。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 131
+      }
+    },
+    {
+      "id": "astronomy-a-132",
+      "type": "single-choice",
+      "question": "以太阳连续两次上中天为标准，地球一天平均约为多少小时？",
+      "options": [
+        {
+          "id": "a",
+          "text": "12 小时"
+        },
+        {
+          "id": "b",
+          "text": "24 小时"
+        },
+        {
+          "id": "c",
+          "text": "32 小时"
+        },
+        {
+          "id": "d",
+          "text": "48 小时"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "平均太阳日为 24 小时；相对恒星的自转周期约为 23 小时 56 分钟。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 132
+      }
+    },
+    {
+      "id": "astronomy-a-135",
+      "type": "single-choice",
+      "question": "以下哪项属于利用航天器开展的空间技术应用？",
+      "options": [
+        {
+          "id": "a",
+          "text": "探空气球"
+        },
+        {
+          "id": "b",
+          "text": "人工降雨"
+        },
+        {
+          "id": "c",
+          "text": "卫星通信"
+        },
+        {
+          "id": "d",
+          "text": "仅用地面仪器测风"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "卫星通信利用在轨通信卫星传递信号，是空间技术应用。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 135
+      }
+    },
+    {
+      "id": "astronomy-a-136",
+      "type": "single-choice",
+      "question": "北京时间采用哪个时区的区时？",
+      "options": [
+        {
+          "id": "a",
+          "text": "东五区"
+        },
+        {
+          "id": "b",
+          "text": "东六区"
+        },
+        {
+          "id": "c",
+          "text": "东七区"
+        },
+        {
+          "id": "d",
+          "text": "东八区"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "北京时间采用东八区区时，以东经 120° 的标准时间为基准。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 136
+      }
+    },
+    {
+      "id": "astronomy-a-137",
+      "type": "single-choice",
+      "question": "嫦娥一号在哪个发射中心发射？",
+      "options": [
+        {
+          "id": "a",
+          "text": "酒泉"
+        },
+        {
+          "id": "b",
+          "text": "太原"
+        },
+        {
+          "id": "c",
+          "text": "西昌"
+        },
+        {
+          "id": "d",
+          "text": "文昌"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "嫦娥一号于 2007 年从西昌卫星发射中心发射。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 137
+      }
+    },
+    {
+      "id": "astronomy-a-138",
+      "type": "single-choice",
+      "question": "决定太阳直射点南北移动极限纬度的是哪个因素？",
+      "options": [
+        {
+          "id": "a",
+          "text": "地球自转速度"
+        },
+        {
+          "id": "b",
+          "text": "地球大小"
+        },
+        {
+          "id": "c",
+          "text": "地球在宇宙的位置"
+        },
+        {
+          "id": "d",
+          "text": "黄赤交角的大小"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "黄赤交角约 23.4°，太阳直射点在南、北回归线之间移动。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 138
+      }
+    },
+    {
+      "id": "astronomy-a-140",
+      "type": "single-choice",
+      "question": "关于黑洞质量，哪项说法正确？",
+      "options": [
+        {
+          "id": "a",
+          "text": "所有黑洞质量无限大"
+        },
+        {
+          "id": "b",
+          "text": "所有黑洞质量接近无限大"
+        },
+        {
+          "id": "c",
+          "text": "黑洞质量不必无限大，不同黑洞质量可相差很大"
+        },
+        {
+          "id": "d",
+          "text": "所有黑洞质量恰为十个太阳质量"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "黑洞可以有有限的质量，恒星级与超大质量黑洞的质量相差巨大。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 140
+      }
+    },
+    {
+      "id": "astronomy-a-141",
+      "type": "single-choice",
+      "question": "我国探月工程“绕、落、回”中，“回”主要指什么？",
+      "options": [
+        {
+          "id": "a",
+          "text": "载人登月"
+        },
+        {
+          "id": "b",
+          "text": "把样本只送到月球轨道"
+        },
+        {
+          "id": "c",
+          "text": "把月球样本带回地球"
+        },
+        {
+          "id": "d",
+          "text": "建立月球基地"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "“回”阶段的目标包括月球采样返回。嫦娥五号已于 2020 年完成月球采样返回。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 141
+      }
+    },
+    {
+      "id": "astronomy-a-142",
+      "type": "single-choice",
+      "question": "以下哪项是地球目前已确认、而其他太阳系行星尚未确认的特征？",
+      "options": [
+        {
+          "id": "a",
+          "text": "公转"
+        },
+        {
+          "id": "b",
+          "text": "自转"
+        },
+        {
+          "id": "c",
+          "text": "含二氧化碳"
+        },
+        {
+          "id": "d",
+          "text": "存在生命"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "地球是目前唯一已确认存在生命的行星；其他行星也有自转和公转。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 142
+      }
+    },
+    {
+      "id": "astronomy-a-143",
+      "type": "single-choice",
+      "question": "以下哪一个不属于太阳系内的天体或设备？",
+      "options": [
+        {
+          "id": "a",
+          "text": "月球"
+        },
+        {
+          "id": "b",
+          "text": "织女星"
+        },
+        {
+          "id": "c",
+          "text": "柯伊伯带天体"
+        },
+        {
+          "id": "d",
+          "text": "哈勃空间望远镜"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "织女星是太阳系外的恒星；其余都在太阳系范围内。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 143
+      }
+    },
+    {
+      "id": "astronomy-a-144",
+      "type": "single-choice",
+      "question": "以下哪种物质属于构成地球生命的有机大分子？",
+      "options": [
+        {
+          "id": "a",
+          "text": "水"
+        },
+        {
+          "id": "b",
+          "text": "二氧化碳"
+        },
+        {
+          "id": "c",
+          "text": "氧气"
+        },
+        {
+          "id": "d",
+          "text": "蛋白质"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "蛋白质是生命的重要有机大分子。但发现有机物本身不能证明发现了生命，",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 144
+      }
+    },
+    {
+      "id": "astronomy-a-145",
+      "type": "single-choice",
+      "question": "地球属于哪类天体？",
+      "options": [
+        {
+          "id": "a",
+          "text": "恒星"
+        },
+        {
+          "id": "b",
+          "text": "行星"
+        },
+        {
+          "id": "c",
+          "text": "中子星"
+        },
+        {
+          "id": "d",
+          "text": "卫星"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "地球绕太阳公转，属于太阳系八颗行星。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 145
+      }
+    },
+    {
+      "id": "astronomy-a-146",
+      "type": "single-choice",
+      "question": "按照主要结构，地球属于哪类行星？",
+      "options": [
+        {
+          "id": "a",
+          "text": "岩石行星"
+        },
+        {
+          "id": "b",
+          "text": "液态行星"
+        },
+        {
+          "id": "c",
+          "text": "气态巨行星"
+        },
+        {
+          "id": "d",
+          "text": "冰巨行星"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "地球具有岩石外壳和金属核心，属于类地岩石行星，并非每一层都为固态。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 146
+      }
+    },
+    {
+      "id": "astronomy-a-147",
+      "type": "single-choice",
+      "question": "宇航员在月面看到没有云和光散射的黑色天空，主要因为什么？",
+      "options": [
+        {
+          "id": "a",
+          "text": "没有生命"
+        },
+        {
+          "id": "b",
+          "text": "没有振动物体"
+        },
+        {
+          "id": "c",
+          "text": "没有像地球那样浓厚的大气"
+        },
+        {
+          "id": "d",
+          "text": "没有水"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "月球缺少浓厚大气，无法产生地球白天天空那样的强散射，因此天空背景呈黑色。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 147
+      }
+    },
+    {
+      "id": "astronomy-a-148",
+      "type": "single-choice",
+      "question": "以下哪项按空间尺度从大到小排列正确？",
+      "options": [
+        {
+          "id": "a",
+          "text": "银河系、太阳系、星系群、地月系"
+        },
+        {
+          "id": "b",
+          "text": "星系群、银河系、太阳系、地月系"
+        },
+        {
+          "id": "c",
+          "text": "星系群、太阳系、银河系、地月系"
+        },
+        {
+          "id": "d",
+          "text": "星系群、银河系、地月系、太阳系"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "星系群包含多个星系，银河系包含太阳系，太阳系包含地月系。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 148
+      }
+    },
+    {
+      "id": "astronomy-a-149",
+      "type": "single-choice",
+      "question": "以下哪组都表示“行星及其天然卫星”的关系？",
+      "options": [
+        {
+          "id": "a",
+          "text": "地球与月球；土星与土卫六"
+        },
+        {
+          "id": "b",
+          "text": "土星与土卫六；地球与太阳"
+        },
+        {
+          "id": "c",
+          "text": "地球与月球；地球与太阳"
+        },
+        {
+          "id": "d",
+          "text": "太阳系与地月系；太阳系与银河系"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "月球是地球的天然卫星，土卫六是土星的天然卫星。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#A",
+        "number": 149
+      }
+    },
+    {
+      "id": "astronomy-b-001",
+      "type": "single-choice",
+      "question": "太阳系位于银河系中的哪个区域附近？",
+      "options": [
+        {
+          "id": "a",
+          "text": "英仙臂"
+        },
+        {
+          "id": "b",
+          "text": "猎户臂（本地臂）"
+        },
+        {
+          "id": "c",
+          "text": "人马臂"
+        },
+        {
+          "id": "d",
+          "text": "银河系中心"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "太阳系位于银河盘的猎户臂附近，远离银河系中心。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 1
+      }
+    },
+    {
+      "id": "astronomy-b-002",
+      "type": "single-choice",
+      "question": "宇宙中的普通物质主要由哪两种元素组成？",
+      "options": [
+        {
+          "id": "a",
+          "text": "氢和碳"
+        },
+        {
+          "id": "b",
+          "text": "氦和硼"
+        },
+        {
+          "id": "c",
+          "text": "碳和氮"
+        },
+        {
+          "id": "d",
+          "text": "氢和氦"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "普通物质中的元素主要是氢和氦；本题不把暗物质、暗能量当作元素。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 2
+      }
+    },
+    {
+      "id": "astronomy-b-003",
+      "type": "single-choice",
+      "question": "射电天文学起步于哪个年代？",
+      "options": [
+        {
+          "id": "a",
+          "text": "20 世纪初"
+        },
+        {
+          "id": "b",
+          "text": "20 世纪 30 年代"
+        },
+        {
+          "id": "c",
+          "text": "20 世纪 60 年代"
+        },
+        {
+          "id": "d",
+          "text": "20 世纪 90 年代"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "央斯基在 20 世纪 30 年代发现来自银河系的无线电辐射，推动射电天文学诞生。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 3
+      }
+    },
+    {
+      "id": "astronomy-b-004",
+      "type": "single-choice",
+      "question": "谁早期提出了宇宙膨胀及“原始原子”假说？",
+      "options": [
+        {
+          "id": "a",
+          "text": "牛顿"
+        },
+        {
+          "id": "b",
+          "text": "伽利略"
+        },
+        {
+          "id": "c",
+          "text": "霍金"
+        },
+        {
+          "id": "d",
+          "text": "勒梅特"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "勒梅特提出膨胀宇宙和原始原子假说，是大爆炸理论的重要先驱。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 4
+      }
+    },
+    {
+      "id": "astronomy-b-006",
+      "type": "single-choice",
+      "question": "恒星看起来一闪一闪，主要是什么原因？",
+      "options": [
+        {
+          "id": "a",
+          "text": "其他恒星干扰"
+        },
+        {
+          "id": "b",
+          "text": "恒星不停开关发光"
+        },
+        {
+          "id": "c",
+          "text": "地球大气的扰动"
+        },
+        {
+          "id": "d",
+          "text": "太阳光太亮"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "大气密度变化使星光发生不稳定折射，产生闪烁现象。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 6
+      }
+    },
+    {
+      "id": "astronomy-b-007",
+      "type": "single-choice",
+      "question": "以下哪个阶段通常表明太阳这样的恒星已离开主序、进入晚期演化？",
+      "options": [
+        {
+          "id": "a",
+          "text": "原恒星"
+        },
+        {
+          "id": "b",
+          "text": "主序前星"
+        },
+        {
+          "id": "c",
+          "text": "主序星"
+        },
+        {
+          "id": "d",
+          "text": "红巨星"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "恒星核心氢耗尽后可能膨胀为红巨星，进入晚期；恒星演化不统一只有四阶段。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 7
+      }
+    },
+    {
+      "id": "astronomy-b-008",
+      "type": "single-choice",
+      "question": "夜空中肉眼看到的多数星点属于哪类天体？",
+      "options": [
+        {
+          "id": "a",
+          "text": "行星"
+        },
+        {
+          "id": "b",
+          "text": "恒星"
+        },
+        {
+          "id": "c",
+          "text": "卫星"
+        },
+        {
+          "id": "d",
+          "text": "流星"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "夜空中多数长期可见的星点是自身发光的恒星。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 8
+      }
+    },
+    {
+      "id": "astronomy-b-010",
+      "type": "single-choice",
+      "question": "太阳约占太阳系总质量的多少？",
+      "options": [
+        {
+          "id": "a",
+          "text": "78.6%"
+        },
+        {
+          "id": "b",
+          "text": "78.8%"
+        },
+        {
+          "id": "c",
+          "text": "99.6%"
+        },
+        {
+          "id": "d",
+          "text": "99.8%"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "太阳约占太阳系总质量的 99.86%，选项中的 99.8% 最接近。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 10
+      }
+    },
+    {
+      "id": "astronomy-b-011",
+      "type": "single-choice",
+      "question": "太阳继续处于主序阶段的时间大约还有多久？",
+      "options": [
+        {
+          "id": "a",
+          "text": "50 亿年"
+        },
+        {
+          "id": "b",
+          "text": "60 亿年"
+        },
+        {
+          "id": "c",
+          "text": "70 亿年"
+        },
+        {
+          "id": "d",
+          "text": "80 亿年"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "太阳当前约 46 亿岁，预计还会在主序阶段持续约 50 亿年，不等于此后立即消失。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 11
+      }
+    },
+    {
+      "id": "astronomy-b-012",
+      "type": "single-choice",
+      "question": "谁在理论研究中预言了反电子的存在？",
+      "options": [
+        {
+          "id": "a",
+          "text": "牛顿"
+        },
+        {
+          "id": "b",
+          "text": "伽利略"
+        },
+        {
+          "id": "c",
+          "text": "霍金"
+        },
+        {
+          "id": "d",
+          "text": "狄拉克"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "狄拉克的相对论量子理论预言反电子，后来正电子被实验发现。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 12
+      }
+    },
+    {
+      "id": "astronomy-b-013",
+      "type": "single-choice",
+      "question": "金星浓密云层中的云滴主要含有什么？",
+      "options": [
+        {
+          "id": "a",
+          "text": "硫酸"
+        },
+        {
+          "id": "b",
+          "text": "盐酸"
+        },
+        {
+          "id": "c",
+          "text": "纯二氧化碳"
+        },
+        {
+          "id": "d",
+          "text": "普通水滴"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "金星云层主要包含硫酸液滴；其大气的主要气体则是二氧化碳。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 13
+      }
+    },
+    {
+      "id": "astronomy-b-014",
+      "type": "single-choice",
+      "question": "哈勃空间望远镜在哪一年发射？",
+      "options": [
+        {
+          "id": "a",
+          "text": "1990 年"
+        },
+        {
+          "id": "b",
+          "text": "1991 年"
+        },
+        {
+          "id": "c",
+          "text": "1992 年"
+        },
+        {
+          "id": "d",
+          "text": "1993 年"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "哈勃于 1990 年 4 月由发现号航天飞机送入地球轨道。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 14
+      }
+    },
+    {
+      "id": "astronomy-b-015",
+      "type": "single-choice",
+      "question": "哈勃空间望远镜部署初期距地面的轨道高度约为多少？",
+      "options": [
+        {
+          "id": "a",
+          "text": "400 km"
+        },
+        {
+          "id": "b",
+          "text": "500 km"
+        },
+        {
+          "id": "c",
+          "text": "600 km"
+        },
+        {
+          "id": "d",
+          "text": "700 km"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "哈勃部署初期高度约 600 km，之后轨道高度会下降；",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 15
+      }
+    },
+    {
+      "id": "astronomy-b-016",
+      "type": "single-choice",
+      "question": "哈勃空间望远镜主镜直径是多少？",
+      "options": [
+        {
+          "id": "a",
+          "text": "20 m"
+        },
+        {
+          "id": "b",
+          "text": "14 m"
+        },
+        {
+          "id": "c",
+          "text": "8.5 m"
+        },
+        {
+          "id": "d",
+          "text": "2.4 m"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "哈勃主镜直径为 2.4 米。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 16
+      }
+    },
+    {
+      "id": "astronomy-b-018",
+      "type": "single-choice",
+      "question": "描述天球上两个天体的视角距，通常使用哪类单位？",
+      "options": [
+        {
+          "id": "a",
+          "text": "光年"
+        },
+        {
+          "id": "b",
+          "text": "秒差距"
+        },
+        {
+          "id": "c",
+          "text": "天文单位"
+        },
+        {
+          "id": "d",
+          "text": "度、角分和角秒"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "视角距是方向之间的夹角，用角度单位，而不是实际空间距离单位。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 18
+      }
+    },
+    {
+      "id": "astronomy-b-020",
+      "type": "single-choice",
+      "question": "狮子座流星雨的母彗星是哪颗？",
+      "options": [
+        {
+          "id": "a",
+          "text": "坦普尔—塔特尔彗星"
+        },
+        {
+          "id": "b",
+          "text": "哈雷彗星"
+        },
+        {
+          "id": "c",
+          "text": "百武彗星"
+        },
+        {
+          "id": "d",
+          "text": "海尔—波普彗星"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "狮子座流星雨来自坦普尔—塔特尔彗星留下的碎屑。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 20
+      }
+    },
+    {
+      "id": "astronomy-b-022",
+      "type": "single-choice",
+      "question": "我国古代“长庚”指的是哪颗行星？",
+      "options": [
+        {
+          "id": "a",
+          "text": "水星"
+        },
+        {
+          "id": "b",
+          "text": "金星"
+        },
+        {
+          "id": "c",
+          "text": "火星"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "金星在傍晚出现时常称长庚，在清晨出现时常称启明。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 22
+      }
+    },
+    {
+      "id": "astronomy-b-023",
+      "type": "single-choice",
+      "question": "在中国大部分地区的冬季夜空，以下哪个星座最具代表性？",
+      "options": [
+        {
+          "id": "a",
+          "text": "大犬座"
+        },
+        {
+          "id": "b",
+          "text": "猎户座"
+        },
+        {
+          "id": "c",
+          "text": "双子座"
+        },
+        {
+          "id": "d",
+          "text": "金牛座"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "猎户座在北半球冬季夜空很醒目，腰带三星容易辨认。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 23
+      }
+    },
+    {
+      "id": "astronomy-b-024",
+      "type": "single-choice",
+      "question": "通常与 1608 年早期望远镜专利申请联系在一起的人是谁？",
+      "options": [
+        {
+          "id": "a",
+          "text": "亚当斯"
+        },
+        {
+          "id": "b",
+          "text": "汉斯·利珀希"
+        },
+        {
+          "id": "c",
+          "text": "伽利略"
+        },
+        {
+          "id": "d",
+          "text": "亚里士多德"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "汉斯·利珀希于 1608 年提交望远镜专利申请；发明归属有历史争议，伽利略不是最初发明者。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 24
+      }
+    },
+    {
+      "id": "astronomy-b-025",
+      "type": "single-choice",
+      "question": "银河系的恒星数量大致属于哪个量级？",
+      "options": [
+        {
+          "id": "a",
+          "text": "千亿颗量级"
+        },
+        {
+          "id": "b",
+          "text": "百万颗量级"
+        },
+        {
+          "id": "c",
+          "text": "百亿亿颗量级"
+        },
+        {
+          "id": "d",
+          "text": "几千颗"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "银河系包含约千亿至数千亿颗恒星，具体估计不确定，不能用过窄选项区间判题。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 25
+      }
+    },
+    {
+      "id": "astronomy-b-026",
+      "type": "single-choice",
+      "question": "谁早期通过望远镜发现了木星的四颗大卫星？",
+      "options": [
+        {
+          "id": "a",
+          "text": "牛顿"
+        },
+        {
+          "id": "b",
+          "text": "伽利略"
+        },
+        {
+          "id": "c",
+          "text": "开普勒"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "伽利略于 1610 年观测到木卫一、二、三、四，统称伽利略卫星。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 26
+      }
+    },
+    {
+      "id": "astronomy-b-027",
+      "type": "single-choice",
+      "question": "大型专业光学望远镜多数采用什么结构？",
+      "options": [
+        {
+          "id": "a",
+          "text": "折射式"
+        },
+        {
+          "id": "b",
+          "text": "反射式"
+        },
+        {
+          "id": "c",
+          "text": "必须为折反射式"
+        },
+        {
+          "id": "d",
+          "text": "仅按地平式分类"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "大型反射式望远镜用镜面收集光，便于制造和支撑大口径光学系统；地平式是安装方式。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 27
+      }
+    },
+    {
+      "id": "astronomy-b-028",
+      "type": "single-choice",
+      "question": "牛郎星位于哪个星座？",
+      "options": [
+        {
+          "id": "a",
+          "text": "金牛座"
+        },
+        {
+          "id": "b",
+          "text": "天鹰座"
+        },
+        {
+          "id": "c",
+          "text": "飞马座"
+        },
+        {
+          "id": "d",
+          "text": "天鹅座"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "牛郎星是天鹰座中的亮星。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 28
+      }
+    },
+    {
+      "id": "astronomy-b-029",
+      "type": "single-choice",
+      "question": "银河系主要恒星盘的直径大约是多少光年？",
+      "options": [
+        {
+          "id": "a",
+          "text": "不到 10 光年"
+        },
+        {
+          "id": "b",
+          "text": "1,000 光年"
+        },
+        {
+          "id": "c",
+          "text": "10 万光年"
+        },
+        {
+          "id": "d",
+          "text": "超过 1,000 万光年"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "银河系主要恒星盘直径约十万光年，稀疏外部结构和暗物质晕可以延伸更远。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 29
+      }
+    },
+    {
+      "id": "astronomy-b-030",
+      "type": "single-choice",
+      "question": "最早有明确记录的望远镜出现于哪个时期？",
+      "options": [
+        {
+          "id": "a",
+          "text": "13 世纪末"
+        },
+        {
+          "id": "b",
+          "text": "14 世纪末"
+        },
+        {
+          "id": "c",
+          "text": "17 世纪初"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "1608 年的荷兰望远镜记录属于 17 世纪初；",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 30
+      }
+    },
+    {
+      "id": "astronomy-b-031",
+      "type": "single-choice",
+      "question": "阿波罗计划中共有多少位宇航员在月球表面行走？",
+      "options": [
+        {
+          "id": "a",
+          "text": "10 位"
+        },
+        {
+          "id": "b",
+          "text": "12 位"
+        },
+        {
+          "id": "c",
+          "text": "14 位"
+        },
+        {
+          "id": "d",
+          "text": "16 位"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "1969—1972 年六次阿波罗登月，每次两人在月面活动，共十二人。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 31
+      }
+    },
+    {
+      "id": "astronomy-b-032",
+      "type": "single-choice",
+      "question": "太阳系八颗行星中，哪两颗没有天然卫星？",
+      "options": [
+        {
+          "id": "a",
+          "text": "水星和金星"
+        },
+        {
+          "id": "b",
+          "text": "火星和金星"
+        },
+        {
+          "id": "c",
+          "text": "水星和海王星"
+        },
+        {
+          "id": "d",
+          "text": "金星和海王星"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "水星和金星没有已知天然卫星；其他六颗行星都有天然卫星。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 32
+      }
+    },
+    {
+      "id": "astronomy-b-033",
+      "type": "single-choice",
+      "question": "以下关于土星的说法，哪项不正确？",
+      "options": [
+        {
+          "id": "a",
+          "text": "平均密度小于水"
+        },
+        {
+          "id": "b",
+          "text": "土卫六是太阳系最大的卫星"
+        },
+        {
+          "id": "c",
+          "text": "土星属于气态巨行星"
+        },
+        {
+          "id": "d",
+          "text": "土卫六有浓厚大气"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "太阳系最大的卫星是木卫三。土卫六有浓厚大气，但不是唯一具有气体包层的卫星。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 33
+      }
+    },
+    {
+      "id": "astronomy-b-034",
+      "type": "single-choice",
+      "question": "“从笔尖下发现的行星”通常指哪颗？",
+      "options": [
+        {
+          "id": "a",
+          "text": "土星"
+        },
+        {
+          "id": "b",
+          "text": "天王星"
+        },
+        {
+          "id": "c",
+          "text": "海王星"
+        },
+        {
+          "id": "d",
+          "text": "火星"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "天文学家先根据天王星轨道偏差计算未知行星位置，随后观测发现海王星。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 34
+      }
+    },
+    {
+      "id": "astronomy-b-035",
+      "type": "single-choice",
+      "question": "第一颗被发现的小行星是什么？",
+      "options": [
+        {
+          "id": "a",
+          "text": "灶神星"
+        },
+        {
+          "id": "b",
+          "text": "谷神星"
+        },
+        {
+          "id": "c",
+          "text": "智神星"
+        },
+        {
+          "id": "d",
+          "text": "婚神星"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "谷神星于 1801 年被发现，是首颗被发现的小行星，现在也属于矮行星。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 35
+      }
+    },
+    {
+      "id": "astronomy-b-036",
+      "type": "single-choice",
+      "question": "唐代《大衍历》的主要编制者是谁？",
+      "options": [
+        {
+          "id": "a",
+          "text": "一行"
+        },
+        {
+          "id": "b",
+          "text": "法海"
+        },
+        {
+          "id": "c",
+          "text": "果航"
+        },
+        {
+          "id": "d",
+          "text": "沈括"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "唐代僧人、天文学家一行主持编制《大衍历》。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 36
+      }
+    },
+    {
+      "id": "astronomy-b-037",
+      "type": "single-choice",
+      "question": "1976 年陨落的“吉林一号陨石”属于哪类陨石？",
+      "options": [
+        {
+          "id": "a",
+          "text": "石陨石"
+        },
+        {
+          "id": "b",
+          "text": "玻璃陨石"
+        },
+        {
+          "id": "c",
+          "text": "铁陨石"
+        },
+        {
+          "id": "d",
+          "text": "石铁陨石"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "吉林一号属于石陨石，是著名的大型石陨石。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 37
+      }
+    },
+    {
+      "id": "astronomy-b-038",
+      "type": "single-choice",
+      "question": "如果把地球直径缩为 1 cm，太阳直径约相当于多少？",
+      "options": [
+        {
+          "id": "a",
+          "text": "4 cm"
+        },
+        {
+          "id": "b",
+          "text": "1.1 m"
+        },
+        {
+          "id": "c",
+          "text": "20 m"
+        },
+        {
+          "id": "d",
+          "text": "400 m"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "太阳直径约为地球的 109 倍，因此同比例缩放后约 1.1 m；原花生和车轮大小不明确，改为定量比较。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 38
+      }
+    },
+    {
+      "id": "astronomy-b-039",
+      "type": "single-choice",
+      "question": "脉冲星通常是哪类天体？",
+      "options": [
+        {
+          "id": "a",
+          "text": "质子组成的普通气体云"
+        },
+        {
+          "id": "b",
+          "text": "快速旋转的中子星"
+        },
+        {
+          "id": "c",
+          "text": "电子组成的行星"
+        },
+        {
+          "id": "d",
+          "text": "普通原子组成的月球"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "脉冲星通常是有强磁场、快速旋转的中子星，转动时辐射束周期性扫过地球。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 39
+      }
+    },
+    {
+      "id": "astronomy-b-040",
+      "type": "single-choice",
+      "question": "以下哪颗行星的平均表面温度最高？",
+      "options": [
+        {
+          "id": "a",
+          "text": "水星"
+        },
+        {
+          "id": "b",
+          "text": "金星"
+        },
+        {
+          "id": "c",
+          "text": "地球"
+        },
+        {
+          "id": "d",
+          "text": "木星"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "金星浓厚的二氧化碳大气产生强温室效应，使其表面比水星更热。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 40
+      }
+    },
+    {
+      "id": "astronomy-b-041",
+      "type": "single-choice",
+      "question": "太阳黑子数量变化的主要周期约为多少年？",
+      "options": [
+        {
+          "id": "a",
+          "text": "33 年"
+        },
+        {
+          "id": "b",
+          "text": "5 年"
+        },
+        {
+          "id": "c",
+          "text": "11 年"
+        },
+        {
+          "id": "d",
+          "text": "20 年"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "太阳黑子数量大约以 11 年为周期变化；完整磁场极性循环约 22 年。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 41
+      }
+    },
+    {
+      "id": "astronomy-b-042",
+      "type": "single-choice",
+      "question": "英仙座流星雨的极大通常在几月？",
+      "options": [
+        {
+          "id": "a",
+          "text": "4 月"
+        },
+        {
+          "id": "b",
+          "text": "8 月"
+        },
+        {
+          "id": "c",
+          "text": "11 月"
+        },
+        {
+          "id": "d",
+          "text": "12 月"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "英仙座流星雨通常在每年 8 月达到极大。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 42
+      }
+    },
+    {
+      "id": "astronomy-b-043",
+      "type": "single-choice",
+      "question": "月食发生时，太阳、地球和月球的位置关系是什么？",
+      "options": [
+        {
+          "id": "a",
+          "text": "地球在太阳和月球之间"
+        },
+        {
+          "id": "b",
+          "text": "月球在太阳和地球之间"
+        },
+        {
+          "id": "c",
+          "text": "太阳在地球和月球之间"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "月食是月球进入地球影子，地球位于太阳和月球之间。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 43
+      }
+    },
+    {
+      "id": "astronomy-b-044",
+      "type": "single-choice",
+      "question": "关于恒星的真实空间运动，哪项正确？",
+      "options": [
+        {
+          "id": "a",
+          "text": "恒星永远固定不动"
+        },
+        {
+          "id": "b",
+          "text": "恒星也在运动"
+        },
+        {
+          "id": "c",
+          "text": "恒星有时完全停止运动"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "恒星也在空间中运动，只因距离遥远，多数恒星的相对位置短期变化不明显。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 44
+      }
+    },
+    {
+      "id": "astronomy-b-045",
+      "type": "single-choice",
+      "question": "以下哪个星座中，包含在北京全年可见的拱极星？",
+      "options": [
+        {
+          "id": "a",
+          "text": "天秤座"
+        },
+        {
+          "id": "b",
+          "text": "大熊座"
+        },
+        {
+          "id": "c",
+          "text": "狮子座"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "北京纬度较高，大熊座的部分亮星属于拱极星，全年不会落到地平线以下。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 45
+      }
+    },
+    {
+      "id": "astronomy-b-046",
+      "type": "single-choice",
+      "question": "以下哪组都属于黄道附近的传统星座？",
+      "options": [
+        {
+          "id": "a",
+          "text": "金牛座、狮子座、天蝎座"
+        },
+        {
+          "id": "b",
+          "text": "仙女座、天琴座、天鹰座"
+        },
+        {
+          "id": "c",
+          "text": "大熊座、小熊座、仙后座"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "金牛、狮子、天蝎都位于黄道附近。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 46
+      }
+    },
+    {
+      "id": "astronomy-b-047",
+      "type": "single-choice",
+      "question": "太阳现在的年龄约为多少？",
+      "options": [
+        {
+          "id": "a",
+          "text": "46 亿年"
+        },
+        {
+          "id": "b",
+          "text": "30 亿年"
+        },
+        {
+          "id": "c",
+          "text": "5,000 万年"
+        },
+        {
+          "id": "d",
+          "text": "100 亿年"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "太阳大约形成于 46 亿年前；",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 47
+      }
+    },
+    {
+      "id": "astronomy-b-048",
+      "type": "single-choice",
+      "question": "视星等 1 等的恒星与 6 等的恒星相比，看起来怎样？",
+      "options": [
+        {
+          "id": "a",
+          "text": "一样亮"
+        },
+        {
+          "id": "b",
+          "text": "亮得多"
+        },
+        {
+          "id": "c",
+          "text": "暗得多"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "视星等数值越小越亮，相差五等对应约一百倍亮度。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 48
+      }
+    },
+    {
+      "id": "astronomy-b-049",
+      "type": "single-choice",
+      "question": "一个人在地球上的质量是 60 kg，到月球后质量怎样变化？",
+      "options": [
+        {
+          "id": "a",
+          "text": "仍为 60 kg"
+        },
+        {
+          "id": "b",
+          "text": "变成 10 kg"
+        },
+        {
+          "id": "c",
+          "text": "变成 360 kg"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "质量不随地点改变，月球上的重力约为地球的六分之一。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 49
+      }
+    },
+    {
+      "id": "astronomy-b-050",
+      "type": "single-choice",
+      "question": "我国古代把木星称为什么？",
+      "options": [
+        {
+          "id": "a",
+          "text": "岁星"
+        },
+        {
+          "id": "b",
+          "text": "镇星"
+        },
+        {
+          "id": "c",
+          "text": "长庚"
+        },
+        {
+          "id": "d",
+          "text": "荧惑"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "木星称岁星，土星称镇星，金星称长庚或启明，火星称荧惑。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 50
+      }
+    },
+    {
+      "id": "astronomy-b-051",
+      "type": "single-choice",
+      "question": "火星极冠包含哪些主要冰类物质？",
+      "options": [
+        {
+          "id": "a",
+          "text": "只有水冰"
+        },
+        {
+          "id": "b",
+          "text": "只有干冰"
+        },
+        {
+          "id": "c",
+          "text": "只有氮冰"
+        },
+        {
+          "id": "d",
+          "text": "水冰与二氧化碳冰"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "火星极冠包含水冰和二氧化碳冰，组成随极区、层次和季节变化；不能简单把两极都说成只有干冰。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 51
+      }
+    },
+    {
+      "id": "astronomy-b-052",
+      "type": "single-choice",
+      "question": "以下哪个星座与狮子座相邻？",
+      "options": [
+        {
+          "id": "a",
+          "text": "金牛座"
+        },
+        {
+          "id": "b",
+          "text": "巨蟹座"
+        },
+        {
+          "id": "c",
+          "text": "小熊座"
+        },
+        {
+          "id": "d",
+          "text": "猎户座"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "巨蟹座与狮子座相邻，也都在黄道附近。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 52
+      }
+    },
+    {
+      "id": "astronomy-b-053",
+      "type": "single-choice",
+      "question": "比较蓝色恒星和红色恒星，蓝色恒星通常具有哪个特点？",
+      "options": [
+        {
+          "id": "a",
+          "text": "一定更年老"
+        },
+        {
+          "id": "b",
+          "text": "一定质量更小"
+        },
+        {
+          "id": "c",
+          "text": "一定重元素更少"
+        },
+        {
+          "id": "d",
+          "text": "表面温度更高"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "蓝色通常反映较高表面温度，不能仅靠颜色断言年龄或化学组成。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 53
+      }
+    },
+    {
+      "id": "astronomy-b-054",
+      "type": "single-choice",
+      "question": "金星大气中的二氧化碳约占多少？",
+      "options": [
+        {
+          "id": "a",
+          "text": "50%"
+        },
+        {
+          "id": "b",
+          "text": "72%"
+        },
+        {
+          "id": "c",
+          "text": "88%"
+        },
+        {
+          "id": "d",
+          "text": "96%"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "金星大气约 96.5% 为二氧化碳；",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 54
+      }
+    },
+    {
+      "id": "astronomy-b-055",
+      "type": "single-choice",
+      "question": "以下哪颗恒星是一颗处于晚期演化的红超巨星？",
+      "options": [
+        {
+          "id": "a",
+          "text": "天狼星"
+        },
+        {
+          "id": "b",
+          "text": "织女星"
+        },
+        {
+          "id": "c",
+          "text": "参宿四"
+        },
+        {
+          "id": "d",
+          "text": "南门二"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "参宿四位于猎户座，是著名的红超巨星。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 55
+      }
+    },
+    {
+      "id": "astronomy-b-056",
+      "type": "single-choice",
+      "question": "儒略历起源于哪个古代文明？",
+      "options": [
+        {
+          "id": "a",
+          "text": "古巴比伦"
+        },
+        {
+          "id": "b",
+          "text": "古代中国"
+        },
+        {
+          "id": "c",
+          "text": "古罗马"
+        },
+        {
+          "id": "d",
+          "text": "古埃及"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "儒略历由古罗马儒略·凯撒推行，是后来格里历的重要前身。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 56
+      }
+    },
+    {
+      "id": "astronomy-b-057",
+      "type": "single-choice",
+      "question": "农历设置闰月主要依据什么规则？",
+      "options": [
+        {
+          "id": "a",
+          "text": "固定每年加第十三个月"
+        },
+        {
+          "id": "b",
+          "text": "严格每八年三闰"
+        },
+        {
+          "id": "c",
+          "text": "根据朔和中气安排闰月"
+        },
+        {
+          "id": "d",
+          "text": "每四百年九十七个闰月"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "现行农历结合朔和节气的中气安排闰月。“十九年七闰”是近似规律，不是现代农历严格固定的周期。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 57
+      }
+    },
+    {
+      "id": "astronomy-b-058",
+      "type": "single-choice",
+      "question": "以下哪个选项是银河系附近著名的卫星星系？",
+      "options": [
+        {
+          "id": "a",
+          "text": "仙女座大星系"
+        },
+        {
+          "id": "b",
+          "text": "三角座星系"
+        },
+        {
+          "id": "c",
+          "text": "涡状星系"
+        },
+        {
+          "id": "d",
+          "text": "大、小麦哲伦星系"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "大、小麦哲伦星系是银河系的近邻卫星星系，但不是严格意义上最近的河外星系。原问法不准确，重新限定范围。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 58
+      }
+    },
+    {
+      "id": "astronomy-b-059",
+      "type": "single-choice",
+      "question": "梅西耶天体 M51 位于哪个星座？",
+      "options": [
+        {
+          "id": "a",
+          "text": "大熊座"
+        },
+        {
+          "id": "b",
+          "text": "小熊座"
+        },
+        {
+          "id": "c",
+          "text": "巨蟹座"
+        },
+        {
+          "id": "d",
+          "text": "猎犬座"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "M51 即涡状星系，位于猎犬座。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 59
+      }
+    },
+    {
+      "id": "astronomy-b-061",
+      "type": "single-choice",
+      "question": "仅考虑利用地球自转助力、向东发射且其他条件相同，以下哪个地点较有利？",
+      "options": [
+        {
+          "id": "a",
+          "text": "酒泉"
+        },
+        {
+          "id": "b",
+          "text": "西昌"
+        },
+        {
+          "id": "c",
+          "text": "北京"
+        },
+        {
+          "id": "d",
+          "text": "海南"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "海南纬度最低，自转线速度较大，向东发射可获得较大的速度助力；实际任务还取决于目标轨道等条件。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 61
+      }
+    },
+    {
+      "id": "astronomy-b-063",
+      "type": "single-choice",
+      "question": "以下哪种是中国的天文科普刊物？",
+      "options": [
+        {
+          "id": "a",
+          "text": "天空与望远镜"
+        },
+        {
+          "id": "b",
+          "text": "星光快讯"
+        },
+        {
+          "id": "c",
+          "text": "天文爱好者"
+        },
+        {
+          "id": "d",
+          "text": "天文馆研究"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "《天文爱好者》是中国的天文科普刊物；不把",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 63
+      }
+    },
+    {
+      "id": "astronomy-b-064",
+      "type": "single-choice",
+      "question": "短时间内天空背景变亮，金星显得不那么醒目时，金星本身的视星等一定改变吗？",
+      "options": [
+        {
+          "id": "a",
+          "text": "不一定，可能主要是背景亮度变化"
+        },
+        {
+          "id": "b",
+          "text": "一定变得更亮"
+        },
+        {
+          "id": "c",
+          "text": "一定完全不发光"
+        },
+        {
+          "id": "d",
+          "text": "一定相差十个星等"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "背景亮度改变会影响辨认难度；大气消光也会影响地面测得亮度，不能把天气变化解释为金星固有亮度变化。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 64
+      }
+    },
+    {
+      "id": "astronomy-b-065",
+      "type": "single-choice",
+      "question": "一般流星发光的高度与民航飞机巡航高度相比怎样？",
+      "options": [
+        {
+          "id": "a",
+          "text": "更低"
+        },
+        {
+          "id": "b",
+          "text": "差不多"
+        },
+        {
+          "id": "c",
+          "text": "约高一个数量级"
+        },
+        {
+          "id": "d",
+          "text": "一定高一千倍"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "流星通常在数十到一百多公里高处发光，民航飞机巡航约十公里，因此约高一个数量级。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 65
+      }
+    },
+    {
+      "id": "astronomy-b-066",
+      "type": "single-choice",
+      "question": "2004 年发现的塞德娜，以下哪项是它轨道的显著特点？",
+      "options": [
+        {
+          "id": "a",
+          "text": "近日点远在海王星轨道之外"
+        },
+        {
+          "id": "b",
+          "text": "轨道在地球轨道以内"
+        },
+        {
+          "id": "c",
+          "text": "不绕太阳运动"
+        },
+        {
+          "id": "d",
+          "text": "每一年绕太阳一周"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "塞德娜具有非常遥远的近日点。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 66
+      }
+    },
+    {
+      "id": "astronomy-b-069",
+      "type": "single-choice",
+      "question": "狮子座流星雨的极大通常出现在几月？",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 月"
+        },
+        {
+          "id": "b",
+          "text": "4 月"
+        },
+        {
+          "id": "c",
+          "text": "8 月"
+        },
+        {
+          "id": "d",
+          "text": "11 月"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "狮子座流星雨通常于 11 月中旬达到极大。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 69
+      }
+    },
+    {
+      "id": "astronomy-b-070",
+      "type": "single-choice",
+      "question": "在北半球，北极星的地平高度与观测者的地理纬度大致有什么关系？",
+      "options": [
+        {
+          "id": "a",
+          "text": "大致相等"
+        },
+        {
+          "id": "b",
+          "text": "总是明显更大"
+        },
+        {
+          "id": "c",
+          "text": "总是明显更小"
+        },
+        {
+          "id": "d",
+          "text": "完全无关"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "北极星接近北天极，其地平高度近似等于地理纬度，精确测量还需修正偏差和折射。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#B",
+        "number": 70
+      }
+    },
+    {
+      "id": "astronomy-c-002",
+      "type": "single-choice",
+      "question": "比邻星离地球大约多远？",
+      "options": [
+        {
+          "id": "a",
+          "text": "3.1 光年"
+        },
+        {
+          "id": "b",
+          "text": "4.3 光年"
+        },
+        {
+          "id": "c",
+          "text": "15 光年"
+        },
+        {
+          "id": "d",
+          "text": "25 光年"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "比邻星距离约 4.24 光年，4.3 光年是选项中最接近的近似值。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#C",
+        "number": 2
+      }
+    },
+    {
+      "id": "astronomy-c-003",
+      "type": "single-choice",
+      "question": "以下哪一宿属于东方苍龙七宿？",
+      "options": [
+        {
+          "id": "a",
+          "text": "参宿"
+        },
+        {
+          "id": "b",
+          "text": "柳宿"
+        },
+        {
+          "id": "c",
+          "text": "鬼宿"
+        },
+        {
+          "id": "d",
+          "text": "心宿"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "东方苍龙七宿为角、亢、氐、房、心、尾、箕。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#C",
+        "number": 3
+      }
+    },
+    {
+      "id": "astronomy-c-005",
+      "type": "single-choice",
+      "question": "按照格里历规则，哪组年份都是闰年？",
+      "options": [
+        {
+          "id": "a",
+          "text": "1890 年、2000 年"
+        },
+        {
+          "id": "b",
+          "text": "1900 年、2000 年"
+        },
+        {
+          "id": "c",
+          "text": "1972 年、2008 年"
+        },
+        {
+          "id": "d",
+          "text": "1998 年、2002 年"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "通常能被 4 整除的是闰年，但整百年必须能被 400 整除，因此 1900 年不是闰年。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#C",
+        "number": 5
+      }
+    },
+    {
+      "id": "astronomy-c-006",
+      "type": "single-choice",
+      "question": "太阳目前年龄及继续处于主序阶段的时间，大约各是多少？",
+      "options": [
+        {
+          "id": "a",
+          "text": "10 亿年、50 亿年"
+        },
+        {
+          "id": "b",
+          "text": "30 亿年、30 亿年"
+        },
+        {
+          "id": "c",
+          "text": "46 亿年、50 亿年"
+        },
+        {
+          "id": "d",
+          "text": "50 亿年、10 亿年"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "太阳约 46 亿岁，主序阶段大约还会持续 50 亿年。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#C",
+        "number": 6
+      }
+    },
+    {
+      "id": "astronomy-c-007",
+      "type": "single-choice",
+      "question": "制造候风地动仪的中国古代科学家是谁？",
+      "options": [
+        {
+          "id": "a",
+          "text": "沈括"
+        },
+        {
+          "id": "b",
+          "text": "张衡"
+        },
+        {
+          "id": "c",
+          "text": "郭守敬"
+        },
+        {
+          "id": "d",
+          "text": "一行"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "东汉张衡制造了候风地动仪；",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#C",
+        "number": 7
+      }
+    },
+    {
+      "id": "astronomy-c-008",
+      "type": "single-choice",
+      "question": "在北京，以下哪一个星座靠近北天极、全年可见？",
+      "options": [
+        {
+          "id": "a",
+          "text": "天琴座"
+        },
+        {
+          "id": "b",
+          "text": "狮子座"
+        },
+        {
+          "id": "c",
+          "text": "北冕座"
+        },
+        {
+          "id": "d",
+          "text": "小熊座"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "小熊座位于北天极附近，在北京属于拱极星区。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#C",
+        "number": 8
+      }
+    },
+    {
+      "id": "astronomy-c-009",
+      "type": "single-choice",
+      "question": "奥林帕斯山这座太阳系著名的高大火山位于哪颗行星？",
+      "options": [
+        {
+          "id": "a",
+          "text": "金星"
+        },
+        {
+          "id": "b",
+          "text": "地球"
+        },
+        {
+          "id": "c",
+          "text": "火星"
+        },
+        {
+          "id": "d",
+          "text": "木星"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "奥林帕斯山位于火星，是太阳系最高大的火山之一。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#C",
+        "number": 9
+      }
+    },
+    {
+      "id": "astronomy-c-010",
+      "type": "single-choice",
+      "question": "哪颗行星的自转轴倾角接近 98°，常被形容为“躺着转”？",
+      "options": [
+        {
+          "id": "a",
+          "text": "木星"
+        },
+        {
+          "id": "b",
+          "text": "土星"
+        },
+        {
+          "id": "c",
+          "text": "天王星"
+        },
+        {
+          "id": "d",
+          "text": "海王星"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "天王星自转轴倾角约 98°，显著不同于多数行星。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#C",
+        "number": 10
+      }
+    },
+    {
+      "id": "astronomy-c-011",
+      "type": "single-choice",
+      "question": "恒星每天大致东升西落的周日视运动，主要反映地球的什么运动？",
+      "options": [
+        {
+          "id": "a",
+          "text": "公转"
+        },
+        {
+          "id": "b",
+          "text": "自转"
+        },
+        {
+          "id": "c",
+          "text": "绕银河系中心运动"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "地球自转造成天体的周日视运动。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#C",
+        "number": 11
+      }
+    },
+    {
+      "id": "astronomy-c-012",
+      "type": "single-choice",
+      "question": "1994 年撞击木星的彗星是哪颗？",
+      "options": [
+        {
+          "id": "a",
+          "text": "百武彗星"
+        },
+        {
+          "id": "b",
+          "text": "哈雷彗星"
+        },
+        {
+          "id": "c",
+          "text": "海尔—波普彗星"
+        },
+        {
+          "id": "d",
+          "text": "苏梅克—列维 9 号彗星"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "苏梅克—列维 9 号彗星碎片于 1994 年撞击木星。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#C",
+        "number": 12
+      }
+    },
+    {
+      "id": "astronomy-c-013",
+      "type": "single-choice",
+      "question": "轩辕十四位于哪个星座？",
+      "options": [
+        {
+          "id": "a",
+          "text": "仙王座"
+        },
+        {
+          "id": "b",
+          "text": "大熊座"
+        },
+        {
+          "id": "c",
+          "text": "狮子座"
+        },
+        {
+          "id": "d",
+          "text": "天琴座"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "轩辕十四是狮子座中的亮星，也称狮子座 α 星。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#C",
+        "number": 13
+      }
+    },
+    {
+      "id": "astronomy-c-014",
+      "type": "single-choice",
+      "question": "现代天文学把全天划分为多少个星座？",
+      "options": [
+        {
+          "id": "a",
+          "text": "28 个"
+        },
+        {
+          "id": "b",
+          "text": "88 个"
+        },
+        {
+          "id": "c",
+          "text": "108 个"
+        },
+        {
+          "id": "d",
+          "text": "160 个"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "国际天文学联合会把全天划分为 88 个星座。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#C",
+        "number": 14
+      }
+    },
+    {
+      "id": "astronomy-c-015",
+      "type": "single-choice",
+      "question": "中秋节前后的满月通常在什么时候升起？",
+      "options": [
+        {
+          "id": "a",
+          "text": "子夜前后"
+        },
+        {
+          "id": "b",
+          "text": "日出前后"
+        },
+        {
+          "id": "c",
+          "text": "中午前后"
+        },
+        {
+          "id": "d",
+          "text": "日落前后"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "满月与太阳在天球上大致相对，因此通常在日落前后升起，具体时刻随日期和地点变化。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#C",
+        "number": 15
+      }
+    },
+    {
+      "id": "astronomy-c-016",
+      "type": "single-choice",
+      "question": "哪个天体的周年视路径定义了黄道？",
+      "options": [
+        {
+          "id": "a",
+          "text": "北极星"
+        },
+        {
+          "id": "b",
+          "text": "太阳"
+        },
+        {
+          "id": "c",
+          "text": "月球"
+        },
+        {
+          "id": "d",
+          "text": "所有小行星"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "黄道是太阳在天球上的周年视运动路径。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#C",
+        "number": 16
+      }
+    },
+    {
+      "id": "astronomy-c-017",
+      "type": "single-choice",
+      "question": "昴星团位于哪个星座？",
+      "options": [
+        {
+          "id": "a",
+          "text": "武仙座"
+        },
+        {
+          "id": "b",
+          "text": "仙女座"
+        },
+        {
+          "id": "c",
+          "text": "双子座"
+        },
+        {
+          "id": "d",
+          "text": "金牛座"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "昴星团位于金牛座，是著名的疏散星团。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#C",
+        "number": 17
+      }
+    },
+    {
+      "id": "astronomy-c-018",
+      "type": "single-choice",
+      "question": "M42 猎户座大星云位于哪个星座？",
+      "options": [
+        {
+          "id": "a",
+          "text": "金牛座"
+        },
+        {
+          "id": "b",
+          "text": "天蝎座"
+        },
+        {
+          "id": "c",
+          "text": "大熊座"
+        },
+        {
+          "id": "d",
+          "text": "猎户座"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "M42 位于猎户座，是著名的恒星形成区。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#C",
+        "number": 18
+      }
+    },
+    {
+      "id": "astronomy-c-019",
+      "type": "single-choice",
+      "question": "假设从木星附近观测，以下哪种现象不可能发生？",
+      "options": [
+        {
+          "id": "a",
+          "text": "地球西大距"
+        },
+        {
+          "id": "b",
+          "text": "土星凌日"
+        },
+        {
+          "id": "c",
+          "text": "火星凌日"
+        },
+        {
+          "id": "d",
+          "text": "海王星冲日"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "土星的轨道在木星之外，不能从木星看见土星从太阳圆面前通过。其他选项在适当几何条件下可能出现。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#C",
+        "number": 19
+      }
+    },
+    {
+      "id": "astronomy-c-020",
+      "type": "single-choice",
+      "question": "以下哪组都是类地行星？",
+      "options": [
+        {
+          "id": "a",
+          "text": "水星、火星"
+        },
+        {
+          "id": "b",
+          "text": "水星、土星"
+        },
+        {
+          "id": "c",
+          "text": "火星、土星"
+        },
+        {
+          "id": "d",
+          "text": "水星、天王星"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "类地行星包括水星、金星、地球和火星。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#C",
+        "number": 20
+      }
+    },
+    {
+      "id": "astronomy-c-023",
+      "type": "single-choice",
+      "question": "以下哪颗行星的自转方向与地球相反？",
+      "options": [
+        {
+          "id": "a",
+          "text": "水星"
+        },
+        {
+          "id": "b",
+          "text": "金星"
+        },
+        {
+          "id": "c",
+          "text": "火星"
+        },
+        {
+          "id": "d",
+          "text": "木星"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "金星逆向自转；天王星也常归为逆向自转。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#C",
+        "number": 23
+      }
+    },
+    {
+      "id": "astronomy-c-024",
+      "type": "single-choice",
+      "question": "①荧惑 ②太白 ③岁星 ④镇星 ⑤启明中，哪两个名称指金星？",
+      "options": [
+        {
+          "id": "a",
+          "text": "③和④"
+        },
+        {
+          "id": "b",
+          "text": "①和②"
+        },
+        {
+          "id": "c",
+          "text": "②和⑤"
+        },
+        {
+          "id": "d",
+          "text": "①和③"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "太白和启明都指金星，荧惑指火星，岁星指木星，镇星指土星。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#C",
+        "number": 24
+      }
+    },
+    {
+      "id": "astronomy-c-025",
+      "type": "single-choice",
+      "question": "“伽利略卫星”指哪组卫星？",
+      "options": [
+        {
+          "id": "a",
+          "text": "土卫一至四"
+        },
+        {
+          "id": "b",
+          "text": "木卫一至四"
+        },
+        {
+          "id": "c",
+          "text": "土卫五至八"
+        },
+        {
+          "id": "d",
+          "text": "木卫五至八"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "木卫一、二、三、四是木星的四颗大卫星，统称伽利略卫星。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#C",
+        "number": 25
+      }
+    },
+    {
+      "id": "astronomy-c-026",
+      "type": "single-choice",
+      "question": "以下关于外太阳系天体的说法，哪项不正确？",
+      "options": [
+        {
+          "id": "a",
+          "text": "天王星是八颗行星中离太阳最远的"
+        },
+        {
+          "id": "b",
+          "text": "海王星有环"
+        },
+        {
+          "id": "c",
+          "text": "天王星有显著的季节变化"
+        },
+        {
+          "id": "d",
+          "text": "冥王星属于矮行星"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "八颗行星中最远的是海王星。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#C",
+        "number": 26
+      }
+    },
+    {
+      "id": "astronomy-c-029",
+      "type": "single-choice",
+      "question": "以下哪条古代记录通常与公元前 613 年的哈雷彗星回归联系起来？",
+      "options": [
+        {
+          "id": "a",
+          "text": "《春秋》“星陨如雨”"
+        },
+        {
+          "id": "b",
+          "text": "《汉书》“客星见于房”"
+        },
+        {
+          "id": "c",
+          "text": "甲骨文“有新大星并火”"
+        },
+        {
+          "id": "d",
+          "text": "《春秋》“有星孛入于北斗”"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "“有星孛入于北斗”是常被联系到哈雷彗星的早期记录；与公元前 240 年较明确记录的证据强度不同。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#C",
+        "number": 29
+      }
+    },
+    {
+      "id": "astronomy-c-030",
+      "type": "single-choice",
+      "question": "中国古代利用水量重量变化来计时的仪器叫什么？",
+      "options": [
+        {
+          "id": "a",
+          "text": "天秤"
+        },
+        {
+          "id": "b",
+          "text": "普通水杯"
+        },
+        {
+          "id": "c",
+          "text": "窥衡"
+        },
+        {
+          "id": "d",
+          "text": "秤漏"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "秤漏利用流入或流出水的重量变化指示时间。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#C",
+        "number": 30
+      }
+    },
+    {
+      "id": "astronomy-s-001",
+      "type": "single-choice",
+      "question": "通常在公历 11 月 22 日前后到来的节气是哪一个？",
+      "options": [
+        {
+          "id": "a",
+          "text": "立冬"
+        },
+        {
+          "id": "b",
+          "text": "小雪"
+        },
+        {
+          "id": "c",
+          "text": "大雪"
+        },
+        {
+          "id": "d",
+          "text": "冬至"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "小雪通常在 11 月 22 日或 23 日到来；",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#S",
+        "number": 1
+      }
+    },
+    {
+      "id": "astronomy-s-002",
+      "type": "single-choice",
+      "question": "哪一年被联合国确定为国际天文年？",
+      "options": [
+        {
+          "id": "a",
+          "text": "2007 年"
+        },
+        {
+          "id": "b",
+          "text": "2008 年"
+        },
+        {
+          "id": "c",
+          "text": "2009 年"
+        },
+        {
+          "id": "d",
+          "text": "2010 年"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "2009 年国际天文年纪念伽利略把望远镜用于天文观测 400 周年。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#S",
+        "number": 2
+      }
+    },
+    {
+      "id": "astronomy-s-003",
+      "type": "single-choice",
+      "question": "陈—高彗星的编号是什么？",
+      "options": [
+        {
+          "id": "a",
+          "text": "C/2008 C1"
+        },
+        {
+          "id": "b",
+          "text": "2008 TC3"
+        },
+        {
+          "id": "c",
+          "text": "PSR 1919+21"
+        },
+        {
+          "id": "d",
+          "text": "NGC 224"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "陈—高彗星编号为 C/2008 C1，由陈韬和高兴发现；",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#S",
+        "number": 3
+      }
+    },
+    {
+      "id": "astronomy-s-004",
+      "type": "single-choice",
+      "question": "以下哪座月球环形山以醒目的辐射纹著称？",
+      "options": [
+        {
+          "id": "a",
+          "text": "哥白尼环形山"
+        },
+        {
+          "id": "b",
+          "text": "第谷环形山"
+        },
+        {
+          "id": "c",
+          "text": "开普勒环形山"
+        },
+        {
+          "id": "d",
+          "text": "柏拉图环形山"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "第谷环形山有很醒目的亮色辐射纹。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#S",
+        "number": 4
+      }
+    },
+    {
+      "id": "astronomy-s-005",
+      "type": "single-choice",
+      "question": "木星和土星大气中含量最多的气体是什么？",
+      "options": [
+        {
+          "id": "a",
+          "text": "氢气"
+        },
+        {
+          "id": "b",
+          "text": "氮气"
+        },
+        {
+          "id": "c",
+          "text": "氧气"
+        },
+        {
+          "id": "d",
+          "text": "二氧化碳"
+        }
+      ],
+      "answer": ["a"],
+      "explanation": "木星和土星的大气主要含氢和氦，氢占主导；限定为气态巨行星，避免混用冰巨行星分类。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#S",
+        "number": 5
+      }
+    },
+    {
+      "id": "astronomy-s-006",
+      "type": "multiple-choice",
+      "question": "在配有正确安装的专业太阳滤光设备或专用投影装置时，哪些方法可用于观测太阳黑子？",
+      "options": [
+        {
+          "id": "a",
+          "text": "使用合格太阳滤光设备的目视观测"
+        },
+        {
+          "id": "b",
+          "text": "使用合格太阳滤光设备的照相观测"
+        },
+        {
+          "id": "c",
+          "text": "使用专用太阳投影装置的投影观测"
+        },
+        {
+          "id": "d",
+          "text": "普通无线电接收机直接显示黑子图像"
+        }
+      ],
+      "answer": ["a", "b", "c"],
+      "explanation": "黑子可通过专用滤光目视、拍照或合适投影观测。绝不能直接用眼睛或未滤光的望远镜看太阳，太阳镜不能替代太阳专用滤光设备。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#S",
+        "number": 6
+      }
+    },
+    {
+      "id": "astronomy-s-007",
+      "type": "multiple-choice",
+      "question": "以下哪些方法可用于业余流星雨观测？",
+      "options": [
+        {
+          "id": "a",
+          "text": "目视观测"
+        },
+        {
+          "id": "b",
+          "text": "照相观测"
+        },
+        {
+          "id": "c",
+          "text": "把流星投影到纸上观测"
+        },
+        {
+          "id": "d",
+          "text": "接收流星无线电散射信号"
+        }
+      ],
+      "answer": ["a", "b", "d"],
+      "explanation": "流星雨可目视计数、摄影，也可通过专门设备接收无线电散射信号；太阳投影法不适用于流星雨。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#S",
+        "number": 7
+      }
+    },
+    {
+      "id": "astronomy-s-008",
+      "type": "multiple-choice",
+      "question": "观察水星或金星这样的内行星，以下哪些时期通常比合日时更有利？",
+      "options": [
+        {
+          "id": "a",
+          "text": "东大距附近"
+        },
+        {
+          "id": "b",
+          "text": "西大距附近"
+        },
+        {
+          "id": "c",
+          "text": "上合日附近"
+        },
+        {
+          "id": "d",
+          "text": "下合日附近"
+        }
+      ],
+      "answer": ["a", "b"],
+      "explanation": "大距附近内行星与太阳的角距离较大；东大距利于傍晚观测，西大距利于清晨观测。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#S",
+        "number": 8
+      }
+    },
+    {
+      "id": "astronomy-s-009",
+      "type": "single-choice",
+      "question": "常用梅西耶天体表收录多少个天体？",
+      "options": [
+        {
+          "id": "a",
+          "text": "88 个"
+        },
+        {
+          "id": "b",
+          "text": "100 个"
+        },
+        {
+          "id": "c",
+          "text": "110 个"
+        },
+        {
+          "id": "d",
+          "text": "200 个"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "常用梅西耶天体表包含 M1 至 M110，共 110 个；",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#S",
+        "number": 9
+      }
+    },
+    {
+      "id": "astronomy-s-010",
+      "type": "single-choice",
+      "question": "在北半球中纬度，梅西耶马拉松通常在哪个月的新月附近举行？",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 月"
+        },
+        {
+          "id": "b",
+          "text": "3 月"
+        },
+        {
+          "id": "c",
+          "text": "6 月"
+        },
+        {
+          "id": "d",
+          "text": "12 月"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "3 月前后的无月夜通常较适合尽可能多地观测梅西耶天体；",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#S",
+        "number": 10
+      }
+    },
+    {
+      "id": "astronomy-s-011",
+      "type": "single-choice",
+      "question": "以下关于日食、月食的说法，哪项不正确？",
+      "options": [
+        {
+          "id": "a",
+          "text": "日食发生在朔"
+        },
+        {
+          "id": "b",
+          "text": "月食发生在望"
+        },
+        {
+          "id": "c",
+          "text": "月食一定发生在农历十五"
+        },
+        {
+          "id": "d",
+          "text": "月食可以是半影月食"
+        }
+      ],
+      "answer": ["c"],
+      "explanation": "月食发生在满月附近，但农历日期可为十五或十六等，不能限定为十五。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#S",
+        "number": 11
+      }
+    },
+    {
+      "id": "astronomy-s-012",
+      "type": "single-choice",
+      "question": "金星作为“昏星”出现时，通常在什么时候、哪个方向观测？",
+      "options": [
+        {
+          "id": "a",
+          "text": "日出前东方"
+        },
+        {
+          "id": "b",
+          "text": "日出前西方"
+        },
+        {
+          "id": "c",
+          "text": "日落后东方"
+        },
+        {
+          "id": "d",
+          "text": "日落后西方"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "昏星是傍晚在西方天空可见的金星，晨星则在清晨东方；",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#S",
+        "number": 12
+      }
+    },
+    {
+      "id": "astronomy-s-013",
+      "type": "single-choice",
+      "question": "《诗经》“七月流火”中的“火”指哪个天体？",
+      "options": [
+        {
+          "id": "a",
+          "text": "火星"
+        },
+        {
+          "id": "b",
+          "text": "流星"
+        },
+        {
+          "id": "c",
+          "text": "太阳"
+        },
+        {
+          "id": "d",
+          "text": "心宿二"
+        }
+      ],
+      "answer": ["d"],
+      "explanation": "“火”指大火星心宿二，诗句描述它在季节变化中逐渐西移，不是在说天气炎热。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#S",
+        "number": 13
+      }
+    },
+    {
+      "id": "astronomy-s-014",
+      "type": "single-choice",
+      "question": "17 世纪尝试用亮度比较估计天狼星距离的科学家是谁？",
+      "options": [
+        {
+          "id": "a",
+          "text": "牛顿"
+        },
+        {
+          "id": "b",
+          "text": "惠更斯"
+        },
+        {
+          "id": "c",
+          "text": "卡西尼"
+        },
+        {
+          "id": "d",
+          "text": "哈雷"
+        }
+      ],
+      "answer": ["b"],
+      "explanation": "惠更斯曾比较天狼星与太阳的亮度，尝试估计恒星距离；这种方法依赖恒星本征亮度的假设。",
+      "source": {
+        "file": "(完整版)天文知识竞赛题目(附答案).pdf#S",
+        "number": 14
+      }
     }
   ]
 }
